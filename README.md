@@ -6,7 +6,7 @@
 
 - This script takes two arguments, the first argument is the **keyword** **(e.g., java)** you want to search on ZipRecruiter, the second argument is the **number of pages (e.g., 1-25)** you want to crawl. 
 - Each page has approximately 20 job postings.
-- I tested searchign **java** and **python**, each search returned 25 pages, no more.
+- I tested searching **java** and **python**, each search returned 25 pages, no more.
 
 ## Getting started
 
@@ -28,3 +28,7 @@ pip install -r requirements.txt  # install requirements
 python3 zip_crawler.py java 10
 ```
 
+## Notes
+
+- The crawled file is named by **<keyworkd+epoch time>.txt**
+- Theorically there should be 500 crawled files in the dataset directory, we have 434 as part of the job postings no longer exists
