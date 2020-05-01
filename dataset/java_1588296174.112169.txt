@@ -1,0 +1,54 @@
+Title: Principal Java Software Engineer | Oracle Cloud LCM
+Company: Oracle Corporation
+Location: San Francisco, CA
+Type: Full-Time
+
+Oracle Cloud (https://www.oracle.com/cloud/index.html)
+ is looking for the best and brightest technologists as we add 
+customer-centric and world-class solutions throughout the cloud stack. 
+Oracle Cloud applications, such as Human Capital Management, Enterprise 
+Resource Management, Customer Relationship Management and Supply Chain 
+Management provide adaptive intelligence, standardized business 
+processes and competitive advantage for thousands of customers across 
+the globe.
+Oracle SaaS applications (https://www.oracle.com/cloud/saas-suite.html)
+ serve some of the largest enterprise customers in the world. It is low 
+cost, hyper-scaled, and the clear leader in this space. LifeCycle 
+Management (LCM) enables Oracle SaaS applications for customers. LCM is a
+ set of automated frameworks and technologies that provision, upgrade, 
+and patch customer environments. It also provides mission critical 
+operations capabilities such as Data Recovery, Production to Test, 
+Cloning, and Security Management.
+Oracle SaaS LCM team is 
+looking for passionate, innovative, team oriented problem solvers, who 
+are seeking a major part in the transformative revolution of the modern 
+cloud-based business applications. We are seeking best in the world 
+developers, architects, and technical leaders; those who seek and 
+implement imaginative and strategic solutions to large scale and complex
+ customer problems; those who calmly take measured and necessary risks 
+while always putting customers first; and those who thrive with 
+ownership and accountability in such an environment.
+We are seeking hands-on principal level Java Engineer.  You will be 
+using Java, Python, RESTful API, Docker, and more, in a DevOps, CI/CD, 
+agile development environment. You will have a major impact on Oracle's 
+business by transforming how Oracle's SaaS/Cloud applications are 
+delivered and maintained for enterprises.
+Job Requirements:
+- BS or MS degree in computer science, or equivalent
+- 5  years of software engineering and technical leadership with proven results in designing, implementing and
+maintaining complex systems and services
+- Proficient in hyper-scaled distributed systems and cloud implementations with proven track record in Performance,
+Scalability and Resiliency
+- Deep understanding of cloud design patterns. Comfortable in CI/CD and DevOps work styles.
+The ideal candidate will have the following skills:
+- Proficiencies with Java, RESTful API, micro-services, Python.
+- Proven experience in test-driven development, with Jenkins experience a
+ strong plus.
+- Ability to work in an extremely 
+fast paced and challenging environment.
+- Full stack experience a plus, including back-ends written in Java and Python
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.
+Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. 7 years of software engineering or related experience.
+Oracle will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of San Francisco's Fair Chance Ordinance.
+Oracle is an Affirmative Action-Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veterans status, age, or any other characteristic protected by law.

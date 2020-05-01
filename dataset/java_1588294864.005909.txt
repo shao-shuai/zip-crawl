@@ -1,0 +1,25 @@
+Title: Software Engineer, Sr. (Java, Go & Libermetes)
+Company: Prosum
+Location: San Francisco, CA
+Type: Full-Time
+
+Senior Software Engineer
+Location: San Francisco, CA
+Responsibilities
+Lead and contribute to the effort of solving complex technical challenges to improve engineering efficiency
+Design, build, and on-board tools to accelerate build, testing, release, and deployment.
+Drive to define and enforce cross-organization standard methodologies for improving code quality, performance, and security compliance.
+Minimum qualifications
+Bachelor' s or Master' s degree in Computer Science or related area
+Software development experience in an object-oriented programming language such as Java, Groovy, Golang, and Python
+Excellent with Unix/Linux systems
+Strong experience with container and container orchestration technologies such as Docker, and Kubernetes
+Preferred qualifications
+Strong understanding of CICD standard methodologies and familiar with tools used in CICD pipelines: such as Jenkins, GitHub, Nexus, Artifactory, Maven, Gradle, and SonarQube
+Good public cloud experience
+Experience with networking, storage, logging, monitoring and alerting
+Experience with software system design
+Experience with large-scale distributed systems
+Experience with stress/load/performance simulation/testing
+Strong technical, analytical, and problem-solving skills
+Strong interpersonal and communication skills

@@ -1,0 +1,32 @@
+Title: Java/J2EE
+Company: Two95 International Inc.
+Location: San Mateo, CA
+Type: Full-Time
+
+Position: Java/J2EE
+Location: San Mateo (Onsite ONLY)
+Length: 12 Months+
+Rate :     $Open
+Requirements
+Job Description
+Client seeks developer resource to enhance ePOBOL Java/J2EE components Note: Resource must be onsite in San Mateo, CA. No remote work.
+Required Skills:
+7-10 year's Advanced skillsets developing and supporting Java/Oracle applications
+Ability to support Requirements Analysis
+Ability to support Rough Order of Magnitude (ROM) estimates for software business needs/requirements.
+Advanced computer programming skills in Java, JavaScript, HTML, JSP, Java Servlet, Javabean, EJB, OO Design, Active Server Pages (ASP)
+Advanced programming skills in J2EE technology, such as JNDI, JMS, RMI, JNDI, XML, XSL, XSL-FO and JDBC.
+Significant working knowledge with the following platforms: JAVA/IBM Websphere/Oracle.
+Advanced working skills in programming with ANSI SQL for Oracle Database.
+Advanced knowledge of Http, SSL, TCP/IP, CCS and Document formatting
+Solid working experience with high volume internet/eCommerce applications.
+Knowledge of Unix Operating System and Utilities  Ability to provide debugging and code analysis support
+Ability to support implementation of application software releases and other related activities
+Knowledge to perform knowledge transfer and walkthrough  Ability to troubleshoot production problems
+Preferred Skills:
+Experience to perform the complete system life cycle using the Agile Scrum Methodology phases from project initiation, analysis and requirements, design, coding, testing and implementation
+Ability to adhere to client development standards and SOX compliance
+Ability to communicate to a wide variety of audiences, both business and technical
+Proven ability to develop and maintain system documentation
+Ability to work independently with minimal direction
+Bachelor's degree or equivalent

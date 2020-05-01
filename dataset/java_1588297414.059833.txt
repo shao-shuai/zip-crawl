@@ -1,0 +1,26 @@
+Title: Full Stack Java Developer
+Company: ASK Staffing, Inc.
+Location: Washington, DC
+Type: Full-Time
+
+Job Title:
+Full Stack Java Developer
+Location:
+Washington, District Of Columbia
+, US
+Job Type:               Contract
+Duration:               6+ Months
+About Our Client:
+Our client is a leading source of financing for mortgage lenders, providing access to affordable mortgage financing in all markets at all times. Their financing makes sustainable homeownership and workforce rental housing a reality for millions of Americans. They put their customers and partners at the center of everything they do. They apply their experience and expertise to deliver innovative solutions to help our customers succeed. They pour their hearts into everything they do. Because they know it makes a real difference in others’ lives. They are committed to moving forward with their partners to build a stronger, safer, more efficient housing finance system.
+Job Description:
+Minimum 6-8 years of related experience
+Hands-on experience and proficiency in programming in Java/J2EE
+Hands on experience with building RESTful Web Services. Must have solid understanding of JSON and XML.
+Expert knowledge of Linux/Unix environment and shell scripting.
+Experience with developing test automation with Selenium and Cucumber is preferable.
+Experience with Angular and UI development is preferable but not necessary.
+Experience with CI/CD with knowledge of Git Hub, Maven and Jenkins.
+Experience with Python and/or AWS/Cloud is preferable but not necessary.
+Experienced with Agile practices and methodologies
+About ASK:
+ASK Staffing is an award-winning technology and professional services recruiting firm servicing Fortune 500 organizations nationally. With 5 nationwide offices, two global delivery centers, and employees in 42 states-ASK Staffing connects people with amazing opportunities

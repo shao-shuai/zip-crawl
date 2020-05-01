@@ -1,0 +1,41 @@
+Title: Java/Hybris Senior Consultant
+Company: Deloitte
+Location: 94103, CA
+Type: Full-Time
+
+Java/Hybris  Senior Consultant
+Understanding the digital space and preparing for what s next is at our core. We help clients reimagine how profits are made and how relationships are created and managed.  We reshape how work gets done and rewire the competitive fabric of entire industries.
+Work you ll do
+The Advertising, Marketing and Commerce team delivers and deploys strategy, design, and implementation of web content management, digital asset management, and other technology solutions in the digital marketing and content space.  As a member of the team, you will bring considerable technical, functional, and product expertise to deliver effective solutions to clients. Leveraging your Java skills, you will be put through a Hybris  boot camp  training to become a Hybris Technical Consultant.
+The team
+Our Advertising, Marketing & Commerce team focuses on delivering marketing and growth objectives aligned with our clients  brand values for measurable business growth. We do this by creating content, communications, and experiences that engage and inspire their customers to act.  We implement and operate the technology platforms that enable personalized content, commerce and marketing user-centric experiences. In doing so, we transform our clients  marketing and engagement operations into modern, data-driven, creatively focused organizations. Our team brings deep experience in creative and digital marketing capabilities, many from our Digital Studios.
+We serve our clients through the following types of work:
+Cross-channel customer engagement strategy, design and development
+(web, mobile, social, physical)
+eCommerce strategy, implementation and operations
+Marketing Content and digital asset management solutions
+Marketing Technology and Advertising Technology solutions
+Marketing analytics implementation and operations
+Advertising campaign ideation, development and execution
+Acquisition and engagement campaign ideation, development and execution
+Agile based, design-thinking, user-centric, empirical projects that accelerate
+results
+Requirements
+Desire and ability to learn Hybris and work as a Hybris Technical Senior Consultant
+Must be legally authorized to work in the United States without the need for employer sponsorship now or at any time in the future
+3  6 years  experiencedeveloping high volume/transaction J2EE applications: OO/AD, Java, Servlets, JSP Spring, SoapUI, Junit/Testing
+Experience with analysis, design and implementation of business requirements utilizing various technologies and spring methodology in Java EE
+Experience working with Incident management teams to resolve production incidents/issues
+How you ll grow
+At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there s always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world.  From on-the-job learning experiences to formal development programs at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career.
+Benefits
+At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Link  at https://mycareer.deloitte.com/us/usdc_oms
+Deloitte s culture
+Our positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We offer well-being programs and are continuously looking for new ways to maintain a culture where our people excel and lead healthy, happy lives.   Learn more about Life at Deloitte.
+Corporate citizenship
+Deloitte is led by a purpose: to make an impact that matters. This purpose defines who we are and extends to relationships with our clients, our people and our communities.  We believe that business has the power to inspire and transform. We focus on education, giving, skill-based volunteerism, and leadership to help drive positive social impact in our communities.  Learn more about Deloitte s impact on the world.  at http://www2.deloitte.com/us/en/pages/about-deloitte/articles/deloitte-corporate-citizenship.html
+Recruiter tips
+We want job seekers exploring opportunities at Deloitte to feel prepared and confident. To help you with your interview, we suggest that you do your research: know some background about the organization and the business area you re applying to. Check out recruiting tips from Deloitte professionals.  at http://www2.deloitte.com/us/en/pages/careers/topics/recruiting-tips.html kwdeldigallddusa
+Category: Management Consulting
+About Deloitte
+As used in this document, Deloitte means Deloitte LLP and its subsidiaries. Please see www.deloitte.com/us/about for a detailed description of the legal structure of Deloitte LLP and its subsidiaries. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.

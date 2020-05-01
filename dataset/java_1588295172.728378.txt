@@ -1,0 +1,28 @@
+Title: Core Java
+Company: MLWIZ Team
+Location: 94103, CA
+Type: Full-Time
+
+Job Description:
+10+ years overall experience in relevant industries and positions
+Deep understanding of building framework/libraries/tools/component/ connector
+Deep understanding of a micro services architecture, including professional experience in the design, build, and operations of micro services in a production environment
+Experience designing REST APIs and implementing RESTful web services
+Understanding of SOAP web services
+Experience in designing data persistence system using both SQL and NoSQL
+Technologies Stack
+o Java 8
+o Multithreaded development
+o Spring Framework
+o Spring Boot
+o Netflix OSS
+o Gradle
+o Unix
+o Github
+o 12 Factor principles
+o Understanding of Platform as a Service
+o CI/CD
+o Kafka/ RabbitMQ / MQ
+o Postman
+o JSON
+?

@@ -1,0 +1,24 @@
+Title: Java Developer
+Company: gotechlead
+Location: San Jose, CA
+Type: Full-Time
+
+Job Summary
+Looking to put your years of technical computing and coding experience to the develop? We need a skilled and competent senior software engineer to develop innovative computing solutions and integrate a state-of-the-art software platform into our daily business operations. You would lead a team of skilled coders and software designers to create, test and implement new technologies that will improve business efficiency and influence the direction of the company moving forward. You will be expected to develop new applications for both internal and customer-related technologies, design and test new user-friendly interfaces, and improve data modeling. If you are highly motivated, team-oriented, and have the drive to undertake new, complex and exciting projects, then we want you on our team.
+Job Responsibilities
+Design, test and implement new software technologies as well as debug and improve existing programs.
+Work with a team of developers to review code, develop new software features and brainstorm new, more effective technologies.
+Train new developers on the latest coding standards and techniques, and keep your department on the leading edge of software design.
+Build and implement a cloud-based network, and develop new, innovative methods of data gathering and storage, both internally and throughout our customer base.
+Solve diagnostic problems on a daily basis, identifying and troubleshooting bugs throughout a variety of software platforms.
+Keep up to date with the latest technological trends and coding practices, including  Java, JavaScript, CSS, Ajax and HTML5.
+Lead projects from conception to implementation, including design, beta testing and debugging while upholding and accomplishing the company's vision for the future.
+Understand the essentials of automation support,and improve ways to further automate and adapt software applications in everyday business operations.
+Job Skills & Qualifications
+Required
+Bachelor's degree or equivalent in Computer Science or similar field, with at least 3 years' experience
+Expertise in coding language and development software such as Tomcat, SpringBoot and Java
+Self-motivated with excellent verbal communication skills
+Preferred
+Experience in large eCommerce websites or business technology development
+Ability to test and debug software a plus

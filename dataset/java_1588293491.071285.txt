@@ -1,0 +1,23 @@
+Title: Java/Automation Consultant
+Company: Indotronix International Corporation
+Location: Menlo Park, CA
+Type: Full-Time
+
+Role: Java/Automation Consultant
+Location: Menlo park,CA
+Duration: 12 Months
+JOB DESCRIPTION
+-----------------------------
+6 years of hands on experience with Java and python
+Web Services Automation is mandatory
+Strong knowledge of QA methodology and tools
+Excellent analytical & Strong Debugging skills
+Experience with Jira, Confluence
+Experience with continuous integration tools (Ex: Jenkins) and ability to create, modify, execute
+& configure jobs
+Good experience with git
+Experience in Agile / Scrum
+XRAY knowledge is a plus
+Good understanding of CI/CD Processes
+Ability to thrive in a fast paced environment
+Collaborative and consultative personality

@@ -1,0 +1,35 @@
+Title: Software Engineer, Data Services (Java, APIs, Kafka, Redis), Apple Media Products
+Company: Apple
+Location: Cupertino, CA
+Type: Full-Time
+
+Software Engineer,  Data Services (Java, APIs, Kafka, Redis),  Apple Media Products
+Santa Clara Valley (Cupertino),California,United States
+Software and Services
+5+ years of professional software development experience, preferably in Java and/or C++ Deep understanding of data architecture and related problems
+Experience and deep understanding of scalable data stores like Cassandra, Redis and/or Voldemort
+Experience with using queuing systems such as Kafka
+Experience in designing and implementing RESTful APIs
+Experience working on complex problems and systems where scalability and performance are extremely important (every millisecond counts)
+Deep understanding on Redis is a plus.
+Experience with compute/container platforms such as AWS EC2, K8s is highly preferred
+Ability to effectively work with cross functional teams to understand requirements and engineer highly performant implementations
+Description
+The Apple Media Products Engineering team supports tens of millions of pieces of content in more than 150 markets enjoyed by hundreds of millions of users, which powers various features within the Apple client applications - App Store, Apple Music, Apple TV+, iTunes, iBooks, Podcast, etc. We've got unique and growing needs for data storage and consumption. You will help building the next generation infrastructural services, which provide and support abilities like structured and unstructured storage, caching, queueing and much more. You'll collaborate cross-functionally with various AMP teams, from the store and commerce through to search and recommendations, creating services and infrastructure platforms and pipelines that can rapidly scale and serve personalized and non-personalized data with very low latency.  You should be someone who is not afraid to question assumptions, is a good team player under tight deadlines and tackles problems with elegant technical solutions.
+Education & Experience
+B.S. or higher in Computer Science or equivalent
+Additional Requirements
+Apple Footer
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant  at http://www1.eeoc.gov/employers/upload/eeoc
+self
+print
+poster.pdf  (Opens in a new window)  at http://www1.eeoc.gov/employers/upload/eeoc
+self
+print
+poster.pdf .
+Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. United States Department of Labor.  at https://www.dol.gov/ofccp/PayTransparencyNondiscrimination.html  Learn more  at https://www.dol.gov/ofccp/PayTransparencyNondiscrimination.html  (Opens in a new window)  at https://www.dol.gov/ofccp/PayTransparencyNondiscrimination.html .
+Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you're applying for a position in San Francisco, review the San Francisco Fair Chance Ordinance  at https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf  guidelines  at https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf  (opens in a new window)  at https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf applicable in your area.
+Apple participates in the E-Verify program in certain locations as required by law. Learn more about the E-Verify program  at https://www.apple.com/jobs/pdf/EverifyPosterEnglish.pdf  (Opens in a new window)  at https://www.apple.com/jobs/pdf/EverifyPosterEnglish.pdf .
+Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace.  Reasonable Accommodation and Drug Free Workplace policy  at https://www.apple.com/jobs/us/accommodation
+drugfree.html  Learn more  at https://www.apple.com/jobs/us/accommodation
+drugfree.html  (Opens in a new window)  at https://www.apple.com/jobs/us/accommodation_drugfree.html .

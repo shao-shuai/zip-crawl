@@ -1,0 +1,42 @@
+Title: GCP Data Engineer with Java/python expert
+Company: SOFTHQ INC
+Location: San Jose, CA
+Type: Full-Time
+
+Hi,
+I am trying to reach you regarding an opportunity copied below. Please revert back to me if you are available & interested in below opportunity with word version of your resume, best time & number to contact you. Please feel free to contact me to discuss more about this opportunity.
+Position-  GCP Data Engineer with Java/python expert
+Location- San Jose, CA
+Job Description:
+Need Locals only
+Must be a Java / Python expert
+GCP Data Certification is a must
+Technical Skills:
+Experience with Big Data / Big Query is a must
+Experience with private, hybrid or public cloud technology ; GCP is a must
+Hands on experience with Java / Python programming.
+Possess Strong Cloud Implementation Experience in Cloud architecture/design, compute/storage services.
+Understand multi-Cloud/multi-zone based designs.
+Compute: Docker Apps, Lambda/ server less, User Data customization
+Preferred: Cluster/HA based parallel design/multi-region approach
+Cloud automation: Ansible, YAML, Cloud Formation
+Containers: Docker; Preferred: Container orchestration - Mesosphere, Kubernetes, ECS
+Familiarity with functional operations of server, storage, and network functions.
+Experience migrating Windows or Linux
+Databases understanding: Oracle, DB2,MySql; Preferred: No SQl DB, MongoDB, Cassandra, Dynamo DB
+Strong communications skill and multiple stakeholder's management
+Experience in implementing cloud solutions.
+Thanks & Regards
+Muneer
+|
+Senior IT Recruiter
+SoftHQ, INC
+,6494 Weathers Place, Suite 200,
+San Diego, CA - 92121
+Mobile No : 678-753-7865
+Direct No : 858-295-4388
+Contact Ext : 858-658-9200 / 612
+E-mail:
+Muneer@softhq.com
+Website:  http://www.softhq.com
+Please consider the environment before you print this email

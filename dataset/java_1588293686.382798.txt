@@ -1,0 +1,41 @@
+Title: Java Engineer
+Company: IT Trailblazers
+Location: Mountain View, CA
+Type: Full-Time
+
+Sr. Software Engineer
+Responsibilities
+Gathering functional requirements, developing technical specifications, and project &amp; test
+planning
+Lead end-to-end efforts to design, develop, and implement data movement and integration
+processes in preparation for analysis, data warehousing, or operational data stores.
+Troubleshoot, optimize, and tune performance of ETL processes and analytics queries
+Create new metrics and develop tools for monitoring and reporting
+Act in a technical leadership capacity: Partner with other team members to apply technical
+expertise to challenging programming and design problems
+Roughly 85-90% hands-on coding
+Resolve defects/bugs during QA testing, pre-production, production, and post-release patches
+Provide post production support.
+Work cross-functionally with various Intuit teams: product management, various product lines,
+or business units to drive forward results
+Experience with Agile Development and SCRUM methodologies
+Required Experience:
+8+ years experience developing web application, REST services, and backend data integrations
+in AWS
+Strong experience with Java, SQL, AWS, Hive, kafka, spark and RDBMS systems is mandatory.
+Experience creating data model and building data integrations for tools like Eloqua.
+Experience building complex software programs and applications for acquisition, processing,
+and management of massive quantities of data using Java is a MUST.
+Develop and implement algorithms for data processing and manipulation tasks (e.g., cleaning,
+parsing, sorting, ranking)
+Experience with the development challenges inherent with highly scalable and highly available
+web applications and backend systems.
+Experience creating and developing complex queries in Hive using SQL
+Solid communication skills: Demonstrated ability to explain complex technical issues to both
+technical and non-technical audiences
+Strong understanding of the Software design/architecture process
+Experience with the entire Software Development Life Cycle (SDLC)
+Experience with no-SQL systems such as Mongo, Cassandra.
+Experience with unit testing, performance testing.
+Preferred Experience:
+Experience with marketing technologies and the marketing tech stack.

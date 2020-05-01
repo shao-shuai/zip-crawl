@@ -1,0 +1,57 @@
+Title: Java Developer (cleared)
+Company: Agensys Corporation
+Location: Washington, DC
+Benefits: Vision
+
+Java/J2EE Developer
+Location: DC (by Union Station)
+Permanent Role
+*Must have active clearance
+An established and fast-growing Cloud services company is looking for an experienced
+Java Developer
+. The
+Java Developer
+will be responsible for creating fully functional web applications and architectures to assist with the day-to-day operations of our client’s organization including application refactoring and migration.
+The Java Developer will be critical in administering technical support for existing applications and will be called on to provide input on architecture design, migration, test, and maintenance and support of new applications.
+Additional
+Java Developer
+responsibilities include:
+· Develop or refactor Java based web applications using best practices.
+· Assist in technical planning and providing of recommendations for DevOps solutions.
+· Use the Spring framework for application development and testing
+· Create and update system design and development documents as well as engineering solutions in run books and user guides
+· Use Git to store, manage and update code in Gitlab code repository.
+· Meet with product owners to properly flesh out requirements and articulate the task back to a team.
+· Develop, update, deploy and manage Docker containers.
+· Follow the Agile methodology to document and coordinate tasks and issues in Gitlab.
+Java Developer
+Required Experience:
+Minimum Education: B.A. or B.S. degree in related discipline or equivalent experience
+3+ years of experience with Java J2EE development, Restful Web services, React/Node/Application.js, JQuery, XML/JSON, WebSphere.
+· Knowledge of the Spring framework and the ability to integrate the individual pieces depending on the scope of the project.
+· Experience working with SQL, MySql and Oracle databases.
+· Ability to create, store, and use structured and unstructured data.
+· Knowledge of front-end development with HTML, CSS, JavaScript, Bootstrap, AJAX.
+· Experience working with both SOAP and REST Services.
+· Ability to use JUnit, for the testing of code.
+· Knowledge of java logging, logging levels and integrating it into applications.
+· Working with Maven for build and resource management.
+Understanding of Git and branching.
+Work Full time in Washington, DC (Near Union Station Metro)
+US Citizen with Active Public Trust or DOD Secret Clearance Required
+Java Developer
+Preferred / Nice to Have Experience
+· Basic understanding or the ability to learn AWS and Cloud technologies/architectures.
+· Knowledge or history working with ANT (Another Neat Tool) or Gradle.
+· Experience with Spring Boot and making standalone executable jars.
+· Experience working with Selenium or another front-end testing framework
+· Experience working with Containers and setting up development pipelines.
+Experience with Java 1.8, Icefaces JSF (Java Server Faces) framework, db2 mainframe, GlassFish application server, WebSphere Zos platform on Mainframe.
+Benefits of working here:
+GREAT CULTURE! Work with a highly collaborative and entrepreneurial company with great coworkers who enjoy having fun and working hard.
+Low Turnover – they retain over 95% of their employees
+Competitive salaries, stable (10 year) project
+Opportunity to work across projects over time
+Annual profit sharing and equity available after first year of service.
+Comprehensive have medical, dental, vision, life insurance, short term and long term disability (paid by company)!
+401k with automatic 3% contribution from company (not matching – employees get it after 12 months whether they contribute or not)

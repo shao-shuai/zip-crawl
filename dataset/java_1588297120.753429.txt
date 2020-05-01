@@ -1,0 +1,30 @@
+Title: Junior Java Developer
+Company: Nava Software Solutions LLC
+Location: Pleasant Prairie, WI
+Type: Full-Time
+
+NAVA Software Solutions is looking for a Jr Java Developer for our client in
+Pleasant Prairie, WI
+Role: Jr. Java Developer
+Location:
+Pleasant Prairie, WI
+.
+Skill Set: Java , J2EE, SOAP / REST, JSP and JSF, Oracle RDBMS, PL/SQL,
+AngularJS
+Duration: 6 months to Perm
+Interview process: Video interview.
+position Responsibilities
+Design, develop and maintain complex, shared Enterprise Java services - security, logging, common APIs and enforcing coding standards.
+Design, enhance and maintain Spring components such as Spring Boot, Spring Cloud, Spring Integration, Spring Data and Spring Security.
+Develop and monitor large scale distributed systems using modern tooling, such as Spring Boot, WebSockets, Consul and ELK.
+Work with architects and technical leads on critical integrations.
+Conduct design and code reviews to ensure design principles are followed through the implementation of project.
+Act as a mentor for other developers on software development design and development challenges.
+Minimum Requirements
+Bachelor's degree in IT or related major.
+5+ years Java development experience.
+Meaningful Java / J2EE experience on WebSphere or similar application servers.
+Expert knowledge of microservices architecture.
+Expert knowledge of Spring, JPA / Hibernate, Service discovery and REST.
+Working knowledge of application design and implementation for containers / cloud-native environment.
+Available for travel to domestic and international branches.

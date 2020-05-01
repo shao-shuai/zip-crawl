@@ -1,0 +1,34 @@
+Title: Java Web Services Developer
+Company: Advantage Resourcing
+Location: San Leandro, CA
+Type: Full-Time
+
+Ranked as a top Fortune 100 Financial Services company, our client has an opening for a Java Web Services Developer to work onsite in Fremont, CA.
+Imagine everything that you could learn to advance your career while working at a Fortune 100 company with around $2.0 trillion in assets.
+Check out the qualifications below.  If you feel that you meet these, please apply online.  Thanks for your consideration.
+Title: Java Web Services Developer (952430)
+Location: Fremont, CA
+Duration: 12-24 months
+Description:
+• Advanced level expertise in Java Web Services (SOAP and REST) development, which includes, J2EE exposure, XML, Web Services, JUnit, TDD practice.
+• Advanced level expertise working with Spring Framework
+• High proficiency with object-oriented analysis and design methodologies, and design patterns
+• Experience with Test Driven Development
+• Experience with Agile software product development
+• Proficiency with developing unit test cases using JUnit, HTTPUnit or JWebUnit
+• Proficiency with source code management system e.g. GitHub
+• Proficiency with IDEs like Eclipse or Intellij, TOAD
+• Familiarity with view technologies like XSLT, DHTML, CSS, JavaScript
+• Familiarity with server-side development (involving Java Servlets, JSP, JSTL, etc.) and one or more Java Application Frameworks (Struts, Spring, etc.)
+• Ability to work in a fast-paced environment
+• Ability to work well with both business and technical partners
+• Good English communication skills
+• BS or MS in computer science or equivalent experience
+Helpful:
+• Experience in developing and implementing SOA solutions
+• Technical presentation skills
+• Agile development practice preferred experience
+• Microservices development experience
+• Database development with Oracle and Mongo DB.
+About Advantage Resourcing
+Advantage Resourcing makes all employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, ancestry, medical condition, age, marital status, national origin, citizen status, political affiliation, union membership, genetic information, physical or mental disability, veteran status, denial of medical or family leave, pregnancy or pregnancy disability leave or any other protected group status as defined by federal, state or local law.  We will provide reasonable accommodations throughout the application or interviewing process.  If you require a reasonable accommodation, contact us.  Advantage Resourcing is an E-verify employer.

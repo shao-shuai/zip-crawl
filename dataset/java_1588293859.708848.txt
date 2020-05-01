@@ -1,0 +1,23 @@
+Title: Senior Java/J2EE Developer
+Company: Ampcus Incorporated
+Location: Fremont, CA
+Type: Full-Time
+
+EIT - Artificial Intelligence Technology is looking for a highly motivated and expert Java technical consultants to design, develop Chatbot Platform Services - AI Projects. The ideal consultants for this exciting new development position has a passion for technology and demonstrates that they can quickly understand and provide technology solutions are delivered as shared services for multiple line of businesses.
+Role includes:
+Define architectural approach and innovative design of complex applications including application architecture, technology selection, design configuration, and definition of solution alternatives to ensure system design meets functional and non-functional requirements.
+Ensure designs align with Enterprise Application Security Program requirements.
+Lead and/or contribute to new technology or product assessments and proof of concepts to include definition scope, requirements, success criteria, documenting standards and guidelines for usage and leading technology adoption.
+Hands on development in agile development methodologies.
+Work with business and technology teams in problem understanding, requirements and architecture discovery, analyze complex business requirements, data analysis and modeling, designs and writes functional and technical specifications
+Required Qualifications:
+10+ years of secure SDLC (System Development Life Cycle) methodologies and designing software solutions using software architecture design principles
+10+ years of Java/JavaEE/Javascript/JDBC development experience
+8+ years of RESTful or SOAP web services
+8+ years of Apache Tomcat experience
+8+ years of JMS (Java Message Service) experience
+8+ years of Spring/hibernate framework experience
+5+ Years of experience in Mule soft or equivalent
+5+ years of 3rd party vendor application production support experience
+5+ years of GitHub, Jenkins and Maven experience
+5+ years of Oracle Database experience

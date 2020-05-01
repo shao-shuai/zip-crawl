@@ -1,0 +1,31 @@
+Title: Java Developer
+Company: Cognizant
+Location: San Jose, CA
+Type: Full-Time
+
+Cognizant Technology Solutions is seeking a "Java developer"; the
+resource should have strong experience in Java fundamentals, data structures
+and algorithms. If you meet our background requirements and skills and looking
+for an opportunity to be rewarded for your skills and expertise, here is the
+ideal opportunity for you!
+Java Developer
+Work location: San Jose, CA
+Experience required: 8  years
+"Cognizant will not sponsor H-1B or other U.S. work
+authorization, or lawful permanent residence (otherwise known as a "Green
+Card") for this role.
+Job Requirements:
+Excellent understanding of
+     Java fundamentals, data structures and algorithms.
+Expertise required in
+     object-oriented design methodology
+Expertise in Spring and
+     Hibernate/web based technologies
+Excellent understanding of
+     distributed systems and service-oriented architecture
+Proven results-oriented
+     person with a focus on delivery in a high-velocity, high-scalability and
+     high-availability environment.
+Enthusiasm and willingness
+     to learn new technologies and dig into problems
+Good communication skills

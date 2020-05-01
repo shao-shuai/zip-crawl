@@ -1,0 +1,32 @@
+Title: Java Developer
+Company: Kelly Services
+Location: Mountain View, CA
+Type: Full-Time
+
+Kelly IT Resources is looking for a Java developer for a long term contract in Mt. View, CA. This role is available now, so if interested, please apply directly for immediate consideration. Only local candidates for this role.
+Job Description:
+Design and develop highly scalable, 24/7 high volume backend for consumer web and mobile applications.
+Work independently completing small to large sized projects while managing competing priorities in a demanding production environment.
+Deliver on projects from end to end documentation to production grade code to support procedures in agile development process.
+osition Qualifications:
+BS or MS in CS or equivalent and 2+ years of hands-on software design and development experience or data and mathematical analysis.
+Strong knowledge of Web Technologies solid understanding of HTTP protocol, SOAP protocol and REST services .Strong knowledge of OOP Java/C /PHP and DBMS Microsoft SQL Server/Oracle/MySQL/Cassandra/MariaDB .
+Strong analytical skills.
+Strong knowledge of algorithms.
+Excellent verbal and written communications skills.
+Excellent team player.
+Passionate about programming.
+Ability to maintain good technical documentation.
+Strong troubleshooting skills client and server side .
+Keen ability to understand end user experience and business needs.
+Desired Position Qualifications:
+Java, Spring, JMS, Kafka, Scala, Maven, distributed databases/systems.
+JSON, Web services based on SOAP or REST.
+Keen to learn about new technology, frameworks and languages
+Why Kelly®?
+With Kelly, you'll have direct connections to leading IT organizations in the best companies around the globe-offering you the chance to work on some of today's most intriguing, innovative and high-visibility projects. In a field where change is the only constant, our connections and opportunities will help you take your career exactly where you want to go. We work with 95 of the Fortune 100 companies, and more than 3,000 IT hiring managers turn to us each year to access the best talent: people like you.
+Last year we found 8,000 opportunities for IT professionals. Let us help advance your career today.
+About Kelly Services®
+As a workforce advocate for over 70 years, we are proud to directly employ nearly 500,000 people around the world and have a role in connecting thousands more with work through our global network of talent suppliers and partners. Revenue in 2017 was $5.4 billion. Visit kellyservices.com and connect with us on Facebook, LinkedIn and Twitter.
+Kelly Services is an equal opportunity employer including, but not limited to, Minorities, Females, Individuals with Disabilities, Protected Veterans, Sexual Orientation, Gender Identity and is committed to employing a diverse workforce. Equal Employment Opportunity is The Law.
+Employment Type: Full Time

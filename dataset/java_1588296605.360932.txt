@@ -1,0 +1,31 @@
+Title: Java Back end developer
+Company: W3Global Inc
+Location: Oakland, CA
+Type: Contractor
+
+Position :
+Java Back end developer
+Location :
+Oakland CA
+Duration :
+12+ Months
+Contract
+Please do share your profiles to gsudha@w3global.com and you can reach us on 972-393-2255.
+Note : Candidate must have expertise in MDB (Message Driven beans like (Apache Kafka, ActiveMQ, RabbitMQ)) & JMS. Micro-Services/API
+Job Description:
+o   BS/MS in computer science or equivalent work experience.
+o   9+ years of experience designing and developing secure object oriented web services.
+o   Experience with all phases of software development. You have been there and done it, multiple times.
+You have strong experience in Java and Restful API Development.
+o   Experience with developing Micro Services highly desired.
+o   Some familiarity with exposing and securing APIs using an API Management Solution.
+o   Experience with SQL and NoSQL databases.
+o   Test Driven Development and knowledge of mocking frameworks such as EasyMock, Mockito.
+o   Some experience in at least a few of the following technologies in the below categories. The more the better:
+Spring Framework including, Spring Boot.
+Web Services: Spring, Jersey, Apache CXF, RESTEasy, Restlet
+Databases: Oracle, MySql, MongoDB, Cassandra etc.
+Distributed Cache: Redis, Coherence, Hazelcast
+Build & CI Tools: Maven, Jenkins, Gradle etc.
+Search & AI: Apache Solr, ElasticSearch, Natural Language Processing libraries (Stanford, apache).
+Message Brokers: Apache Kafka, ActiveMQ, RabbitMQ

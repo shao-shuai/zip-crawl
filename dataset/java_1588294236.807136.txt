@@ -1,0 +1,10 @@
+Title: Java Developer
+Company: Lorven technologies
+Location: San Jose, CA
+Type: Full-Time
+
+Must have Skills:Core Java, J2EE, Multi-threading, Memory Management, API, Spring guice
+All skills above mentioned are mandatory and candidate must work on high performing applications which handles millions of threads in an instance
+This individual should think out of the box and share optimal solutions in the given scenario
+Strong in coding and problem solving, should be able to analyze and start developing the product from the scratch
+Write clean code (think about positive/negative test cases)

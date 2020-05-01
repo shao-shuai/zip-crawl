@@ -1,0 +1,19 @@
+Title: Java Application Developer
+Company: APN Software Services Inc.
+Location: Belmont, CA
+Type: Contractor
+
+Location: Belmont CA
+Duration: 6 Months
+Developing the modules in the application / UI portion for the and provide fixes for the current issues with necessary documentation.
+Required skills may include Java, J2EE, SQL, JSF, Perl, XML, Oracle Role Manager product experience.
+Desired skills (but not mandatory); Scripting on Linux platform.
+Proficient in: Java on Windows and Linux environment.
+Experience required 5+ years.
+Description of all deliverables: Deliver the fixes for the current UI issues and develop new features.
+Code meeting the goals for bug fixing and the feature delivery within the committed date.
+Will work as part of team.
+Regards,
+Vikas
+Vikasy@apninc.com
+Employment Type: Contract

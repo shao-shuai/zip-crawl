@@ -1,0 +1,31 @@
+Title: Java Developer - Senior
+Company: Appy Pie LLC
+Location: Daly City, CA
+Type: Full-Time
+
+Job Title :: Java Developer - Senior
+Location::
+San Francisco, CA
+Contract/Direct: C
+ontract
+Qualifications:
+*OPEN TO LOCAL AND NON LOCAL CANDIDATES
+1) designing and building applications with Java
+2) gather requirements and analyze the business requirements for prototyping, designing, and development
+3) Support development and testing teams to resolve issues
+**** Required industry experience:
+Minimum of 5+ years of experience in designing and building applications with Java. Required technical experience
+Strong foundation in Java Development (Java J2EE Object Oriented Programming skills) and one additional language (e.g. Python, C++, Ruby, Scala).
+Java: Java 1.6+, J2EE, JMS, Web Service, XML, XSD, WSDL, SOAP, JQuery, JavaScript, Spring-Framework, Spring JDBC, Spring JMS, Hibernate, Coherence, Oracle PL/SQL, MySQL
+App Server : Weblogic Server 12c, Tomcat 7.0+
+Tools: Rational Clearcase, Eclipse,Spring tool suite, ANT, Maven, Jenkins
+Os: Unix, Linux, Windows
+Sufficient knowledge in Object-oriented programming concept and design principles to create custom software solutions or modify package solutions with an agile development methodology. Ability to think critically about problems and arrive at a practical solution.
+Advanced SQL and database development skills.
+Very good communication skills.
+Strong problem-solving and analytical skills.
+Self-motivated, independent, detail oriented, and a responsible team-player. Required functional experience
+Experience in writing custom Java code.
+Experience in development of Enterprise Web applications
+5+ years of Java development experience. Required education and certifications
+Bachelor's degree in Computer Science/Information Technology/Engineering or related field.

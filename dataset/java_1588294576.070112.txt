@@ -1,0 +1,22 @@
+Title: IVR Developer (java and javascript)
+Company: Serigor Inc.
+Location: San Jose, CA
+Type: Full-Time
+
+Pacific Data Integrators provides services across all verticals and continues to grow as a leader across every sector of data management, from Big Data to Data Science. Our team’s talent is what sets us apart from our competitors and we continuously seek out the foremost talent of the technology community to give you the best result possible.
+IVR Flow Developer
+Note :Need someone who is strong in Java script or Java
+Location: San Jose, CA
+Required Qualifications:
+Please include Skill Matrix along with the submission.
+Desired level of experience is 10 to 12 years.
+Excellent communication skill is mandatory
+Note: It is a developer position , not a configuration or administrator role. The candidate is expected to do a code test during the interview process.
+Job Requirements
+Technical Skills
+IVR flow developers who are working in Genesys or Avaya or Cisco platforms and used Java & VXML for the development
+JavaScript fundamentals & syntax and ready to work on the scripting language ( Not as UI skills) - The candidate should do coding test in JavaScript
+At least conceptual knowledge in state-machine (can read from YouTube or learning site in 4 hours)
+Knowledge in Java or any Object Oriented Language and good in Logic  Algorithms and Data structures.
+Need to lead onshore and offshore development and QA team as Lead Engineer
+cP30pBqJMe

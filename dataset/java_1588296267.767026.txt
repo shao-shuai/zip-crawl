@@ -1,0 +1,22 @@
+Title: Java Developer
+Company: Dice Technologies
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Responsibilities:
+Need to a role of Architect to provide solutions for Software development using Java and Angular
+Take ownership and drive projects to completion following Agile lean software development processes
+Mandatory:
+Hands on experience on Core Java, Data Structure, Collections
+Instrument/Device communication using Java Communication API
+Socket Communication/Remote Method Invocation RMI
+Hibernate, Junit.
+Strong understanding of Client - Server Architecture
+Strong Communication skill
+Experience in design architecture, UML, design patterns
+Creating Plan and tracking thru tools like Jira, Confluence.
+Take ownership and drive projects to completion following Agile software development processes
+Good to Have
+:
+Experience in providing solutions for Desktop, Web and across multiple platforms
+Working knowledge with Docker, Kubernetes is added advantage

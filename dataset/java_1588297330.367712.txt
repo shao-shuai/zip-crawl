@@ -1,0 +1,93 @@
+Title: Java Developer
+Company: Binary Tech
+Location: San Antonio, TX
+Type: Full-Time
+
+Description:
+Responsibilities
+Design and develop applications using
+Java
+and
+Spring boot framework
+.    Design and implement rule-based automation engine.    To be able to benchmark systems, analyze system bottlenecks and propose solutions to eliminate them.    Experience with enterprise applications (architecture, development, support, and troubleshooting).    Ability to perform threat modeling and design reviews to assess security implications and requirements for introduction of new technologies.    Understand the enterprise architecture roadmap and research, identify and recommend industry best practices for solving business problems.    Provide recommendations and technical guidance to improve performance, reliability, and reusability within the constraints of budget, resource and business dependencies.    To be able to work creatively and analytically in a problem-solving environment.    To be a self-starter.    To be able to work in a fast-paced agile development environment.    Continuous learning and keep track of the latest developments in business/ technical advancements.    High energy levels, right attitude and pleasing personality. Demonstrate the compassion to lead and bring value to the architecture portfolio.
+Experience:
+Bachelor's Degree or master's degree in Computer Science, Mathematics, Statistics.    10+ years of expertise in object-oriented programming and scalable software design using
+Java
+.    5+ years of experienced with
+Spring framework
+including
+Spring Boot
+.    Strong programming skills in designing and implementation of multi-tier applications using web-based technologies like
+Spring MVC
+and
+Spring Boot
+.    Excellent knowledge on Spring Core such as
+Dependency Injection
+,
+Annotations
+and XML based
+Configurations
+.    Hands-on experience with
+Spring AOP
+using
+Advice
+,
+Aspects
+and
+AOP Processor
+.    Extensively worked on
+Spring JDBC
+,
+Spring Hibernate
+ORM
+and
+JPA
+Experienced in server-side application to interact with database using  Spring Boot  and  Hibernate.    Experienced in writing
+POJOs
+for
+Data Model
+and made individual HBM records to delineate Java Objects with Relational database tables.    Working knowledge of
+Spring Kafka
+.    Knowledge in frontend technologies like
+HTML5
+,
+CSS3
+,
+JavaScript
+,
+JQuery
+,
+AJAX
+,
+Angular 2+
+and
+ReactJS
+.    Proficient in Java/J2EE Design
+Patterns including
+Singleton Factory
+, Model View Controller (
+MVC
+)
+,
+Data Access Object (
+DAO
+) and Business Delegate.    Well versed with core
+Java concepts like
+collections
+,
+multithreading
+,
+serialization
+,
+Java beans
+.    Experience in writing test cases  using
+JUnit
+framework,
+Mockito
+and Used
+Postman
+for API's testing.    Experience with
+CI/CD tooling, such as GitLab and/or Jenkins.
+Knowledge in Containerization tools like
+Docker, Kubernetes
+Advanced experience with SQL Queries and SQL Server Stored Procedures    Demonstrated ability to work in a fast-paced, highly technical environment.    Excellent communications skills, both written and verbal.    Ability to troubleshoot complex system issues.    Ability to handle multiple tasks simultaneously.    Ability to translate user requirements into technical specifications.    Ability to train and mentor junior level developers.

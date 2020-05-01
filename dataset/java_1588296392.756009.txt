@@ -1,0 +1,65 @@
+Title: QA Engineer with Java
+Company: Altimetrik Corp
+Location: San Jose, CA
+Type: Full-Time
+
+Overview
+Altimetrik is a digital transformation accelerator helping our client’s deliver great products and services that deliver bottom-line results. We follow a uniquely agile approach designed to envision, prototype and deliver ideas to market through collaboration, speed, and efficiency. Founded in 2012, Altimetrik is headquartered in Southfield, Michigan, and has grown to over 2,000 highly energized and talented employees with offices and development centers across the globe. Altimetrik taps into an organization’s technology, people, and assets to advance continuous innovation that?helps our clients build products and services their customers want. Our company’s unique digital transformation service is built on an incremental approach for end-to-end development, empowering customers to be more agile in their technology initiatives and realize results faster. Altimetrik helps some of the largest Fortune 500 companies in financial services, payments, retail, automotive, healthcare, manufacturing, and startups to get unstuck in delivering digital transformation and improve experiences for their customers.
+Job Description
+The development team is looking for a self-motivated, Senior QA Engineer
+to join one of our global online Payment leader's team and help build low-latency, high-throughput mid tier applications to grow our new platform.? The ideal candidate will be a
+Senior Java/QA Engineer with hands on java experience
+with some proficiency in Selenium, Automation, end to end testing
+and hands on experience in
+algorithms and Data Structures.
+Background we are looking for:
+You love solving problems and building solutions
+You’re self-motivated and have a demonstrated track record of self-learning and
+going above and beyond
+You want to hit the ground running on Day 1; you take ownership of your
+work and can work independently.
+Solid exposure in
+Selenium, QA Automation, end to end testing.
+You’ve designed and clearly understand concepts like
+Web
+Services, SOA, REST APIs, SPRING Framework
+.
+You know the fundamentals of Object-Oriented Programming using Java,
+familiarity with additional development tools such as
+JUnit, Maven & Jenkins
+is a
+plus.
+You love Git and are at home with source control concepts such as merge, rebase
+and pull.
+You believe in Agile development and putting the customer first in anything you
+design; experience with SCRUM is a plus.
+You’re a strong advocate of good coding standards and like the use of coding tools
+that will push you to improve the code you deliver like Sonar.
+You know how to identify performance bottlenecks and use good coding
+patterns to avoid them in the first place.
+Requirements:
+BS in CS 4+ yrs experience or MS + 3 yrs experience
+Experience in object-oriented programming and concepts
+Experienced in
+QA Engineer with Java experience.
+Solid exposure in
+Selenium, Automation, end to end testing.
+Comfortable enough in handling algorithms, data structure, Data collections and system design problems
+Experienced in Distributed System development using
+Java
+/J2EE/Web Technologies.
+Proven track record in delivering highly available, scalable systems on time
+Conversant in design patterns
+Good understanding of web services and related standards like
+REST/JSON
+Experience in Spring framework and other open source frameworks
+Experience in Unix based development environment
+Experience in both development and quality assurance activities
+Experience in QA methodologies, test automation and automation frameworks
+Experience in driving Integration testing, UAT with external vendors
+Experience in JUnit, Selenium is a plus
+Experience working in payments or financial services industry is a plus
+Exposure to Agile Methodologies
+Nice to have:
+Familiarity with Enterprise Java and supporting Java frameworks
+Familiarity with Unix commands and basic Unix scripting

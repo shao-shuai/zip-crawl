@@ -1,0 +1,19 @@
+Title: Java developer only W2 (no C2C)
+Company: Compunnel Inc.
+Location: Reston, VA
+Pay: $55 to $65 Hourly
+
+Job: java developer
+Location: Bentonville, AR or Reston, VA
+Duration: Long term
+Job Description:
+Top Skills Details
+- Java 8 and spring for a strong back-end developer
+- Spring and Springboot
+- Must have relational DB experience. SQL Server preferred
+- Attention to detail, communication, and problem solving skills are critical and will be tested in coding exercise during interview.
+Description
+This team is interested in bringing on Contract and Contract to hire consultants.
+Additional Skills & Qualifications
+JMS or Kafka preferred for Messaging
+Cloud experience preferred. They use Azure but others are fine.

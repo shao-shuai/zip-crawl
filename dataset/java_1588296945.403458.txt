@@ -1,0 +1,44 @@
+Title: Sr Software Engineer I for Social Platform - Java
+Company: Electronic Arts
+Location: Redwood City, CA
+Type: Full-Time
+
+We Are EA
+And we make games - How cool is that? In fact, we entertain millions of people across the globe with the most amazing and immersive interactive software in the industry. But making games is challenging. That's why we employ the most creative and passionate people in the industry.
+Save the planet from Alien Invaders. Score the winning touchdown.
+Yup - It's the coolest job on the planet!
+The Challenge Ahead:
+Is to promote social capabilities within our games. We believe that people want to experience and play games with others, and that games are more fun when experienced as part of a team. We want to make it easy for players to find other players they already know and create new relationships with people they've only just begun to work with inside a game. We aim to build better recommenders for a variety of different games to recommend people to teams, friends to people, and opponents. We want to incentivize users to engage socially and create a sense of community.
+You will get to build our new cross-game, cross-platform and always on Social platform. This large-scale, collections of RESTful services will power the Social relationships, interactions of EA's network of games and capturing information experienced by tens of millions of monthly active users. You'll build platform capabilities handling several hundred-thousand requests per second and driving the player engagement of many of the industry's most popular titles. You can build server-side systems that bring new functionality within the larger Digital Platform, and work on regular improvements to the systems to keep them at top-notch performance.
+What a Senior Software Engineer I does within EADP Social Division at EA:
+Reporting to the EA Social leader within the CTO organization, your primary responsibility will be to lead the software design and architecture process of our Social service offering. Most of your time will be spent working with the team in the design of new features, while optimizing performance and scalability of the service. You will also spend time working with product managers to develop new features to support EA's many games and reduce technical debt associated with legacy systems through innovation and automation. Additionally, you will be a promoter for best practices within the engineering team, demonstrating what good looks like as a mentor to the team.
+Responsibilities
+:
+Roughly 40% to 60% hands-on coding
+Lead the technical design and architecture of major components in our large-scale distributed HTTP/GRPC-based backend service, creating new features and updating existing ones
+Work with customers and business leaders to understand customer needs and delivering incrementally on their highest priority features and requirements.
+Work with multiple customers working on multiple different platforms who use the services and features you create to complete user-facing features
+Grow and guide other engineers
+Occasional off-hours support for development needs and support of the live environment ensuring our consumer experience is always outstanding
+Required Experience
+A passion for working in gaming and social systems
+Technical leadership, and mentoring experience
+Understand the Software design/architecture process
+Superb ability to take high-level direction, clarify and execute in an iterative model
+Understand DevOps, Continuous Delivery, and Agile development
+Experience managing large-scale distributed applications
+Experience working on high traffic services and scalable systems
+Can explain issues in technical and laymens terms
+7 or more years' experience developing object-oriented software (preferably in Java)
+4 or more years' experience working on online services (HTTP via REST) at Internet consumer scale
+Experience with Memcached, Queuing, and Kafka, ElasticSearch, Cassandra in production systems and other OSS tech
+Nice to have Skills:
+Experience building on Amazon Web Services
+Experience with one or more scripting languages, preferably Maven
+Experience with Eclipse or IntelliJ IDEA
+Experience with load testing and system analysis
+What's In It For You? Glad You Asked!
+We are proud of the great perks we offer like comprehensive health and benefits packages, tuition reimbursement, pension with company match and, of course, free video games. And since we realize it takes outstanding people to make excellent games, we offer great compensation packages and a culture is powered by creativity and individuality. Health, Dental, Financial offered (ESPP and RRSP matching); Bonus and relocation assistance also offered.
+We Thought You Might Also Want to Know:
+More about our location: https://www.ea.com/careers/careers-overview/redwood-shores
+#LI-NS1

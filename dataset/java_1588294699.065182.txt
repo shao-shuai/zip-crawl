@@ -1,0 +1,19 @@
+Title: Software Dev Engineer with Java & Flink
+Company: TalentBurst, Inc.
+Location: Sunnyvale, CA
+Type: Contractor
+
+Title: Software Dev Engineer II
+Location: Sunnyvale, CA or
+Champaign, IL
+Duration: 16+ Months (Possible, Contract to Hire)
+Description/Comment:
+" We need the resource to help maintain the current Flink clusters in production and help with migration to a more stable environment.
+" This person will be interacting with the rest of the Low Latency Dev team and the Ops Team at the Champaign and Sunnyvale offices daily.
+" They would also be working with CLIENT's teams located remotely across the US and possibly some offshore CLIENT's teams.
+" Their day to day would include maintaining existing Flink clusters, responding to customer support requests, and building out new Flink clusters.
+" Must have technical skills: Java, linux systems. Both at least a few years of experience. Since this
+" We'd like someone with at least 3-5 years of work experience.
+" We'd like to have someone with some Flink experience if possible.
+" The ideal candidate would have excellent written and verbal communication skills, problem solving, and be independently motivated.
+" Flink experience is what will make them stand out. Other distributed system experience is helpful if they don't have Flink experience.

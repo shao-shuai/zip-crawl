@@ -1,0 +1,26 @@
+Title: Urgent Role for Backend Java Engineer// SFO, CA
+Company: Infostride
+Location: 94102, CA
+Type: Full-Time
+
+Essential Job Functions:
+Job Title: Backend Java Engineer
+Location: SFO, CA
+Duration: 12 Months
+STRONG CODING EXPERIENCE REQUIRED
+Experience Required:
+7 to 12 years of experience only
+Job Description:
+In this role you will work on the maintenance of features and technical debt for our client's product that allows the admin functions for the JIRA and Confluence products. Ensure multi-quarterly releases are rolled out smoothly. You will be working with the tech lead and potentially UX Designers.
+Must Have
+3 years of experience in Java and Spring Framework
+1 years working with AWS cloud technologies
+1 year experience with Microservices oriented architecture and REST APIs
+Nice to have
+1 year experience with DynamoDB
+1 year experience with Splunk
+1 year experience with event driven architectures
+1 year experience with CI/CD
+Understanding of SaaS, PaaS
+1 year experience with Agile
+1 year experience of Java Spring Reactive stack

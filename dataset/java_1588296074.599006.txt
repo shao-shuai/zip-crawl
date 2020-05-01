@@ -1,0 +1,27 @@
+Title: Java FullStack Architect
+Company: Fabergent Inc
+Location: 94103, CA
+Type: Full-Time
+
+Java FullStack Architect
++ San Francisco, CA, USA
++ Contract
+Minimum 10 years of software engineering experience.
+At least 5 years of experience in technology consulting, enterprise and solutions architecture and architectural frameworks.
+At least 2 years of experience architecting and developing cloud native full stack solutions using AWS developer with knowledge of SDK and Java programming knowledge
+Had architected solutions using AWS native platform. Hand-on experience of CICD pipeline.
+Has extensive and deep working knowledge of Cloud.
+Formation Templates and creating architecture designs using requirements.
+Participate in technical planning & requirements gathering phases including Design, code, test, troubleshoot, and document engineering software applications.
+Ensuring that technical software development process is followed on the project, familiar with industry best practices for software development.
+Minimum 2 years of experience developing applications with React JS.
+Minimum 5 years of experience with Java/JEE, specifically Microservices development
+Minimum 1 year of experience developing applications with Spring Boot.
+Experience delivering cloud native solutions.
+Demonstrate the ability to adapt and work with team members of various experience level.
+Strong experience with HTML5, CSS3, Angular, Java Standard Edition 8 , Java Enterprise Edition, Spring 4, Spring Boot, Spring MVC , jQuery or Angular or React , JSP ,JSTL , Spring AOP/Annotations/Security , Apache Tiles, Apache CXF, Apache Maven, Junit, Rest Web Services, SQL, Oracle & My SQL, Unix Scripting (Korn Shell), Git, Jira, Bamboo ,Jenkins, Bitbucket , Docker, Microservices , DevOps concepts , AWS Cloud concepts - S3, ECS, EC2, Security , HTML5, CSS3, Angular, JavaScript (ES6), and responsive web design.
+Strong debugging, problem solving and investigative skills. Ability to assimilate disparate information (log files, error messages etc.) and pursue leads to find root cause problems.
+Experience with Agile/Scrum methodology.
+Self-starter who can work independently.
+Bachelor's Degree in MIS, Computer Science, Math, Engineering or comparable major.
+Strong consulting and communication skills both written and verbal.

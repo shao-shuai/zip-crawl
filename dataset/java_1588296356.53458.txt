@@ -1,0 +1,30 @@
+Title: Java Engineer Ecommerce
+Company: Fabergent Inc
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Java Engineer Ecommerce
++ Sunnyvale, CA, USA
++ Contract
+Responsibilities:
+Hands on development on building n-tier applications using RESTful Services, Java/J2EE, Oracle and related technologies.
+Participate in managing code & configurations for multiple environments, release management process, creating and maintaining environment configuration and controls, code integrity and work closely with @platform team
+Analyzing business requirements, story-boards and similar artifacts of the scrum process, work in an agile development environment with a quick turnaround time and iterative builds.
+Leads the discovery phase of medium to large projects to come up with high level design
+Troubleshoots business and production issues
+Ensures inclusion of business vision and industry trends to enable results that drive business
+Problem solving and troubleshooting design and development issues and provide appropriate solutions
+Ability to communicate effectively, both written and verbal, with technical and non-technical cross-functional teams
+A desire to work in a fast-paced and challenging work environment.
+Ideal Candidate Must-Haves:
+Master's Degree in Computer Science or related field and 10 years' experience building scalable ecommerce applications
+10 or more years of experience programming in Java/J2EE, Hibernate, REST Services, Apache and Tomcat
+4+ years of experience with RDBMS (Oracle) and SQL
+10 or more years experience building services and using Service Oriented Architecture (SOA)
+Preferred Qualifications
+Experience with Eclipse. Experience with GIT, and Ant or Maven is a plus
+Experience configuring & deploying applications on J2EE application server (Apache Tomcat, WebLogic, WebSphere) a plus
+Experience with UNIX shell and scripting
+Experience in building/implementing high performance & a scalable system is a plus.
+Knowledge of standard tools for optimizing and testing code.
+Ability to operate effectively and independently in a dynamic, fluid environment

@@ -1,0 +1,24 @@
+Title: Staff Java Developer
+Company: Fortinet
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Job Responsibilities:
+Work with other team members to develop new modules with Java and cloud application API.
+Troubleshooting of the production issues about the Java spring boot application and web server.
+Tuning the performance of the java application and database.
+Maintenance of the existing modules, fixing code as needed to ensure a smooth system deployment with the intended functionality.
+Delegating routine coding to junior Java developers and conduct the testing of completed code modules with the help of junior Java developers.
+Recommend software solutions to a new module and design the infrastructure of the modules.
+Skills & Qualifications:
+Bachelor's Degree in Computer Science or Computer Engineering or relevant technology field. Master's Degree preferred.
+Having a development/programming experience in Java of 5 years or more.
+You are experienced in Database Development, MySQL, PostgreSQL programming, NoSQL databases (like MongoDB).
+You have experience based on spring framework (Spring MVC,Spring Security).
+Object Relational Mapping (Hibernate).
+Restful Web service client and server development.
+Multi-threaded and network programming.
+Using Version Control Systems & Enterprise Java Application Deployment (Maven, Git).
+You have experience on cluster server development.
+#GD
+#LI-GL1

@@ -1,0 +1,42 @@
+Title: Java Developer
+Company: Violet Ink
+Location: San Jose, CA
+Type: Full-Time
+
+Job description
+Job title
+Java Developer
+Location
+San Jose,CA
+Mode of hiring
+Contractual 6+ months
+Implementation partner
+Altran
+End Client
+Itron
+About role :
+The client is not looking for candidates who are heavily inclined towards mule-based experience (application integration) for this role. They are looking for someone who also has good application development experience in Java .
+Required Skills:
+·        Expertise in Java development and design, working on scalable, multi-tier products.
+·        Strong computer science fundamentals.
+·        Energetic, inspired, dedicated, passionate about software development.
+·        A self-starter who has the ability and willingness to learn new material quickly and perform in a fast-paced environment.
+·        A great team player, sociable, with good communication skills.
+Technical Qualifications:
+·        7+ years of experience in the design and implementation of distributed highly available multi-tier systems in structured object-oriented programming languages
+·        Excellent command of the Java programming language and expertise with standard Java libraries
+·        Comfortable in a Unix environment, with an understanding of networking fundamentals
+·        Experience with web service protocols such as SOAP and REST
+·        Working knowledge of SQL and databases, particularly Oracle.
+·        Experience with product scalability/performance analysis and tuning
+·        Knowledge of PLC, version control and build systems, such as Maven and Git.
+Desired/Plus:
+·        Experience with ESB technologies such as MuleESB
+·        Experience with message broker technologies such as TibcoEMS or Kafka
+·        Working knowledge of python and/or unix shell scripts
+·        Working knowledge of JavaScript, CSS, and HTML.
+·        Knowledge of java development frameworks such as Spring, Ignite, and Ehcache.
+·        Comfortable with automated testing (unit/service-layer/UI)
+·        Interest/experience with electric power distribution business domain
+·        Experience delivering products in a Continuous delivery/Continuous deployment pipeline.
+·        Knowledge of cloud services, microservice architecture and containers

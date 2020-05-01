@@ -1,0 +1,28 @@
+Title: Java Developer with Spring Boot and kafka
+Company: EApps Tech LLC
+Location: Brentwood, TN
+Type: Full-Time
+
+THE COMPANY : EApps Tech LLC has been in the IT business from 11 years, and has been recognized by numerous MNC's as one of the best companies to work for.
+THE POSITION : We are looking for a
+Java Developer with Spring Boot and kafka.
+Mandatory Skills =
+Java 8, Spring boot, Microservices, SQL, Hibernate, Spring Core, Spring Cloud, Kafka, Reactive Spring, Spring Data
+Desired Skills =
+Jenkins, GIT, JIRA
+Job Description:
+Hands on experience on developing unit tests with JUnit or a comparable framework.
+Solid experience using
+Java 8, Spring Boot, Spring Core, Reactive programming, Spring Cloud, Spring Data Integration ,Hibernate, and Microservices.
+Should have experience in writing & consuming REST API.
+Good understanding on with
+NoSQL such as Cassandra, Couchbase, Realm.
+Experience in Design patterns, microservices.
+Experience with Kafka, streaming.
+Experience in multithreading and data structures.
+Experience working on Docker containers.
+Experience using GIT, Junit, Maven, Jenkins, Sonar.
+Agile product development experience is required.
+Excellent team player with strong communication, inter-personal, presentation skills.
+Good understanding of US HC, especially on RCM (revenue cycle management), clinicals (medications, orders, labs, etc.) will be an added advantage.
+THE LOCATION : Brentwood TN

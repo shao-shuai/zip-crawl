@@ -1,0 +1,41 @@
+Title: Java Full Stack Developer
+Company: Diskriter Inc.
+Location: San Francisco, CA
+Type: Full-Time
+
+Designation: Full Stack Java Lead/ Java Full Stack Sr. Developer (Micro Services )
+Location: Cleveland, OH / SFO, CA
+Duration: 6+ Months
+Banking Exp is must.
+Job Description:
+Participate in all aspects of the software development life cycle which includes solution design, estimation, development, documentation, testing and deployment within an Agile Continuous Delivery environment
+Provide full stack development leadership and expertise
+Work with product managers, UI/UX designers, solution architects, technical leads and other developers on interpretation and translation of wireframes and creative designs into functional and non-functional requirements aligned to our software platforms
+Embrace the established standards and best practices that currently exist for software applications, and contribute ideas in these areas to keep our technology moving forward
+Collaborate and communicate effectively and efficiently with other developers on the team to achieve the highest quality code & product
+Report status and work progress to scrum master and technical lead as requested
+Participate in troubleshooting and defect resolution activity for aligned product and capabilities
+Create technical documentation as required in the form of technical specifications, and project artifacts
+Assist/Mentor other developers on the team in software development best practices and continual improvement of service
+Demonstrate the ability to adapt and work with team members of various experience levels
+Required Experience / Skills:
+Bachelor’s degree in Computer/Information Science or Information Systems Management or equivalent
+Passion for delivering quality software, learning new technologies and mentoring others
+Minimum of 5 years experience in Java/JEE based applications and development
+Experience using the following software frameworks/concepts: Client side MVC, Spring, Hibernate, Junit, Maven, microservices, SOAP/Rest frameworks, Spring MVC
+At least two years of experience building complex web applications using Angular (or other similar JavaScript based frameworks) in a corporate environment
+Experience with client-side UI frameworks like AngularJS and how these integrate into a REST services framework
+Experience in Linux/Unix/Mac OS X based environments, comfortable working with command line tools & scripting
+Experience with the following tools & technologies: Docker, Jenkins, Selenium, GIT, Swagger, Eclipse, Tomcat, SonarQube,
+Experience with Continuous Integration/Continuous Delivery environment, utilizing automated testing, as well as Test Driven Development
+Experience working on teams that have employed agile and lean methodologies.
+Experience building mobile apps using Cordova and Ionic (or other similar mobile development frameworks)
+Experience with Bootstrap or similar frameworks
+Experience using CSS Preprocessors (preferably SASS)
+Skilled problem solvers with the desire and proven ability to create innovative solutions.
+Flexible and adaptable attitude, disciplined to manage multiple responsibilities and adjust to varied environments.
+Future technology leaders- dynamic individuals energized by fast paced personal and professional growth.
+Thanks,
+Manash
+412-465-1217
+manash@diskriter.com

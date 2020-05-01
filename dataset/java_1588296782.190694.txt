@@ -1,0 +1,13 @@
+Title: Principal Software Engineer Java Backend Server
+Company: Western Digital
+Location: Fremont, CA
+Type: Full-Time
+
+Tegile Systems, a Western Digital Brand, is a manufacturer of flash and hybrid storage arrays based in Newark, California. The Tegile IntelliFlash array along with IntelliCare, a cloud based proactive analytics platform, is a compelling storage solution for enterprise applications. In this position, your focus will be developing server-side logic and RESTful API definitions for both internal and external data integration leveraging our high performance storage infrastructure.
+Essential Responsibilities: You will work with the development team to ensure that our server side application can deliver features required both for the internal and customer facing front ends with high performance and responsiveness. You will be responsible for: Design and develop application architecture & data storage solutions in collaboration with architects and other team members. Adopt and apply best practices for software development and back-end engineering, build reusable code and libraries for future use.
+Collaborate with product management and front-end engineering to define and implement innovative solutions for the product direction, architecture and scalability. Qualifications: Proven ability to write high quality software with strong debugging and troubleshooting skills. Strong object oriented design skills.
+Multi-threaded programming. Practical experience and knowledge of most of the following technologies and tools: Java: Web Services, IOC (Spring Framework), JDBC. Web: HTML5, JavaScript, CSS, XML, jQuery, JSON, Node/npm, Typescript, Angular.
+C++/C, Perl, Python a plus. Solaris/Linux/Windows. Familiar with the use of RESTful APIs in applications development.
+Good written and verbal communication skills. Must be adaptable, flexible, organized, detail oriented, work well in a team environment, and have a strong drive for success. Education: BS/CS or MS preferred with 10+ yrs.
+experience which includes 5+ years of enterprise-level Java application development programming experience. Preferred Qualifications/Experience Familiarity with Storage technologies. Web application and GUI development.
+#LI-BJ1

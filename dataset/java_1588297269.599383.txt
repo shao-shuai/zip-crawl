@@ -1,0 +1,34 @@
+Title: Full Stack Java Developer
+Company: Experis
+Location: Nashville, TN
+Type: Full-Time
+
+Must be able to work with Experis as our hourly w/2 employee.
+Not open to transfer H-1 at this time and the position is not open to sub-vendors (corp. to corp.).
+MUST be local to the Nashville area.
+Java full stack developer
+Our client is looking for a passionate engineer with a strong focus on delivery.
+Develop features front-to-back in an agile environment.
+Support the engineering and integration of a vendor based product.
+Further optimize the continuous integration and deployment processes .
+Support product management driving the product roadmap.
+Work closely with and advise Business Analysts, Testers and Management on technical matters.
+Work on product packaging and support deployment activities.
+Analyze, develop and deliver global solutions to maintain or change the IT systems with our business counterparts.
+As a Developer you'll play an important role in developing systems in a proper way.
+Resilient team player with strong interpersonal skills taking initiative to drive things forward .
+Able to multitask and work on different projects in parallel, accurate and focused on deliverable.
+Keen to develop subject matter expertise on our core vendor product and solutions overall .
+An excellent communicator who can partner with business experts and end users who might not be well versed in IT
+Your experience and skills You have:
+Computer science academic background (bachelor or master degree)
+Experience as full stack developer in a globally distributed team - strong Java skills (Java 8)
+strong Spring Boot skills
+strong JPA/Hibernate skills
+strong relational database and data analysis skills
+Methodology knowhow on how to ensure that project deliverable meet industry best practices
+Strong analytical, problem-solving and synthesizing skills (you know how to figure things out)
+Experienced JavaScript skills with focus on React
+Familiarity with ETL
+Understanding of a broad range of platforms, technologies and tools, specifically - Java, Linux, Postgres, GitHub, Nexus, TeamCity, IntelliJ, Jira, Confluence
+Experis is an Equal Opportunity Employer (EOE/AA)

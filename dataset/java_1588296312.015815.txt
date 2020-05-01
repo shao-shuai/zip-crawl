@@ -1,0 +1,28 @@
+Title: Lead Consultant a" Java/J2EE (multiple positions)
+Company: Headstrong
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Position Openings
+Headstrong Services, LLC
+Lead Consultant - Java/J2EE (multiple positions)
+Position headquartered in Sunnyvale, CA and various unanticipated project sites in Santa Clara and San Francisco county areas and throughout the U.S. 40 hrs/wk, 8:00am-5:00pm, M-F
+Duties:
+Responsible for the design, development, and modification of object oriented enterprise applications developed using primarily Java/J2EE tools on Windows, Linux, and UNIX platforms.
+Analyze end-user needs to develop application solutions for a range of business operations within the Banking/Financial Services and Healthcare domains.
+Employ expertise in Java frameworks (Struts, Spring, Hibernate); interfaces and MVC patterns to develop and optimize applications.
+Will employ Scrum Methodology throughout the system development lifecycle.
+Execute development tasks within a distributed resources environment (onshore/offshore).
+Communicate and collaborate effectively with clients and team members to ensure that any gaps between client's business requirements and project's technical requirements are resolved.
+Requirements
+:
+Master's degree in a Engineering, Computer Science, or Mathematics field and 2 years of progressively responsible post-Bachelor's experience in job offered or in a related software engineering, computer programmer, or systems analyst position.
+Alternatively, the employer will accept a Bachelor's degree in Engineering, Computer Science, or Mathematics field combined with 5 years progressively responsible post-Bachelor's experience in job offered or in a related software engineering, computer programmer, or systems analyst position.  Foreign equivalent degrees are acceptable.
+Mail resumes to:
+Headstrong Services
+Attn: Human Resources Job Posting #HSLCJJCA115
+11911 Freedom Drive, Suite 900
+Reston, VA 20190
+Please Reference:
+Lead Consultant - Java/J2EE II
+#HSLCJJCA115

@@ -1,0 +1,40 @@
+Title: Sr. Java Developer
+Company: TEK NINJAS
+Location: Baltimore, MD
+Type: Full-Time
+
+Location
+: Baltimore/Rockville, MD
+Duration
+: 2years +
+Salary
+: $140k to $160k per annum
+Full-Time
+with Public Trust clearance needed after the job confirmation.
+Job Description
+:
+The Government Health and Safety Solutions Operation is seeking a Senior Java Developer in Baltimore/Rockville, MD to support the FDA SIRCE/Imports contract.The SIRCE/Imports program supports the Food and Drug Administration (FDA) Office of Regulatory Affairs (ORA) critical work to safeguard the foods, drugs, devices, biologics, and veterinary products that the Agency regulates. The program is split into two investments     Systems for Inspections, Recalls, Compliance Enforcement (SIRCE) and Imports. Imports Operations is one of the key functional areas within FDA. Headquarters and field staff utilize several systems to process entries of imported FDA-regulated commodities. Entry Review and the Operational and Administrative System for Import Support (OASIS) are the primary components used by field staff to perform entry review, record fieldwork results, and to make compliance and admissibility decisions. Predictive Risk-Based Evaluation and Dynamic Import Compliance Targeting (PREDICT) is utilized to perform risk-based screening of entries coming to FDA from Customs and Border Protection's (CBP) Automated Commercial Environment (ACE). Import Trade Auxiliary Communications System (ITACS) is utilized to allow the Import trade community to view and send updates for open entries stored in the OASIS database. Prior Notice Manager provides the staff of the Division of Food Defense Targeting (DFDT) with capabilities to review and process food imports subject to Prior Notice requirements.Specific roles & responsibilities for the Imports Senior Java Developer position include but are not limited to the following:
+Collaborate with business analysts, other developers, and test engineers on the team to produce high quality software that delivers business value and follows established design patterns and processes     can independently develop, code or modify, test, and debug application programs of varying degree of complexity.
+Integrate existing software into new or modified systems or operating environments - Troubleshoot production problems within assigned applications software
+Assist less experienced staff in user specifications, coding, testing, and debugging.
+Work with business users to develop and implement acceptance tests to ensure that product meets customer requirements and expectations.
+Implement recommendations for improving documentation and software development process standards
+Actively engage in process improvement initiatives.
+BS and 8+ years of prior relevant experience or Masters with 6+ years of prior relevant experience. Considered an emerging authority.
+Experience in full software lifecycle development with Java/JEE, Java Script, REST/JAX/Soap Web Services, WebLogic, Spring Framework, Oracle 12c, PL/SQL, Maven, HTML5, Log4j, JUnit, and Unix/Linux experience.
+Experience in developing applications using Java technology stack
+Understanding of rule engine processing    Experience with developing detailed designs, optimizing code for performance and reliability, conforming to coding standards and continuous integration
+Experience in parallel development environment managing overlapping efforts impacting same function.
+Excellent verbal and written communication skills, including experience working directly with customers to discuss their requirements and objectives.
+Ability to prioritize, status, and multitask
+Experience with Subversion/Git, JIRA, Microfocus, ALM
+Familiar with Agile development methodologyRequires US Citizen or US Person with the ability to obtain a Public Trust Clearance.Desired:
+FDA Imports domain knowledge
+Jess or Drools rule engine experience, JPA/ORMExperience in developing detailed designs, optimizing code for performance and reliability, conforming to coding standards and continuous integration
+Funding Status: CompetitiveJob
+Level: T4
+Potential for Telework: No Clearance
+Level Required: Public Trust
+Travel: No Scheduled
+Weekly Hours: 40
+Shift: Day

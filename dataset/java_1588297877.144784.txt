@@ -1,0 +1,43 @@
+Title: Senior Full Stack Java Developer
+Company: ALTA IT Services, LLC
+Location: Rockville, MD
+Type: Full-Time
+
+ALTA is supporting a client in Rockville, MD with a
+Sr. Fullstack Java Developer
+opening.
+Eligible resources are required to have lead/mentoring experience and at least 10 years of experience in core java.
+The main function of a Java Developer is to design, develop, and implement web-based Java applications to support business requirements.
+For immediate interest please send your resume to Beth Morris at bmorris@altaits.com.
+Top Skills Required:
+Backend development with Spring and SpringBoot
+AWS
+Agile
+Job Responsibilities:
+Are you passionate about technology? Do you love programming? Do you sometimes pat yourself on the back after writing a particularly elegant function? Are you an aficionado of the art of software design? Do you expect the best from yourself and those around you?
+We are looking for passionate developers who want to make a difference. If you are a rock-solid developer, a strong communicator, and a self-starter who can grab hold of a challenge and dive deep with it, then please join our delivery-focused team.
+Job Responsibilities
+Able to grok complex business requirements
+Provide tech expertise for analysis, design, and modeling work
+Be delivery-focused
+Be quality-focused
+Design, develop, implement, test, deploy, and support Java-based software in the AWS Cloud
+Leverage Java best practices to design, test, implement, and support mission critical applications
+Ensure security and compliance requirements are met
+Ship great products!
+Experience & Qualifications
+8+ years of experience required, including some commercial/non-government work
+Hands on experience designing, developing, implementing, testing, and deploying large scale Java/J2EE projects
+Believes in Scrum/Agile, and has deep experience delivering software when working on teams that use Scrum/Agile methodology
+Strong and creative analytical and problem-solving skills
+Required Technical Skills & Knowledge
+Spring stack (DI, AOP, Security, Boot, etc.)
+JPA/Hibernate
+REST APIs
+Unit testing with JUnit
+Git/Gradle
+The following skills are a plus:
+Relational Database Experience
+AWS Cloud
+Agile
+ALTA IT Services, LLC. is an equal opportunity/affirmative action employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, disability, veteran status, sexual orientation, or any other factor.

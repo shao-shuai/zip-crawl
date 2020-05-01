@@ -1,0 +1,14 @@
+Title: Java Developer III
+Company: Aditi Consulting
+Location: San Jose, CA
+Type: Contractor
+
+Position: Java Developer
+Duration: 4+ months contract to begin with
+Location: San Jose, California 95131
+Requirements:
+Solid communication skills
+Strong Core Java and Object oriented Skills
+Strong Java backend skills in REST/SOAP and webservices
+Experience with Spring and Hibernate
+Exposure to Jenkins, Git, Maven and TestNG are ideal.

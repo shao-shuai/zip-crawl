@@ -1,0 +1,25 @@
+Title: Java Full Stack Developer
+Company: Varite
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Technical/Functional Skills
+Should have Experience in Java/J2EE technology with expertise in Java / React / Node is, Restful Webservices.
+Should have good experience in the Spring Boot, Spring MVC, Spring Core, Spring Rest Controller, Spring Batch.
+Good on Rest Services including the API documentation.
+Should be familiar on the Design Patterns and Java 8 features.
+Experience of google cloud platform will be added advantage
+Should have done Test Driven Development.
+Should have worked on SVN, GitHub, and Continuous Integration environment like Jenkins, Concourse.
+Should have worked on the dependency Management like Maven, Gradle.
+Should have experience in developing SQLs. Knowledge in Oracle, DB2.
+Should have recent hands on  development experience in above mentioned technologies
+Should have experience in Tomcat Grid server and Cloud Deployment.
+Should have experience in working in team following Agile or XP methodology
+Should have Retail domain experience to understand the business requirement.
+Should have experience in coordinating with various matrix teams
+SQL performance tuning experience is preferred
+Minimum 2+ years of Senior programming level experience involving some architecture and high level design
+Skilled in co-ordinating with teams of at least 3 offshore members
+Ability to groom junior level programmers
+Understanding of distributed systems and related concepts required

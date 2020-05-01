@@ -1,0 +1,40 @@
+Title: Java Engineer
+Company: Matrix Precise, Inc.
+Location: Oakland, CA
+Type: Full-Time
+
+About Matrix Precise:
+Matrix Precise Inc. is a Technology Development, Consulting and R&D Company.  We provide solutions in the areas of facial recognition, smart retail, handwriting recognition and smart robots.  Our client services also entail a range of development and support solutions from web and mobile application development, infrastructure and production support and testing services.  We offer very competitive compensation and benefits packages including health insurance and 401K.
+Position Overview:
+This individual will be working on the design and development of web/mobile applications. This is a hands-on role with primary focus on analysis, design, and development of complex web applications. This individual will be responsible for developing, implementing, maintaining and supporting Java based components and interfaces. The ideal candidate should have a broad understanding of various coding methodologies, testing practice, and tools and know when to apply each method to achieve the desired outcomes.
+Responsibilities:
+Design, analysis, and development of complex web applications
+Design, develop, and unit test applications in accordance with established standards.
+Developing, implementing, maintaining and supporting Java based components and interfaces
+Analyze and resolve technical and application problems.
+Participate in solution design
+Facilitate the agile development process through daily scrum, sprint planning, sprint demo, and retrospective meetings.
+Research and evaluate a variety of software products and development tools.
+Responsible for code asset management for applications, and support and promoting asset reuse.
+Supports the implementation of systems into production.
+Qualifications:
+Over 6 years of experience working IT industry developing solutions in Java/J2EE technologies and at least 2 years? experience as senior developer in designing Java/J2EE solutions.
+Experience in agile development
+Expertise in Java, Spring, RESTful Web Services, MQ, AJAX/JavaScript, HTML5, CSS, JDBC, any RDBMS databases, Junit
+Strong experience in developing REST based web services utilizing industry standard frameworks like Spring/Apache CXF
+Hands-on experience with relational databases
+Solid Knowledge of SQL development and performance tuning.
+Working knowledge of Maven, GitHub
+Thorough understanding of OOAD
+Demonstrated the ability to design, plan and execute.
+Familiarity with all facets of SDLC - ranging from inception to deployment
+Proven communication skills, both written and oral
+Works independently and efficiently to meet deadlines.
+Bachelor?s computer science, MIS or related experience required
+Preferred Skills:
+Experience in HealthCare Industry is highly desirable
+Experience using Jira, Rally, Tomcat, Jenkins, KAFKA
+Experience API development for Mobile Apps
+Understanding of NoSQL is a PLUS
+Experience with Micro Services development
+Experience with CI/CD using Containers

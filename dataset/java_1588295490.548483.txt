@@ -1,0 +1,36 @@
+Title: Senior Software Engineer (Java)
+Company: Eversight
+Location: Palo Alto, CA
+Type: Full-Time
+
+The Opportunity
+Eversight seeks a back-end engineer experienced in Java to join its small, focused team and help transform a $3.4 trillion market. Eversight is the recognized leader in AI-powered price and promotions. Eversight's proprietary cloud-based SaaS solution brings AI and continuous experimentation to consumer brands and retailers. Our software acts as a coach, enabling market leaders to transform pricing and promotion strategy for the $3.4 trillion spent in consumer goods retail using intelligent, real-time data and insights.
+You will impact major feature and new product decisions as part of our remarkably high performing, collaborativeteam of engineers who thrive on the business impact of their work. With strong team support, significant freedom and self direction, you will experience the wealth of interesting, challenging problems that only a high growth startup can provide. At an exciting point in a strong trajectory, Eversight has strong funding, leading customers like Coca-Cola, Frito-Lay, Raley's and a transformational value proposition.
+Responsibilities
+Work in fast-paced environment to help generate ideas and quickly turn them into robust, well-tested, functioning code (including but not limited to Java)
+Work with product management to define and prioritize future functionality
+Operate in a modified scrum environment where we spec, estimate, and divide up work as a team and then manage ourselves independently
+Peer review other engineers' code to help identify bugs, performance issues, security issues, and provide feedback on code cleanliness
+Play a key role in the development of best practices in software design, implementation, and coding standards
+Produce exemplary code and deliver completed projects in the time promised
+Perform unit and system level testing on their application and all affected systems
+Implement all aspects of an application design including but not limited to: high-performance design, coding, caching mechanisms, state management, error logging, scalability, environment configuration, proper testing procedures, naming standards and all other aspects of good application design and development
+Behavioral Profile
+Strong ability to self-regulate and problem solve through obstacles in a dynamic, fast-paced environment; maintains realistic estimations and escalates proactively when necessary
+Attacks challenging and abstract problems by breaking them down into smaller problems, coming up with hypotheses, and proving or disproving them in a systematic way
+Excited and enthusiastic about the prospect of tackling challenging problems
+Connects their code to the business problems being solved and translates effectively across business and technical boundaries; motivated to learn about and impact a new market
+Strongly collaborative and excels on a focused team
+Skills and Experience
+3+ years of software development experience; object oriented design skills and knowledge of website design and usability
+Strong Java skills
+Solid SQL experience
+Experience delivering enterprise software strongly preferred
+Experience diagnosing and fixing performance, scalability, and concurrency issues, both in the application and in the database, strongly preferred
+Hibernate and/or Spring experience preferred
+Experience with Google Cloud, Kubernetes, and Gradle are nice-to-have
+BS or BA in Computer Science or related field or equivalent experience
+Location
+Palo Alto, CA
+About Us
+Eversight is the recognized leader in AI-powered pricing and promotions. Global brands and retailers rely on the Eversight platform to optimize pricing in response to market conditions and to deliver higher ROI on promotional spend. Eversight's Pricing Suite and Offer Innovation Suite solutions are driving strong margin and sales volume improvements for leading companies such as Coca-Cola, Frito-Lay, and Raley's. Founded in 2013, Eversight is headquartered in Palo Alto, California, with offices in Chicago and New York.

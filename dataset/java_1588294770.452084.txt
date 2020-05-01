@@ -1,0 +1,18 @@
+Title: Java FS with BDD
+Company: Micasa Global Inc
+Location: San Francisco, CA
+Type: Full-Time
+
+Job Description:
+6+ years of experience.
+Strong knowledge in Java, Advanced Java, Spring, Spring Boot.
+Strong knowledge in Webservices(REST) and JSON.
+Strong experience in RESTful APIs.
+Hands on experience on HTML, CSS, Java script, bootstrap.
+Proven hands-on Software Development experience using Java EE platforms.
+Strong experience in Javascript and React JS
+Experience working in Agile development methodology.
+Strong experience in ATDD, TDD and BDD
+Very good communication, analytical & problem solving skills.
+Experience with popular enterprise tools, like Git/SVN, Jenkins, Eclipse.
+Must have excellent communication skills.

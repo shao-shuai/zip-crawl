@@ -1,0 +1,32 @@
+Title: Java Developer
+Company: Diversant LLC
+Location: San Francisco, CA
+Type: Contractor
+
+Diversant has an immediate need for "Java  Back end Developer" for one of its financial client within their innovation team!
+Java back end Developer
+San Francisco, CA
+24 Months Contract
+W2 only - We can transfer H1 B and GC
+cant work with c2c or OPT/CPT candidates
+Required Skills:
+• Minimum 5 years of development experience using, Java/J2EE, Restful API, Spring, Spring Boot frameworks.
+• Minimum 3+ years of experience with Python programming and development of flask applications.
+• Minimum 5 years of experience in building of API driven interface development and API integrations
+• Minimum 5 years of experience in java script frameworks (node Js, Angular Js,...) for front end UI components development.
+• Minimum 5 years of experience with RDBM databases (MySQL, Oracle) , NoSQL Database (Mango DB)
+• Minimum5 years of experience with Unix/Linux Servers and deployments
+• Minimum 5 year of experience in using code versioning tools like Git or SVN
+• Understanding of Artificial Intelligence, Natural Language Processing, Machine Learning, Deep Learning Technologies.
+• Exposure to Natural Language Processing frameworks, Chatbots, Virtual Assistants
+• Understanding in designing and implementing systems using emerging technologies.
+• Experience in agile software development or similar methodologies.
+• Building quicker Software prototypes
+• Excellent verbal and written communication skills.
+• Demonstrated ability to deliver working solutions on a tight schedule.
+• Strong analytical thinking and problem solving skills.
+Preferred skills:
+• Experience with Google Dialog Flow and Assistant APIs
+• Knowledge in Speaker Verification and its algorithms
+• Experience with IOS or Android development or any Mobile development.
+If you are comfortable with the requirement, send your resumes at sgwalani@diversant.com or call at 415-230-5619.

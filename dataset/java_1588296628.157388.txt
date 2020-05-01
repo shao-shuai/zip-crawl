@@ -1,0 +1,13 @@
+Title: Java Backend Developer
+Company: Aroopa Inc
+Location: San Francisco, CA
+Type: Full-Time
+
+Product is a high performant backend system that deals with hundred's of million of requests every day, high code coverage environment. The ideal candidate is self motivated and is a quick learner. Strength in Java, Objected oriented design experience and service oriented architecture (RESTful) is vital.
+Strong experience in Java, Object oriented design experience and service oriented architecture (RESTful API) + Spring exp is vital.
+Design and implement complex, multi-tier distributed software systems throughout all phases of the software development life cycle
+Write clean, quality, scalable code
+Expertise in Algorithms and Data Structures,
+Review code with rigor and compassion to improve learning experience across the team
+Contribute in technical discussions to build innovative and yet simple software solutions for complex business problems
+Push the bar to solve technical challenges of scale and performance

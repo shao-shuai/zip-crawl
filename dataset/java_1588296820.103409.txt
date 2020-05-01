@@ -1,0 +1,12 @@
+Title: Java Developer
+Company: Sysmind LLC
+Location: 94102, CA
+Type: Full-Time
+
+3+ years of web and rest services application programming experience J2EE/Java.
+Working knowledge of software frameworks such as Struts, Spring, Spring MVC, Groovy, Scala, Open Source components, etc.,
+Working experience with the latest Front End technologies - HTML5, CSS3, SASS, and new design patterns     Responsive Web Design, MVC, and OOCSS.
+Working experience with modern JavaScript frameworks and libraries (examples - React, Polymer, Angular, jQuery, and others).
+Experience of using one or multiple J2EE application servers. Deep understanding of OO design is a must.
+Basic database and SQL skills. Experience with the development models such as Agile and SDLC. Knowledge of test driven development.
+Must be able to handle multiple tasks and adapt to a constantly changing environment

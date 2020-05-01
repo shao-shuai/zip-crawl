@@ -1,0 +1,43 @@
+Title: Sr Java/J2EE Engineer I
+Company: Bank of the West
+Location: San Ramon, CA
+Type: Full-Time
+
+Sr  Java/J2EE Engineer I
+Description
+At Bank of the West, our people are having a positive impact on the world. We're investing where we feel we can make the most impact, like advancing diversity and women entrepreneurship programs, financing for more small businesses, and promoting programs for sustainable energy. From our locations across the U.S., Bank of the West is taking action to help protect the planet, improve people's lives, and strengthen communities. We are part of BNP Paribas, a global leader supporting the UN Sustainable Development Goals (SDGs). Yes, we're a bank, but as the bank for a changing world, we are continually seeking to improve the ways we help our customers, while contributing to more sustainable and equitable growth.
+Job Description Summary
+Responsible for the design, development, modification, testing, adaption, and/or implementation and post implementation support of short- and long-term software solutions to business and technology needs. Reviews system requirements and business processes; codes, tests, debugs and implements software solutions. Works independently in a fast paced environment on highly complex issues.
+Essential Job Functions
+Advises and Leads software development services typically in a defined highly complex project
+Conducts a wide range of highly complex quality control tests and analyses to ensure that software meets or exceeds specified standards and end-user requirements
+Develops system requirements and business processes; codes, tests, debugs and implements software solutions. Develops recommendations on process improvements
+Determines and makes recommendations on software design requirements
+Ensures that systems are monitored to increase efficiency
+Participates the development of software policies, standards and procedures
+Drafts test plans and scripts to ensure alignment with standards and Technology strategy
+Monitors system tests and documents all issues
+Other Job Duties
+Manage environments, Implement/Deploy software upgrade to various environments and support post implementation.
+Creates Conceptual approach, Estimation, Detailed design, Software Deployment Guide, Supplemental or non functional specification
+Mentors Associate Engineers
+Manages tasks of a small team of engineers and their delivery
+Performs other duties as assigned.
+\#LI-RJ1
+Qualifications
+Required Experience
+Requires deep knowledge of job area typically obtained through advanced education combined with experience.
+Typically viewed as a specialist within discipline.
+May have broad knowledge of project management.
+Requires 7 years minimum prior relevant experience.
+Education
+Bachelor's Degree
+Equal Employment Opportunity Policy
+Bank of the West is an Equal Opportunity employer and proud to provide equal employment opportunity to all job seekers without regard to any status protected by applicable law. Bank of the West is also an Affirmative Action employer - Minority / Female / Disabled / Veteran.
+Bank of the West will consider for employment qualified applicants with criminal histories pursuant to the San Francisco Fair Chance Ordinance subject to the requirements of all state and federal laws and regulations.
+Job:
+Technology
+Location:
+United States-California-San Ramon
+Requisition ID:
+050675

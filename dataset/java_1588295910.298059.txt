@@ -1,0 +1,40 @@
+Title: Junior Java Developer
+Company: Generis Tek Inc.
+Location: San Jose, CA
+Type: Full-Time
+
+We have a Contract role with
+Junior Java Developer
+our client
+San Jose, CA.
+Please let me know if you or any of your friends would be interested in this position.
+The details of the position :
+Junior Java Developer- San Jose, CA
+Location          : 170 W Tasman Dr, San Jose, CA 95134
+Duration         : 6 Months
+Responsibilities:
+Group handles the platform and Java based infrastructure. They build it on Openshift, Openstack, Dockers and Kubernetes. They support the platform to IT and it comes back and spins off their application.
+They provide the infrastructure, manage the Ops and run the infrastructure. When doing these kinds of Ops management, there are gaps in the processes they can create this tool to close the gap.\
+Support platform, build and manage infrastructure
+Handle platform on Java base infrastructure and other technologies like nodejs, mongodb, Ruby, Perl,etc
+Skills:
+Scripting: Any language but Python highly preferred (able to explain what you have done and what tool you have used)
+Basic concept of app server and troubleshooting.
+Experience with infrastructure/development and monitoring the platform.
+Ability to migrate platform form one infrastructure to another.
+Experience working in open source J2EE technologies such as TOMCAT, JBOSS, etc. in an enterprise environment.
+Experience in automation scripting like ansible, puppet, shell, SQL etc and troubleshooting J2EE applications.
+Strong experience in managing and maintaining all production and non-production App-server based environment.
+Ability to Interface with clients, developers, cross function partners
+Knowledge of Apache, load balancers and exposure to RedHat Linux and/or AWS is a plus.
+Good communication, Self-starter and requires minimal supervision.
+Well Acquainted with configuring SSL Certificates and Self Signed Certificates for secure communication.
+Bachelor degree in information systems, computer science, information technology or a related discipline (professional experience may be substituted on a year for year basis for the educational requirement).
+Ability to create and write close gap
+Experience with Tomcat, JBoss, J2EE.
+If you are interested in this opportunity, please email your resume at jobs@generistek.com and include posting
+i
+n your application. Also, you can call us at # 630 576 1935 to discuss this position in detail.
+About Generis Tek:
+Generis Tek is a boutique IT/Professional staffing based in Chicagoland. We offer both Contingent Labor & Permanent placement services to several Fortune 500 clients Nationwide.
+Our philosophy is based on delivering long-term value and build lasting relationships with our clients, consultants and employees. Our fundamental success lies in understanding our clients’ specific needs and working very closely with our consultants to create a right fit for both sides. We aspire to be our client’s most trusted business partner.

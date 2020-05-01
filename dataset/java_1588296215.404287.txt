@@ -1,0 +1,26 @@
+Title: Big Data Java Pipeline Engineer
+Company: pddninc.net
+Location: Los Altos, CA
+Type: Full-Time
+
+Role:          Big Data Java Pipeline Engineer
+Location:       Cupertino, CA
+Emp Type:     Permanent Job
+Interview:      Phone/Skype
+Must have
+5+ years of strong programming and design experience in Java
+2+ years working with Cassandra or other NoSQL technologies
+2+ years working in an Agile software development environment.
+2+ years working on Apache Spark, preferably using java APIs.
+4+ experience with Maven, SVN and GIT.
+2+ years working on Kafka or other similar messaging queues.
+2+ years working in JavaScript to build UI rich features
+Passion for learning new technologies and implementing them with little guidance
+Desired
+Professional experience in Python, Scala.
+Experience in implementing Machine Learning algorithms
+Experience in Time Series Analysis
+Experience in building big data pipeline from collection to transformation to consumption.
+Knowledge in data visualization concepts.
+Experience in integrating multiple technologies that are exposed in as-a-service model
+Employment Type: Full time

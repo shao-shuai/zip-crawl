@@ -1,0 +1,15 @@
+Title: Core Java + AWS
+Company: Enterprise Solutions Inc
+Location: 94404, CA
+Type: Full-Time
+
+AWS development
+Experience is MUST( Deployment or Installing profile will not work)
+Core Java + AWS
+Java java script C/C++Elastic search for DBKubernetes
+Elastic search Athena Lake formation
+EC2 lambdas for workloads Containers
+Knowledge of DMARC protocol and
+email security
+is nice to have
+AWS Experience is must

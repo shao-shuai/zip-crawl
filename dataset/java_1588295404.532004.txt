@@ -1,0 +1,17 @@
+Title: Java Full Stack Developer
+Company: Skiltrek
+Location: San Jose, CA
+Type: Full-Time
+
+Role = Java Full-Stack Developer
+Location : San Jose, CA
+Duration = Long term
+W2 only
+Interview Mode = Face to Face
+Experienc 4 - 5 years
+Not CPT and OPT
+4+ years Design, develop, test, deploy, support and evolve software (native / hybrid applications, API's)
+Full Stack Java Developers - Software Development skills in Java/Object Oriented Programing. Skilled in JavaScript, NodeJS, SQL, JSON
+Manage individual priorities, deadlines and deliverables
+Collaborate with QA & solution team on continuous integration and delivery as well as automated and manual testing to ensure good quality solutions are delivered to provide value to our customers
+Participate in an agile delivery process, and as part of that help size stories and own, research and recommend new solution

@@ -1,0 +1,39 @@
+Title: Java Architect
+Company: IT Trailblazers
+Location: Fremont, CA
+Type: Contractor
+
+Job Title Java Architect
+Location Albany NY
+Duration    12 months /Contract
+JOB DESCRIPTION
+INTERVIEW MODE: - PHONE+SKYPE
+VISA: - ANY
+Position Description:
+- Responsible for systems architecture, application architecture, and other related technical deliverables within the Program.
+- Design of system and application architecture for the client projects adhering to various reference architectures provided.
+- Oversee and provide technical advice, guidance and support forprojects.
+- Collaborate with various technical resources on continuous assessment of existing solutions for reuse
+- Collaborate with ITS Chief Technology Office in setting technical standards & frameworks for the client projects to align with enterprise standards.
+- Collaborate with Data Architect to build and maintain reference model architecture and standards for communicating direction of information architecture.
+- Liaison with business/program stakeholders for enterprise architecture and strategy.
+- Participate in technical discussions with state, local and vendor implementation teams and - technical deliverables to ensure alignment between proposed solutions and the program's standards.
+- Present findings and recommendations to client leadership to ensure alignment of technology across work streams and escalate technical issues appropriately
+- Explore, actively support and work on new technology initiatives that may be of interest to the organization.
+- Actively participate in troubleshooting any technical issues that the program may have.
+- Other duties as assigned
+Mandatory Qualifications:
+- More than seven (7) years of experience working on complex projects with 2 or more years in a leadership role as an Architect
+- More than (7) years of experience in providing architectural design, development, and deployment of complex software systems.
+- Five or more years of experience in designing system and application architecture of case management, financial management, or claims systems
+Desired Qualifications:
+- Experience working on highly complex projects that require in-depth knowledge across multiple technical domains and business segments
+- Five or more years of experience with design & development of frameworks, reusable components and shared services using J2EE technology
+- Experience working with enterprise wide architectures and designs across multiple IT functional areas
+- Hands-on experience in building document management and enterprise content management solutions
+- Two or more years of experience in evaluating software products to realize the system architecture such as Business Process Management, Rules Engine, Notification system and Portal
+- Understanding or experience with foundational technology components including rules engines, API gateway, BPM, IVR, noticing engine, workflow engines, middleware components, MDM, identity and access management and ETL
+- Experience in capacity planning, benchmarking, business continuity and resiliency planning
+- Bachelor's degree in computer science, information systems, or related field
+- Experience working in New York State or New York City government
+- Experience working on Health & Human services applications

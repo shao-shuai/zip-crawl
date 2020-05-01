@@ -1,0 +1,25 @@
+Title: Java Developer
+Company: Central Business Solutions, Inc
+Location: Santa Clara, CA
+Type: Full-Time
+
+Position Role/Tile: Java Developer
+Location: Santa Clara, CA​.
+Description:
+Hands on development, implementation, analysis and understanding of requirements, writing unit tests using Junit and integration tests, adhering to the defined Engineering processes and quality metrics Strong communication, analytical and debugging skills.
+Well-versed with the Agile methodology and related processes. Understanding of CI/CD tools like Jenkins, Hudson and Ansible would be added advantage.
+Apache Camel and Apache karaf will be nice to have along with familiarity of XML
+Skill - Java-RESTful Web Service-SOAP Web Service
+Responsibility :
+- Experience with Jenkins, JIRA, Confluence, Linux, Automation/Build tools like MAVEN, Gradle, Ansible etc.
+• Hands-on working experience with the Source Code Management tools like GIT, Bitbucket, and Perforce. You should be able to define and code Jenkins pipelines and any supporting scripts to achieve build and deployment automation.
+• Proven Implementation Experience with Continuous Integration/Continuous Delivery processes using various tools like Jenkins, and Nexus as binary repository.
+• Knowledge of UNIX/Linux systems administration.
+• Ability to communicate effectively and professionally, both verbally and in writing.
+• Ability to think quickly and logically to resolve issues and strong attention to detail and follow-through skills.
+• 5+ years’ experience or background in Build and Release Engineering.
+• 5+ years’ experience with development tools familiarity, process automation, tools development experience with strong Scripting skills.
+Central Business Solutions, Inc,
+37600 Central Ct.
+Suite #214
+Newark, CA 94560.

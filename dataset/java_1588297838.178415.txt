@@ -1,0 +1,20 @@
+Title: Senior Java Architect/Developer
+Company: Murano Corporation
+Location: Raleigh, NC
+Benefits: Medical
+
+Murano Corporation is a Research Triangle Park (RTP) based cloud Supply Chain Artificial Intelligence (AI) solutions catering to automotive and public sectors. We have a significant investment in our current code base and is seeking a full-time senior hands-on Java Architect/Technical Lead with experience in Java Struts, React technologies for our team. This developer will be responsible for all aspects of the software development life cycle which includes estimating, technical design, implementation, documentation, testing, deploying and support of application developed for us.
+Responsibilities:
+Lead the design, architecture, development, testing, and deployment of our multi-tenant cloud applications
+Be hands-on with the code and advocate leveraging frameworks wherever possible
+Provide architectural guidance/input around server environment, clustering, caching, security etc.
+Requirements:
+Bachelor’s Degree in Computer Engineering or related fields
+10+ years of hands-on Java development experience in a professional environment/consumer app development
+Strong experience with front-end technologies, HTML, CSS, HTML5, JavaScript, React etc.
+Prior experience developing micro services is a plus
+Strong database experience
+Experience in an agile environment and deliver rapid results
+Excellent communication, analytical and presentation, problem solving skills and learning attitude
+Must be a reliable, diligent, detail oriented, hard-working team player
+US Citizenship required

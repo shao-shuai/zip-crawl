@@ -1,0 +1,41 @@
+Title: Full-Stack Developer (Java, Python)
+Company: VMware
+Location: Palo Alto, CA
+Type: Full-Time
+
+Business Summary
+98% of Fortune 500 Companies use VMware Technology!
+The most advanced companies in the world turn to VMware to manage, grow and transform their business. When you work here, you're connected to a global community of innovative, empowered employees working together to solve the most critical technology challenges.
+VMware IT provides technology services and support, enabling efficiency, simplicity and productivity for internal business partners and external customers. The VMware IT organization provides two distinct, yet compatible functions. The IT team enables productivity and supports all employees; it also additionally supports the company in its growth as the global leader in cloud infrastructure by developing and showcasing VMware products and technology.
+We believe that creativity sparks innovation and inspires our employees to think differently and challenge the status quo. Whether it's the kind of products we develop, our approach to sustainability, or how we give back to our communities, VMware finds unique ways to bring people together to fuel creative thinking.
+Job Role & Responsibilities
+We are currently looking for a self-starting individual who is motivated and eager to learn and grow as part of a team responsible for the development of Integration tool applications, the individual may be assigned to multiple projects within the organization. Our ideal candidate is someone willing to work in tandem both within VMware and for its customers to reduce IT complexity and cost.
+In this role you will be involved in integrating Cloud, SaaS Applications and participate in Integration design and development tasks by providing technical stewardship for middleware solution implementation and enhancements.
+Required Skills
+3+ years professional experience as an Application Integration Developer
+Knowledge of Data Structures and Algorithms
+3+ years experience in Java, C/C++ Concepts of API/SDK
+3+ years' experience on IDE tools like Jdev/eclipse/SQL developer.
+3+ experience in KONG and Dell Boomi Integration tools.
+Preferred Skills
+Experience working with Containers - Docker, Kubernetes
+Experience working with Microservices - Golang / Python
+Experience with Scripting knowledge (Ansible, Python, PowerShell)
+Experience with Continuous Integration tools like GIT, Jenkins, Ant, Maven, Junit ELK stack (Elasticsearch/Kibana/Logstash)
+Knowledge of any JavaScript (Angular, React)
+Contribution to open source
+This job opportunity is not eligible for employment-based immigration sponsorship by VMware.
+Category :
+Engineering and Technology
+Subcategory:
+Software Engineering
+Experience:
+Manager and Professional
+Full Time/ Part Time:
+Full Time
+Work From Home:
+No
+Posted Date:
+2019-11-11
+VMware Company Overview: VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe.  At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what's possible today at http://careers.vmware.com.
+Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.

@@ -1,0 +1,42 @@
+Title: VMS101695 Java Developer
+Company: Metasys Technologies
+Location: Alpharetta, GA
+Type: Full-Time
+
+Request Details
+Work Location
+Alpharetta - GA
+Start Date
+5/1/2020
+Platform
+Client Server
+End Date
+12/31/2020
+Job Title
+Sr Programmer Analyst
+Start Time
+08:00
+Shift Rotation
+No
+End Time
+17:00
+On Call
+No
+Scheduled Work Days
+Monday; Tuesday; Wednesday; Thursday; Friday
+Travel
+No
+Resource Name
+Rate per Hour
+0
+Supplier Name
+Explanation Of Position
+This is a replacement position.
+Details Of Position
+Sr. Programmer Analyst responsible for all phases of application development for components comprising Web Development Technologies. Must have experience in design, development using Java, SQL Server DB, unit/integration testing and support QA. Work Experience using Weblogic, Spring, Spring boot, Maven and Angular is required. Experience developing APIs and application performance tuning is required. Candidate must be familiar with I.T. application technical standards and methodologies. Knowledge of multi-platform integrations and workflows is a strong plus. Knowledge of Mobile and Azure development. Skills: Agile Business Analysis - Advanced Communication – Advanced SQL Server – Advanced Java, Angular - Advanced
+Primary Skills
+SQL Server, Java, Angular   Advanced
+Management Skills
+Agile Business Analysis   Advanced
+Additional Skills
+Communication    Advanced

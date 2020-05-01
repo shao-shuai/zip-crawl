@@ -1,0 +1,23 @@
+Title: Sr.SDET - Java Automation Engineer
+Company: Axius Tek
+Location: Lake Saint Louis, MO
+Type: Full-Time
+
+Title: Sr.SDET - Java Automation Engineer
+Location : St. Louis, MO
+Duration:
+Fulltime
+Required Skills/Experience:
+To be part of a team that's involved in Testing of Digital payment platforms using Selenium to define test artificats, design the test plans.
+Working closely with multi shore teams to execute test plans and test cases.
+To work closely with client stake holders to provide new test solutions.
+Work closely with business stake holders to evangelize test solutions across various business groups with the client.
+Skills Required :-
+Expertise in agile and waterfall testing methodologies and tools such as JIRA, RALLY, Rational Team Concert, Quality Center, etc.
+Experience in both Unit and Integration testing needs with exposure to data virtualization tools. Experience testing across a variety of platforms: web and mobile user interface, APIs (REST and SOAP), and/or data warehouse reports.
+Expertise in software development to build and use automation frameworks using technologies: Java/.NET/C++, JUnit, Selenium, JBehave, Soap UI/Pro, Spring framework, REST, JSON and XML, Eclipse IDE, Nexus, Maven, SVN/GIT, etc.
+Demonstrated experience developing high quality test strategies and test execution     specific focus on cross browser and cross device testing.
+Ability to create good acceptance and integration test automation scripts and integrate with Continuous integration (Jenkins/Bamboo) and code coverage tools (Sonar, Clover) to ensure 80% or higher code coverage.
+Exposure to Continuous integration, Delivery, and tools such as Chef/Puppet desirable.
+Exposure to performance engineering and profiling (e.g. Java JVM, Databases) and tools such as Load Runner and JMeter desirable.
+Strong organizational and problem-solving skills with great attention to detail, critical thinking, solid communication and proven leadership skills - with the ability to lead multiple test paths simultaneously.

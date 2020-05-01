@@ -1,0 +1,21 @@
+Title: Software Engineer Java Developer Needed in San Francisco, CA
+Company: Flexon Technologies
+Location: San Francisco, CA
+Benefits: Vision
+
+Software Engineer, Java
+Location: San Francisco, CA
+Term: Fulltime Role
+WHAT YOU’LL DO:
+Build enterprise, distributed payment applications that execute settlement within seconds to enable the Internet of Value
+Prototype new solutions for complex software problems and implement them for production bank deployments
+Design, develop, and maintain web-based platforms and applications for internal and commercial use
+Work in close collaboration with members of your team within an Agile environment and contribute across the entire software development lifecycle
+Work with teams across the organization, including operations, product, marketing and business development to think beyond the technical implications of your design decisions
+WE’RE LOOKING FOR:
+A solid understanding of Java and its ecosystem
+Nice to haves: experience with Spring, SQL, Docker, AWS
+Experience building scalable and performant enterprise software
+Eagerness to work openly and collaboratively with a diverse team
+A positive attitude and a passion for sharing knowledge
+Bachelor’s in Computer Science or similar + 2 years of hands on Software Development experience in at least one of the following technologies: Java, JavaScript, Python, Rails etc.

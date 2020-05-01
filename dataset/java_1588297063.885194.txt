@@ -1,0 +1,25 @@
+Title: Junior Java Developer
+Company: Swoon
+Location: Peoria, IL
+Pay: $25 to $32 Hourly
+
+Swoon is looking for a Junior Java Developer for a leading client in Peoria, IL.
+24+ month contract
+Duties
+1. Provide technical and application support and development of web based business Java applications including off-shift and weekend support functions.
+2. Participating in integrated testing and user acceptance of application or infrastructure components
+3. Designing and implementing processes, or process improvements, to aid in development and support
+4. Document processes and procedures
+5. Assist internal users with documentation and training.
+Soft skills:
+Customer focus
+Accountability
+Required tech skills:
+Java development  - design is provided by team
+Java
+Java script
+Spring
+Azure dev environment
+Some linux skills
+Ajax
+General java tools

@@ -1,0 +1,34 @@
+Title: Java Developer with CC&B
+Company: Serigor Inc.
+Location: San Francisco, CA
+Type: Full-Time
+
+Responsibilities
+Coding and Unit Testing of assigned Technical Designs
+Create
+test
+plans and scripts for
+test
+cases to support QA and user acceptance for application changes
+Prepare and update technical documentation, keeping logs up to date with concise and relevant information
+Monitor scheduled production jobs to ensure successful completion
+Troubleshoot production problems and implement solutions
+Submit SCM (Software Configuration Mgmt) Migration Requests to
+CCB
+SME's for approval
+Requirements
+Bachelor's degree in computer science or closely related
+field
+Minimum 3 years' Java experience
+Good understanding of
+CCB
+specific Java including Oracle Utilities SDK, Eclipse 3.7 and Hibernate Query Language, with experience writing high performance, multi-threaded, critical java application extensions
+Should have broad functional
+knowledge
+of CC&B in at least 2-3 core functional areas (Billing, Payments, Credit & Collection, Financials) including good
+knowledge
+of
+CCB
+Configuration
+Experience with SQL and PL/SQL
+9NKE68VejH

@@ -1,0 +1,20 @@
+Title: Java Distributed Systems Engineer
+Company: Cloudian
+Location: San Mateo, CA
+Type: Full-Time
+
+Description
+Java, Distributed Systems Engineer
+We are seeking a conscientious Java developer who can develop outstanding software for our core products of high-performance, highly scaleable storage systems.
+You will have the opportunity to work with the hottest technologies with the latest techniques in building the best cloud storage product out there. Cloudians' work environment is for those who want to make an immediate, substantial, and visible contribution to critical software used by customers daily. At Cloudian, you will have the opportunity to not only determine how to do things better, but actually implement them.
+Your tasks will include:
+Design. Create efficient, complete, and thoughtful designs for tasks, both small and big. An example might be a scalable, distributed authentication system.
+Test. We promote a test-driven methodology where tests are designed and written before code. Automated tests are then permanently added to the regression suite.
+Code. Platform is Java using standard tools like git and eclipse. Code review is required both as reviewer and reviewee.
+Support. Work with colleagues to help sell, market, test, and support the product. This may require being available 24/7 for any P1 issues.
+Qualifications:
+Minimum of 3 years of writing production distributed, server-side Java code.
+Ability to do the above tasks quickly and completely.
+Prepared to show how you can do the above tasks. This may include demonstrable skills with Java, Python, test/QA focus, and high-performance, highly scalable systems. And the ability and willingness to learn any gaps.
+Experience with systems like Cassandra, Redis, Amazon Web Services is valuable.
+Note: No recruiters. Principals only. We will not compensate for any resumes or other leads from third-parties.

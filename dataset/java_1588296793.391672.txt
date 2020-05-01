@@ -1,0 +1,52 @@
+Title: Senior Java Developer
+Company: Ritchie Bros Auctioneers America
+Location: Pleasanton, CA
+Type: Full-Time
+
+Move, Build, Grow your career!
+As the premier global asset management and disposition company, Ritchie Bros. helps thousands of people around the world buy and sell heavy equipment, trucks, and other assets every month. With our multiple onsite and online selling platforms and commitment to first-class customer service, Ritchie Bros. is trusted worldwide for making buying and selling easy, efficient, fair, and transparent. If you're an innovator with an entrepreneurial spirit, we want you to join our growing team - employed in a wide variety of positions from sales to operations to corporate functions - as we transform the global used equipment market.
+Join us on our journey and
+move forward
+with us,
+build your success
+, and
+grow your career.
+We're looking for a
+Senior Java Developer
+based in our Pleasanton, CA office
+.
+The Opportunity:
+Officially titled as 'Senior Software Engineer', the successful candidate will contribute to a broad variety of software development activities including defining, developing, testing, analyzing, and maintaining software applications in support of business requirements, focusing on support and enhancements for all of our websites and administrative tools.  The candidate should be well versed in software development, ability to learn and work with large set of existing codebase, debugging problems, making feature enhancements and performance improvements. The candidate also researches, designs, documents, and modifies software specifications throughout the development life cycle.
+In this role you'll:
+Write clean, maintainable, and stable code to industry best practices.
+Collaborate with architects & other technical developers in conceptualizing and developing new systems.
+Analyze and assess existing systems, networks, and procedures as they pertain to application solutions.
+Create technical specifications and test plans.
+Actively support the RB Unreserved Commitment to Safety: to send everyone home, every day, the way they came to work, by taking personal responsibility for your safety and safety of your team, co-workers and customers.
+Here's what you bring:
+BS or MS in Computer Science, Information systems, or similar majors.
+At least 8 years of professional software development experience
+At least 6 years of experience with Java / J2EE technologies
+At least 2 years of experience in Angular framework (preferably Angular 2 )
+Working in an Agile environment for at least 2 years
+Experience with CSS, HTML (HTML5), JQuery, AJAX is required
+Experience with n-tier technologies and frameworks including Apache and J2EE
+Experience with Hibernate, Spring frameworks is a strong asset
+Familiar with Test Driven design
+Strong SQL/PL-SQL skills required, should be able to write high performing efficient queries
+Hands-on software troubleshooting experience
+Experience with XML, SOAP and REST web services architectures
+Experience at working both independently and in a team-oriented, collaborative environment is essential\
+Experience with GIT and Stash is essential
+Ability to effectively prioritize and execute tasks in a high-pressure environment is crucial
+Adept at conducting research into software-related issues and products
+Must be able to learn, understand, and apply new technologies
+Strong written and oral communication skills
+Strong interpersonal skills
+Keen attention to detail
+What We Offer:
+Our success is built on the drive and dedication of our people. As we grow around the globe, there will be many opportunities to advance your career - we've proven this throughout our 55  years in business. And, we'll take care of you along the way.  Here's how:
+Base salary   performance bonus
+Comprehensive medical and dental benefits.
+401(K) and an Employee Share Plan, both with company match.
+Ongoing training, professional development and ...

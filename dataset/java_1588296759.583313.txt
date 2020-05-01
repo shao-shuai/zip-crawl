@@ -1,0 +1,29 @@
+Title: Java / Backend Engineer
+Company: Vera, Inc.
+Location: Palo Alto, CA
+Type: Full-Time
+
+VERA is looking for a Senior Backend Engineer to join our team talented Server Team. You will work within the context of truly agile team, and will be involved in an impactful way helping us define the architecture and design of our server side of our offering. The server team is responsible for the backend components, which automatically secure customer data and control access. As part of this team, you will be directly involved in designing and implementing Micro-Services deployed on the Cloud and On-Premise Connector components which automatically secure content on File Shares.
+Requirements
+Bachelor's or Master's Degree in Computer Science or related field
+Expert level programming and debugging in Java
+Extensive experience building complex and highly scalable enterprise Java applications
+Experience building Micro-Services
+Understanding of deployment of services using Docker/Kubernetes/OpenShift
+Experience with Queuing infrastructure namely Apache Kafka, Rabbit-MQ and AWS SQS.
+Good understanding ofREST APIs using Jersey or Spring framework
+Comfortable working with MySQL and other relational platforms
+Experience working in a LAMP production environment
+Knowledge of scripting languages, such as Python and PHP.
+Experience with caching technologies including Redis, Memcahe
+Additional Information
+What you will get:
+A great team-oriented environment
+The freedom to be creative and make a difference
+Competitive Compensation package
+Excellent medical benefit
+At VERA, we're building the trusted standard for securing and sharing information. Join us!
+VERA is changing the way businesses around the world protect enterprise data. The VERA platform provides dynamic data protection for any kind of information, on any device, and gives you the power to revoke access at any time. We've built a smart, creative, and focused team, solving tough challenges in a diverse, fun, and flexible work environment. Together, we can change how security services are built, deployed, and delivered to enterprises.
+Backed by Battery Ventures, Sutter Hill Ventures, Amplify Partners, Capital One Growth Ventures, and some of Silicon Valley's most notable cyber-security angel investors, we're changing the way security works for the enterprise.
+Founded in 2014, VERA is headquartered in Palo Alto and led by a team of Security and SaaS industry veterans from MongoDB, Symantec, McAfee, Proofpoint, Adobe, HP and Cisco. Join us so we can deliver disruptive approaches to how some of the most sophisticated organizations in the world protect files and secure collaboration.
+For more information, visit www.vera.com.

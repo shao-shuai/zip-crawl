@@ -1,0 +1,15 @@
+Title: Java Developer In Networking Domain
+Company: Connvertex Technologies
+Location: San Jose, CA
+Type: Full-Time
+
+Overview
+Connvertex is seeking a Java Developer In Networking Domain in San Jose, CA
+Job Description:
+Should have extensive experience in Java / J2EE
+Should have extensive experience in XML, XML parsers, JSON, JSP, JavaScript, and RESTful web Services.
+Should have Networking background (should have worked in a networking/storage/compute company or product in past 1-2 jobs)
+Should be proficient with Virtualization, Compute, Storage Module with expertise on EMC/Netapp/Nimble/SAN/etc
+Should be well versed with development process, especially unit testing / Junit / any other unit testing tool
+Should have excellent debugging skills
+Should be very strong in Technical Communication and leadership skills

@@ -1,0 +1,37 @@
+Title: Java Developer
+Company: Varite
+Location: San Jose, CA
+Type: Full-Time
+
+Required Qualifications
+:
+·         10+ years of information technology experience
+·         8+ years of experience in Software Development
+·         3+ years of experience with full stack development
+·         Be able to write clean and immaculate Java code (preferably Java 8 and higher)
+·         Experience developing RESTful API’s and/or Micro Services with Spring Boot technology stack
+·         Experience with Angular and/or REACT frameworks
+·         Experience in Relational and NoSQL databases.
+·         Experience in Linux and/or Unix OS.
+·         Knowledge of Struts and Spring frameworks
+·         Experience in developing software in Agile methodology
+·         BS in Computer Science or other quantitative fields such as Statistics, Mathematics, Physics, or Engineering.
+Preferred Qualifications:
+·         Experience in developing software on cloud platforms including Heroku and AWS with a deep understanding of design for scalability, performance and reliability.
+·         Experience with Kafka and/or Kinesis
+·         Experience with building pipelines using Bamboo, Jenkins, and/or ansible
+·         Experience in building quick POC and prototype with a good sense of lessons learned and a clear interest and passion in trying out what was learned into new projects.
+·         Familiar with front-end technology and related frameworks such as HTML5, CSS and Bootstrap.
+·         Good understanding of key machine learning and statistical analysis concepts and have experience working with data scientists and data engineers to deliver high quality solutions.
+·         Experience in medical device industry
+·         MS/PhD in Computer Science or other quantitative fields such as Statistics, Mathematics, Physics, or Engineering .
+Area of the interview topics.
+1)      Core java, collections, design patterns
+2)      Distributed cache, JMS and kafka if worked
+3)      Spring boot, security, session management
+4)      Struts if there is experience
+5)      Just git basics
+6)      Database relations and its concepts
+7)      System design
+8)      Cloud concepts if there is exposure.
+9)      Auto Build&Deployment process

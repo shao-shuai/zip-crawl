@@ -1,0 +1,13 @@
+Title: Backend Java Developer
+Company: TSR Consulting
+Location: New York, NY
+Type: Full-Time
+
+Backend Java Developer
+New York, NY
+Skills & Requirements
+Highly experienced backend Java developer
+Java - 10 plus
+Spring - 10 plus
+JMS
+Database - Oracle preferred

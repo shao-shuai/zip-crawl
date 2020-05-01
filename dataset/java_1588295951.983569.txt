@@ -1,0 +1,37 @@
+Title: Senior Hadoop Developer with Java
+Company: VLink Inc.
+Location: New York, NY
+Type: Full-Time
+
+Hadoop Developer with Java
+New York City, NY
+Contract
+Please follow this JD for Hadoop profiles.
+Job Types: Contract
+Essential Functions
+Technical Expertise in Spring framework [Core, Boot, Data, MVC], Spring Cloud, and Web Services (REST, SOAP) supporting high volume transactions in a Highly Available environment
+Code craftsmanship; rigor in high code quality, automated testing (JUnit, Mockito, Cucumber), and agile engineering best practices.
+Experience working with the tools like Eclipse/IntelliJ Idea, CI/CD enablement
+Git, Maven, REST and SOAP.
+Hadoop (Hortonworks [HDP]) , HDFS, Hive, Tez, Spark, Oozie, HBase
+Preference for those who have programmed in Java/Scala utilizing Hadoop, AWS, Spark, and/or Kafka.
+Functional programming experience is desired.
+Strong SQL knowledge is a must
+Responsibilities and Duties
+10+ years' experience in a development role.
+5 years of experience building scalable applications
+Modern programming language (
+Java, Scala, SQL
+) excellence
+Experience working in teams through the full life-cycle of software development through design, development, quality and deployment
+Experience with modern distributed systems (
+Hadoop, Kafka
+)
+Experience with
+Java, Spring Integration Framework
+Experience building fast and responsive web applications.
+Required Experience and Qualifications
+B.S. in computer science, software engineering, computer engineering, electrical engineering, or related area of study.
+Experience:
+Hadoop, Kafka, Spark: 2+ Years(Preferred)
+Java Development: 5+ years (Preferred)

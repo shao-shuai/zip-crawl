@@ -1,0 +1,19 @@
+Title: Java Fullstack plus SQL Exp
+Company: Tekreliance LLC
+Location: San Jose, CA
+Type: Full-Time
+
+Java full stack plus SQL/backend Database
+5+ years of strong Oracle SQL, PL/SQL programming, complex SQL query tuning, and database performance optimization experience.
+5+ years of Software Development experience working with Java and/or JavaScript technologies:
+Java Linux; Tomcat/Apache/JBoss; J2EE technologies; Java frameworks:
+Spring Java application servers (e.g., JBoss, Apache, WebLogic, or WebSphere).
+HTML, CSS, JavaScript.
+Spring, Spring Boot, Spring Cloud, Spring Security experience a plus.
+Hibernate/JPA experience a plus.
+Experience with RESTful APIs.
+Experience with infrastructure tools including Jira, Confluence, BitBucket, Jenkins, and Git a plus.
+Experience with Docker containers, microservices, and CI/CD pipeline a plus.
+Experience with advanced Python development a plus.
+Preferred:
+Local candidates who can come in for an in-person interview.

@@ -1,0 +1,37 @@
+Title: Senior Java Developer
+Company: Matrix Precise, Inc.
+Location: Oakland, CA
+Type: Full-Time
+
+About Matrix Precise:
+Matrix Precise Inc. is a Technology Development, Consulting and R&D Company.  We provide solutions in the areas of facial recognition, smart retail, handwriting recognition and smart robots.  Our client services also entail a range of development and support solutions from web and mobile application development, infrastructure and production support and testing services.  We offer very competitive compensation and benefits packages including health insurance and 401K.
+Position Overview:
+This position is for a Java Developer/ Architect who will be working on developing, designing and architecting heavily data oriented clinical care path applications.  This position requires 85% of hands-on programming and 15% of architecting Java/J2EE applications.
+The individual will be responsible for developing, implementing, maintaining and supporting Java based components and interfaces. The position requires broad understanding of various coding methodologies, testing practice, and tools and accordingly apply each method to achieve the desired outcomes.
+The ideal candidate is a highly motivated professional, hands-on Java developer with strong analytical and problem-solving skills, who has a track record of demonstrated complex technical accomplishments (e.g. public domain code contribution, technical blog demonstrating complex technical solution, etc.).
+The individual exhibits excellent written and oral skills, with demonstrated interpersonal and organization abilities.
+Responsibilities:
++ Develop and implement solutions to meet requirements using Java/JEE and SQL Server architecture
++ Identify and analyze business requirements while maintaining development standards
++ Willing and able to do 35 +/- hours a week of hands on programming, development and/or code review.
++ Document, maintain and present best practice strategies to ensure near-term changes are aligned with long-term IT objectives
++ Able to prioritize work throughout the software development life cycle, while executing well-designed and efficient code
++ Review, test and debug team members? code, as well as document development phases
++ Design database architecture
+Qualifications:
++ Solid (8+) years as a Senior Java Developer or similar role
++ Experience in architecture, systems integration and implementation
++ Experience designing, building and testing JEE applications
++ Significant experience in SQL Server
++ Experience with Object-Oriented Design (OOD)
++ Experience with Service Oriented Architecture environment
++ Full application development life cycle experience
++ Versioning systems and release management
++ Excellent communication skills with the ability to function equally well as a team member and individual contributor.
+Desirables:
++ Demonstrated complex technical accomplishments (e.g. public domain code contribution, technical blog demonstrating complex technical solution, etc.)
++ Linux (Redhat preferred)
++ Health care domain knowledge will be a plus
+Education:
++ Bachelor's Degree or equivalent experience in Engineering
++ Master's Degree is preferred

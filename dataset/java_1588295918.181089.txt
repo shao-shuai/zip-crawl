@@ -1,0 +1,16 @@
+Title: Java Full stack Developer
+Company: Sumeru Solutions
+Location: San Jose, CA
+Type: Full-Time
+
+Note - Looking for 8+ Years only
+Expert knowledge of Java and object oriented design patterns.
+Expert knowledge of Dependency Injection. Experience with Spring, EJB3 or Guice is a must. Experience with Guice is preferred not must
+Experience with Oracle or MySQL and writing SQLs.
+Experience in Angular JS or similar Javascript frameworks
+Expert knowledge of junit, Mockito or other unit testing best practices.
+4+ years of experience developing and deploying applications on Unix/Linux environments
+Experience with ORM such as Hibernate ORM
+Experience with Web development OR REST/ SOAP web services development and design priniciples
+Experience with source control and build technology (e.g. Ant, Maven), 4+ years of experience
+Experience developing on Google AppEngine and CloudSQL. Knowledge in ETL / Pentaho / Android is a plus

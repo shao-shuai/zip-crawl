@@ -1,0 +1,21 @@
+Title: Java Developer -Back-end Hibernate-PD
+Company: Access Staffing, LLC
+Location: New York, NY
+Type: Contractor
+
+Our direct client, a global financial services company is seeking a Back-end Java Developer for a long term consulting engagement.
+As a member of the back-end engineers’ team, you are part of a sprint based Agile team, using Java to
+build our next generation of reactive microservice-based applications.
+You are in constant communication with the Product, UX, Frontend teams to ensure coherence and
+high-quality delivery.
+You help enforcing code quality and best practices via peer code reviews.
+You will need to demonstrate skills/experience in
+Java: 5 years
+Hibernate: 3 years
+UML proficient
+And it would be great if you also have experience in
+Java Stream API
+Docker
+Gitlab
+K8s
+Apply today for immediate consideration !!

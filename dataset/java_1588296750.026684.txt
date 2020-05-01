@@ -1,0 +1,34 @@
+Title: Java Developer
+Company: TransPerfect
+Location: San Francisco, CA
+Type: Full-Time
+
+TransPerfect Is More Than Just a Job...
+Our greatest asset is our people, and nothing is more important to us than ensuring that everyone knows that. Each of our 90+ offices has its own individual identity, and each also has its own unique rewards.
+Overview
+:
+Translations.com is looking for several talented software engineers to work on web-based applications. The developers in this group work on plugins for Content Management Systems.
+Translations.com is a world leader in website localization, software localization, GMS (Globalization Management System) software products, and enterprise-level, professional translation services. Our translation solutions allow a diverse array of clients to deliver local language products, services, applications, training, and content in a culturally appropriate manner.
+Description
+:
+We are looking for talented engineers (developers, senior developers, tech leads) to help us build next generation localization plugins and connectors for leading content management systems, eCommerce platforms and product information management (PIM) systems. In this role you will work with product managers, UI designers, sales and marketing managers to develop new plugins/connectors and to enhance existing ones. As a member of the team, you will work on all aspects of the product from enhancing UI functionality and ease-of-use to designing efficient database schemas and everything in between. This is a great opportunity to influence our product functionality and to work with exciting and challenging technologies.
+This is a full time position. Candidates must like working in a startup-like environment while at the same time working for one of the largest translation services companies in the world. These positions are based at multiple Translations.com office locations throughout Europe. You will be working as part of our global engineering team, reporting to the manager in US.
+Required Skills/Experience:
+2-8 years of Software Design and Development experience.
+Must be experienced in Java/ J2EE stack Spring MVC, Spring Core, Spring Boot and Hibernate.
+Frequent usage of Spring, Reactive programming, Threads and Annotations.
+Experience in Web Application Development (Web and Micro services) and SOA.
+Experience in building REST based services and/or applications.
+Experience in building web UI using such JavaScript frameworks like Angular, Dojo toolkit, JQuery etc.
+Experience in following Java coding standards and knowledge of software development tools including GIT, Maven and JIRA.
+Experience in writing SQL and NoSQL queries.
+Good problem solving and analytical skills.
+Open to work in multiple technologies.
+Can work with minimal supervision.
+Good communication skills
+Proficient in English
+Bachelor's Degree in Computer Science or equivalent
+Desired Skills/Experience:
+Knowledge of source code repositories such as SVN, GitHub or BitBucket
+Comfortable interacting with clients
+Good documentation skills

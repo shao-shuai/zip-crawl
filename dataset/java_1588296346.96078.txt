@@ -1,0 +1,27 @@
+Title: Full Stack Java/J2EE Developer (Contract)
+Company: Neal Analytics
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Neal Analytics helps companies turn data into a valuable asset and a competitive advantage. Whether it's trying to understand past performance or predict the future, our team of expert analysts and data scientists will work with you to find the untapped value that's hidden in the ever-growing forest of data inside and outside your business. From data warehousing and dashboards to big data and advanced analytics, Neal Analytics has the skills and experience to deliver game-changing results for your company.
+Neal Analytics today is a leading AI / ML firm in the NW is helping one of our larger commercial clients with data science work.
+For this client, we are looking for a Full Stack Java/J2EE Lead Developer, who has more than 10 years of software development experience with a skill set in designing and writing codes for developing custom applications and integrations using Java/J2EE. He must also have strong experience in API Development using J2EE, and is comfortable working in Databases such as Oracle, SQL Server DB, NoSQL or Cassandra.
+Requirements
++ 10+ years of Software development experience with following skills:
++ Extensive experience solutioning, design and writing code for developing custom applications and integrations using Java/J2EE (must have)
++ Extensive experience with Persistence Layer and ORM frameworks such as Spring and Hibernate (experience in at least one - must have)
++ Strong experience in API development using J2EE (must have)
++ Experience in deployment frameworks such as ANT, Maven, Gradle (experience in at least one - must have)
++ Databases: Oracle, SQL Server DB, NOSQL or Cassandra (must have)
++ Good knowledge of SQL (must have)
++ Experience with servers/runtime such as Weblogic, Tomcat, Jetty, Node.js (experience in at least one - must have)
++ Good Understanding of J2EE Design Patterns, Micro and Monolothic services architecture, Containerization Security concepts etc. (must have)
++ Software development experience in Python (nice to have)
++ Experience of Continuous Integration and Continuous delivery (nice to have)
++ Experience with tools like GIT, Github, Jenkins.
++ Experience with Integrating with Salesforce and other cloud applications.
++ Expertise in common protocols and technologies such as XML, SOAP, REST, XSLT, HTTP, XQuery
++ Experience with ASP and .NET (nice to have)
++ Experience with stream-processing software platform such as Apache Kafka (nice to have)
+Benefits
+Competative rates and benefits

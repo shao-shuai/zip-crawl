@@ -1,0 +1,28 @@
+Title: SR Java MVC developer
+Company: Synaptein Solutions Inc.
+Location: Emeryville, CA
+Type: Full-Time
+
+Java Spring Developer:
+Understand Business Requirements and functionality in partnership with SMEs
+Ability to understand business processes and map them to implementation
+Analyze requirements and technical specifications and implement assigned development tasks using various web technologies.
+Develop, maintain, and debug cloud based applications
+Maintain and extend existing on-premise software systems
+Be able to dig in and troubleshoot pre and post production issues.
+Essential Skills
+:
+Strong development experience in developing enterprise web applications using Java, JSP and Spring MVC
+Experience in any of the Java frameworks like Spring, Spring Boot, Struts and Angular 5+ etc.
+Fluency in Java 8, OOPs concepts and design patterns
+Must have good knowledge on ORM frameworks like Hibernate and database programming of SQL, stored procedures, triggers etc.
+Experience in Web Services development using REST APIs/XML/JSON
+Agile and quality deliverables, Excellent analytical & problem solving skills and customer service skills
+Ability to work independently and communicate clearly with stakeholders.
+Should be familiar with tools like Git, SVN, Jenkins, Putty etc.
+Code craftsmanship; rigor in high code quality, automated testing (JUnit, Mockito, Cucumber), and agile engineering best practices
+Desirable (but not essential)
+:
+Exposure to cloud platforms like AWS, Azure and GCP
+Exposure to Shell scripting and Linux environment
+Front end experience using JavaScript, jQuery, HTML5, CSS3

@@ -1,0 +1,57 @@
+Title: Java Full stack with MicroServices
+Company: Techlink Systems
+Location: San Francisco, CA
+Benefits: Vision
+
+Detailed Job Description:
+Title:   # Java Full stake with Micro Services
+Location: Downtown San Francisco, CA
+Duration: ~- Contract to hire
+Job Description
+As part of Digital Technology Team - Design, Develop and document microservice and system components consisting of several objects working together to execute a business function of the larger system. Interact with software architects or other Business /technical leader to understand subsystem and component specifications and recommend changes to facilitate efficient and effective development. Interact with representatives of other cross-functional teams to understand and/or recommend requirements and strategies for the project
+Duties And Responsibilities
+Work with the business and IT team to understand business problems, and to design, implement, and deliver an appropriate solution using Agile methodology across the larger program. 15%
+Develops code and test artifacts that reuse subroutines or objects, is well structured, backed by automated tests, includes sufficient comments and is easy to maintain 10%
+Work independently to implement solutions on multiple platforms (DEV, QA, UAT, PROD) 5%
+Provide technical direction, leadership, and reviews to other engineers working on the same project 5%
+Implement and debug subsystems/microservice and components. 5%
+Participate in integrated test sessions of components and subsystems on test and production servers. 5%
+Follows automate-first/automate-everything philosophy 5%
+Determine and communicate the implications of system-level decisions on subsystems and components, and help determine how best to mitigate or take advantage of these implications 5%
+Perform tasks efficiently and work together with the team to ensure project success. 5%
+Support management of the team’s technical infrastructure (e.g., repository, build system, testing system) under guidance from the systems engineer or another project leader 5%
+Hands-on in multiple programming paradigms, not limited to Object-Oriented 5%
+Skills, Knowledge, and Abilities: Required Skills/Experience
+5+ years IT-Software/ Software products
+Bachelors in Science – Computer Science or equivalent
+Hands-on experience with system programming, development of service/module type of applications in Java, Nodejs, and mainstream scripting.
+Understanding of Microservice technologies including- Sprint Boot, Java, Javascript, Node Js, Git, Jenkins
+SQL Server, Stored Procedure,
+Kafka
+Openshift, Apigee API Integration platform
+Preferred Skills/Experience
+Container style of programing– Micro-services, Docker, Openshift
+Experienced across programming languages, patterns and data structures.
+Adequate hands-on experience with Multi-Threaded development covering thread aync & synchronization, locks, database concurrency, Good knowledge, and experience.
+Applied knowledge of Object Orientated programming concept (OOPS), Microservices, Operating System (OS) concept and UML
+Proficient with software Architecture, design patterns and strong demonstrated experience in building frameworks.
+Strong computer science background including distributed computing.
+Good knowledge of software development tools and methodologies.
+Good knowledge of secure coding practices is a plus.
+Thorough understanding and hands-on experience in the development of all layers of enterprise applications to analyze system scalability, integration, and performance issues as well as internationalization utilizing either Unicode and/or multi-byte databases
+Good exposure of software development life cycle, development process flow and the usage of their tools
+Must be aware of Agile, Incremental or spiral development methodology
+Excellent diagnostic and troubleshooting skills, problem-solving, and an ability to learn quickly
+Domain Knowledge in Financial Service is a plus
+Good communication skill to articulate views/thoughts with team and partners or customers without any gap
+Willingness and ability to learn new technologies
+Expert knowledge of computer languages, data structures, program design methods, and techniques.
+Ability to troubleshoot complex problems systematically
+Self-motivated, thorough, and methodical
+Overall knowledge of the computing environment at large, e.g. typical uses and user populations of operating systems, communications protocols, hardware platforms, etc
+Physical Requirements:
+Vision must be sufficient to read data reports, manuals, and computer screens.
+The hearing must be sufficient to understand a conversation at a normal volume, including telephone calls and in person.
+Speech must be coherent to clearly convey or exchange information, including the giving and receiving of assignments and/or directions.
+Position involves sitting most of the time but may involve walking or standing for brief periods of time.
+Must be able to travel in a limited capacity.

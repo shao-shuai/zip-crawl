@@ -1,0 +1,16 @@
+Title: Java Lead
+Company: Agile enterprise solutions
+Location: 94102, CA
+Type: Full-Time
+
+Java Role
+Restful, Web Service, Spring, Hibernate
+Description
+Location: South SFO, CA
+Skill - RESTful Web Service, Spring, Hibernate, AngularJS
+Responsibility - Development Lead"
+1. 10+ years of experience in Core Java , J2EE
+2. Good knowledge on Java 8 Spring 5, Hibernate 5, Rest, Web Services, Postgre, SQL, Angular JS 8
+3. Able to work independently & Self-motivated individual
+4. Very good in Communication and Interaction.
+Email: david_sandstone@agilees.com

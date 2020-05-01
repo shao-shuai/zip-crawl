@@ -55,7 +55,6 @@ def process_link(link):
 	"""
 	response = requests.get(link).content
 	page = BeautifulSoup(response, 'lxml')
-	# articles = page.find_all("article", {"class": "job_result zr_job_result t_job_result has_job_apply"})
 	articles = page.find_all("article")
 
 	return articles

@@ -1,0 +1,22 @@
+Title: Java Cloud Developer
+Company: VLink Inc.
+Location: San Jose, CA
+Type: Full-Time
+
+Are you serious about your career change?
+We are a fast-growing company that is committed to helping in your next career move.
+Job Description
+Experienced distributed systems engineer to develop back-end MEC (Mobile Edge Compute) infrastructure
+Shall have experience working with distributed & agile teams
+Programming in Golang experience developing production grade code.
+Experience in RESTful API development.
+Should have Knowledge of with one or multiple messaging technologies systems Cassandra, Kafka, ZooKeeper and related database.
+Should have Knowledge of Docker, Mesos, Kubernetes, and/or related virtualization and cluster management systems.
+Quick in picking up new technologies and contributing to existing code.
+Shall work in team environment , handling independent responsibility with minimal hand holding
+Golang is the preferred language. if no Golang, then should have experience in both Java or C++ and should be willing and quickly learn and adapt to Golang & its tool chain
+Since its inception in 2006, VLink has become a reliable and nimble partner with a primary focus on small and mid-sized global customers in North America and APAC regions, providing information technology and strategic workforce solutions. Our engineering mindset and access to a global talent pool enable us to swiftly create affordable and tailored solutions.
+Learn more about us.
+VLink offers benefits such as comprehensive health plan, 401k match, critical illness, short-term disability, accidental insurance, life insurance, employee discounts, remote work, flexible schedule, paid vacation/sick days and floating holidays.
+EEO, ADA, FMLA Compliant
+VLink is an equal opportunity employer. At VLink, we are committed to embracing diversity, multiculturalism, and inclusion. VLink does not discriminate on the basis of race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. All aspects of employment including the decision to hire, promote, or discharge, will be decided on the basis of qualifications, merit, performance, and business needs.

@@ -1,0 +1,26 @@
+Title: Java Fullstack Developer
+Company: The Accuro Group
+Location: San Leandro, CA
+Type: Full-Time
+
+Job Description:
+·       Developing back end website applications.
+·       Creating servers and databases for functionality.
+·       Ensuring cross-platform optimizations
+·       Maintain quality and ensure responsiveness of applications.
+·       Working alongside graphic designers for web design features.
+·       Developing front end web architecture.
+·       Designing user interactions on web pages.
+·       Designing and developing Microservices/APIs.
+Skills:
+·       Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience.
+·       7+ yrs. of Proven experience as a Full Stack Developer (must have both front-end and back-end dev skills).
+·       Proficiency with fundamental front end languages such as HTML, CSS and JavaScript.
+·       2+ yrs. of experience or equivalent skills with FE frameworks specifically Angular.
+·       Familiarity with CSS preprocessors, bundlers, and associated languages/syntaxes/libraries e.g., Sass, Less, webpack, Bulma
+·       JS-based build tools like Grunt, Gulp, or Bower
+·       3 yrs. of experience or equivalent skills with server side frameworks/languages specifically SpringBoot/Java
+·       Experience with design and construction of REST API
+·       2 yrs. of experience or equivalent skills with RDBMS and NoSQL technologies such as AWS RDS, PostgreSQL and MongoDB.
+·       Proficieny with CI/CD pipelines (Jenkins) and deployment strategies
+·       Source control with Git, and code hosts such as Github, BitBucket

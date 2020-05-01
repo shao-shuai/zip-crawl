@@ -1,0 +1,30 @@
+Title: Java Application Developer-Dallas, TX
+Company: Accenture
+Location: San Jose, CA
+Type: Full-Time
+
+Accenture Flex offers you the flexibility of fixed duration project-based work powered by Accenture, a leading global professional services company. Accenture is consistently recognized on FORTUNE's 100 Best Companies to Work For and DiversityInc's Top 50 Companies for Diversity lists.
+As an Accenture Flex employee, you will apply your skills and experience to help drive business transformation for leading organizations and communities.  In addition to delivering innovative solutions for Accenture's clients, you will work with a highly skilled, diverse network of people across Accenture businesses who are using the latest emerging technologies to address today's biggest business challenges.  You will receive competitive rewards and access to benefits programs and world-class learning resources.
+Job Description
+Java Technology Platform professionals develop application using Java technology. The Java technology platform is a computing environment that allows for developing and executing applications for small and mobile devices consumer and embedded systems , PC desktops and medium to large businesses.
+Adapts existing methods and procedures to create possible alternative solutions to moderately complex problems.
+Understands the strategic direction set by senior management as it relates to team goals.
+Uses considerable judgment to determine solution and seeks guidance on complex problems.
+Primary upward interaction is with direct supervisor.
+May interact with peers and or management levels at a client and or within Accenture.
+Determines methods and procedures on new assignments with guidance.
+Decisions often impact the team in which they reside.
+Manages small teams and or work efforts if in an individual contributor role at a client or within Accenture.
+Basic Qualifications:
+Minimum 2+ years of Java application development experience
+Additional Required Skills:
+Experience with a framework such as Angular, React, etc.
+Experience with Spring framework ( MVC, Springboot, etc.)
+Experience with REST services
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Accenture is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.
+Equal Employment Opportunity
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+Accenture is committed to providing veteran employment opportunities to our service men and women.

@@ -1,0 +1,21 @@
+Title: Java Developer
+Company: IT RESOURCE SOLUTIONS
+Location: Columbia, SC
+Pay: $40 to $45 Hourly
+
+Our great client in Columbia, SC is currently is searching for a skilled Java Developer to assist them on a 6 month contract (with possible extensions). The ideal candidate will have 5+ years of Java Developing experience, along with thorough technical knowledge of the capabilities of available hardware and software resources.  Below are additional details and requirements for this opportunity. Please apply today if interested!
+JOB DESCRIPTION:
+• Develop functional design and technical specifications, concept diagrams, and work flow diagrams, in coordination with analysts, development, and/or applicable administrative areas, including user interfaces for web applications, maintenance, monitoring, and software builds and releases.
+• Develop coding to implement project designs for new features or new browser-based systems applications, and debug existing code.
+• Ensure team members understand the business requirements that drive the analysis and design of quality technical solutions, organizational standards are maintained, and applications are delivered according to project timeliness. Provide expert system knowledge, perform research, attend meetings, and review documents.
+• Provide post implementation support, including creation of systems enhancements, and instruction to production support team. Research customer issues and determine appropriate resolutions.
+• Provide estimates as to the duration and cost of future projects.
+Requirements:
+Java EE 1.5+ (same as J2EE); JSP; JSTL (JavaServer Pages Standard Tag Library); or equivalent coding language
+Axure or similar prototyping tool with HTML
+Balsamiq or similar wireframing tool
+UX Research experience
+Graphic Design skills and appropriate software experience with Adobe Suite
+Working in and with Content Management System(s)
+Bachelors in Computer Science, Information Systems, or other job related field
+User Experience (UX) and User Interface (UI) Design

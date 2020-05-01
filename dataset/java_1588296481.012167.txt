@@ -1,0 +1,22 @@
+Title: Java Application Developer - Pleasanton, CA
+Company: Accenture
+Location: Pleasanton, CA
+Type: Full-Time
+
+Accenture Flex offers you the flexibility of fixed duration project-based work powered by Accenture, a leading global professional services company. Accenture is consistently recognized on FORTUNE's 100 Best Companies to Work For and DiversityInc's Top 50 Companies for Diversity lists.
+As an Accenture Flex employee, you will apply your skills and experience to help drive business transformation for leading organizations and communities.  In addition to delivering innovative solutions for Accenture's clients, you will work with a highly skilled, diverse network of people across Accenture businesses who are using the latest emerging technologies to address today's biggest business challenges.  You will receive competitive rewards and access to benefits programs and world-class learning resources.
+Job Description
+Java Technology Platform professionals develop application using Java technology. The Java technology platform is a computing environment that allows for developing and executing applications for small and mobile devices consumer and embedded systems , PC desktops and medium to large businesses.
+The Java developer with Spring boot experience will work closely on backend applications, developing new features and resolving customer issues. This includes making improvements om existing applications. You will have a strong engineering background and willingness to learn. Software development experience with one or more general purpose programming languages, including but not limited to: Java, exposure to Java AWS and Spring Boot.
+Basic Qualifications
+Minimum 2 years of Java Development experience
+Minimum 1 year of Spring Boot experience
+Front End
+Minimum of 2 years JavaScript experience
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture.
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+Accenture is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.
+Equal Employment Opportunity
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+Accenture is committed to providing veteran employment opportunities to our service men and women.

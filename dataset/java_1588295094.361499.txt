@@ -1,0 +1,39 @@
+Title: Senior IT Software Engineer (Java/Node/React)
+Company: Palo Alto Networks
+Location: Santa Clara, CA
+Type: Full-Time
+
+Our Mission
+At Palo Alto Networks everything starts and ends with our mission:
+Being the cybersecurity partner of choice, protecting our digital way of life.
+We have the vision of a world where each day is safer and more secure than the one before. These aren't easy goals to accomplish - but we're not here for easy. We're here for better. We are a company built on the foundation of challenging and disrupting the way things are done, and we're looking for innovators who are as committed to shaping the future of cybersecurity as we are.
+Your Impact
+Identify business requirements by establishing a personal rapport with actual, potential and internal clients
+Design, develop, test, and document scalable, high-quality business applications
+Recommend alternate approaches, analyze impacts, and provide sizing estimates
+Collaborate with other cross-platform team members to build effective integrations
+Participate and provide substantial input in design sessions and code reviews
+Work with business requirement stakeholders to design, develop and refine the graphical user experience of an application
+Mentor the team and help them grow technically. Help to improve the quality of the team's output
+Prepare project-related documentation, GAP analysis, functional specifications, design specifications, and complete development activities including reports, interfaces, conversions, enhancements, and forms during different stages of a project
+Your Experience
+Experience in Java and Spring Boot (C# is a bonus) and Javascript development within the Agile / Scrum environments and large implementations
+Experience in designing and developing applications and services using SOA methodology, Microservices, and decoupled Architecture concepts
+Experience with developing Single Page Applications deployed in Cloud (AWS or GCP). Feel for great UI experience and performance. Past work with CNDs is a plus
+Experience with CSS and HTML required, Node.js and React.js are nice to have
+Ability to manage multiple simultaneous deliverables in a fast-paced environment
+Strong understanding of integrated flows for customer support processes
+Must be comfortable accessing and manipulating various web and local data sources such as relational (SQL) and NoSQL databases, RESTful API's calls
+Learn and adapt to new programming languages and technologies on an as-needed basis
+Communicate project status and needs to the team and project lead to minimize any impact of change
+Must have experience debugging, logging and tracking issues
+Bachelor's degree or equivalent in Computer Science or a related degree
+MySQL, SQL Server, Visual Studio, IntelliJ, GIT, UI Frameworks, IIS, Express.js, AWS, GCP, Docker, Kubernetes, Jira, Confluence, and others
+The Team
+Working at a high-tech cybersecurity company within Information Technology is a once-in-a-lifetime opportunity. You'll join the brightest minds in technology, creating, building, and supporting tools and enabling our global teams on the front line of defense against cyberattacks.
+We're connected by one mission but driven by the impact of that mission and what it means to protect our way of life in the digital age. Join a dynamic and fast-paced team of people who feel excited by the prospect of a challenge and feel a thrill at resolving technical gaps that inhibit productivity.
+Our Commitment
+We're trailblazers that dream big, take risks, and challenge cybersecurity's status quo. It's simple: we can't accomplish our mission without diverse teams innovating, together.
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+EOE Protected Veterans/Disability.

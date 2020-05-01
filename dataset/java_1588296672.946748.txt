@@ -1,0 +1,46 @@
+Title: Sr. Golang Developer ( DevOps, Java, Kubernetes, REST , JSON, XML, Jenkins, Agile)
+Company: TEG Global
+Location: San Francisco, CA
+Type: Full-Time
+
+TITLE:  Sr. Golang Developer
+( DevOps, Java, Kubernetes, REST , JSON, XML, Jenkins, Agile)
+Seeking local Candidates to San Francisco, CA.
+The position requires no travel.
+On-site role - no remote work.
+12 Month Plus job - On-going
+No travel allowance to be onsite.
+Job Responsibilities
+:
+Development (coding) of new functional features
+Debug & resolve software defects
+Maintain high standards for code quality, and ability to refactor for optimized solutions
+Participation in regular solution design sessions to analyze options and benefits
+Solution Documentation
+Decompose business requirements into small technical requirements
+Accurately assess effort to complete work
+Testing & Automation of new software product features within the CI/CD pipeline
+Required Experience:
+Must be an expert in Golang
+Experience with Java
+Experience with Kubernetes
+Experience with DevOps Technology like Jenkins, Travis CI, etc.
+Familiarity with SOA/web services - REST, JSON, XML
+Experience writing, reviewing and documenting code
+Familiarity with Agile methodologies and principles
+Familiarity with DevOps practices (Continuous Integration/ Delivery/ Monitoring/etc)
+Problem solving, interpersonal, and time management skills to handle high-pressure, complex situations effectively
+Demonstrated communication skills, and the ability to work directly with clients/customers
+Preferred Experience:
+2+ years machine learning development, focused on natural language processing
+2yrs programming experience with REACT
+Experience with version control systems: GitHub
+Experience with databases (SQL, NoSQL)
+Location:
+San Francisco, California
+Start Date
+:   ASAP
+Project Duration
+: 1 year with strong probability / possibility to extend
+Remote work Allowed
+: No - Must be on-site with no travel allowance or relocation assistance

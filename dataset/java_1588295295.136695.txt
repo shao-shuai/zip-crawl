@@ -1,0 +1,38 @@
+Title: Sr. Software Engineer (Java Backend)
+Company: TechOne
+Location: Santa Clara, CA
+Type: Contractor
+
+Sr. Software Engineer (Java Backend)
+Location: Santa Clara, CA
+Duration: 9 months, extendable (contract to hire possible)
+Collaborates with project stakeholders to identify product and technical requirements. Conducts analysis to determine integration needs.
+Experience working with Agile methodologies (Scrum) and cross-functional teams (Product Owners, Scrum Masters, Developers, Designers, Business Analysts)
+Demonstrated experience and understanding of 'DevOps' as it pertains to application development (+)
+Analyze business requirements/processes and system integration considerations to determine their feasibility, time requirements, compatibility with current systems, architecture standards, and provide appropriate technology solutions
+Demonstrated knowledge of Distributed and Scalable systems
+Provide direct hands-on support in the design, deployment, administration, and monitoring of production systems at scale in a Hybrid Environment with AWS and VM.
+MUST-HAVE Qualifications:
+6-8 years of experience with Expertise in
+Java
+and J2EE, Understanding of service design for AWS Cloud environment, specifically microservices development
+Experience in Cloud,
+AWS
+Engineering & Development (+)
+Knowledge about API design standards, patterns and best-practices especially Swagger and OpenAPI 3.0, REST, SOAP, MQ, JSON, Microservices etc.
+Java
+Microservices
+, RESTful Web Services
+Microservices Design Patterns
+Spring
+Boot, Spring Cloud, Hibernate
+JMS, queues, JBoss/Wildfly
+Unit testing with JUnit, Easymock, Mockito
+Bachelor's or Master's Degrees in Engineering discipline preferably Computer Engineering, Computer Science, Information Systems, or other related field or equivalent work experience.
+Good-to-Have skills
+Experience on AWS Services is a big plus, such as EC2, ECS, ECR, Lambda, FSx, Elastic Cache, Route, CloudFront, API Gateway, S3, Glacier, RDS, NLB/ALB, Security Groups/NACLs/VPCs, Cloud Watch (+)
+Docker (+)
+Kubernetes (+)
+AWS (+)
+Oracle, NO-SQL (+)
+CI/CD tools Jenkins, Code Pipeline, Maven, Git, Jira, BitBucket, Sonar Terraforms (+)

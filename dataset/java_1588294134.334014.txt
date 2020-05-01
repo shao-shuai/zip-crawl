@@ -1,0 +1,22 @@
+Title: Technical Java Lead
+Company: PeopleNTech LLC
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Role: Tehnical Java Lead
+Work location: Sunnyvale, CA
+Experience required:  8+ yrs
+Skills required:
+Core Java, Oracle/MongoDB,Spring Boot, ANSI SQL, JDBC
+Must have skills:
+·         Developer with minimum education of 8 years with CS degree or equivalent.
+·         Strong Core Java and Fundamentals
+·         Experience with JavaJEE development. Must have Java8 experience
+·         use cases such as caching, config and transactional data.
+·         Complete understanding of Java collections framework including their performance implications of various data structures and algorithms
+Nice to Have
+:
+·         Ability to write functional style code using Java 8 constructs "
+·         Level programming and or architecture experience
+·         Ability to lead a team of developers in onshore and offshore and ensuring on time quality delivery
+In-depth and specialized knowledge of SpringBoot

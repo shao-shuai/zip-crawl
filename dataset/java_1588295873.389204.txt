@@ -1,0 +1,29 @@
+Title: Java Developer
+Company: PsiNapse Technology, Ltd.
+Location: Berkeley, CA
+Type: Full-Time
+
+Our client, a government organization in Berkeley, is looking for a Java Developer to join their team on a short-term contract.  Working closely with a software development team, the candidate will be responsible for the design and implementation of robust and scalable RESTful Web Services to enable unified API for multiple frontend applications.
+RESPONSIBILITIES:
+Participate in refactoring of existing RESTful API
+Implement RESTful Web Services with Spring Boot
+Work closely with UI team to implement OAuth authentication
+Containerize and deploy Web Services application with Docker and Kubernetes
+Use GitHub as a control version system
+Follow agile principles, participate in daily standups
+Ensure timelines and deliverables are met
+QUALIFICATIONS:
+Expert in Spring Boot development.
+Demonstrated experience in implementing of OAuth authentication.
+Docker, Kubernetes, Maven.
+Experience in working with SQL and noSQL databases.
+PHYSICAL REQUIREMENTS:
+Must be able to frequently lift, carry, push or pull up to 25 lbs.
+Must be able to sit for prolonged periods of time and walk/stand for moderate periods of time.
+Must be able to bend at the knees and waist frequently
+Must be able to repetitively use a telephone and a computer mouse and keyboard.
+We are looking for local candidates only.  U.S. Citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor at this time.
+To apply for this position please visit our website at www.PsiNapse.com, and click on Candidate and then Online Application.
+Thank you for your interest. Please understand that only qualified candidates will receive a response.
+PsiNapse Technology, a national, workforce augmentation and solutions firm, offers competitive compensation, professional service, and customized benefits to qualified temporary and career professionals looking for employment.
+We are an Equal Opportunity Employer and do not discriminate on the basis of race, religion, color, gender, sexual-orientation, age, national origin, citizenship, disability, or any other protected category.

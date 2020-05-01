@@ -1,0 +1,44 @@
+Title: Staff Technical Writer - w/Java Coding
+Company: Salesforce.com Inc
+Location: San Francisco, CA
+Type: Full-Time
+
+Job CategoryProducts and Technology
+Job Details
+Job Details
+MuleSoft is looking for an experienced, talented, and motivated Senior Technical Writer to produce high-quality technical content for developers or DevOps engineers. You know how to work collaboratively with other writers, Product Management, Engineering, customers, and others to create the technical topics and examples that customers can find on Google.
+Phrases such as "topic-based," "Google-ready," "developer-focused," "task-oriented," and "component documentation" flow naturally whenever you talk about your work. You are unafraid to ask questions because you love to learn about complex technologies. If you are a problem-solver who can deliver quality content in a demanding environment under tight deadlines, then this may be your perfect opportunity to take your career to the next level on a small, agile writing team at a fast-growing company.
+3 Months
+What you'll achieve:
+You understand all of the core use cases for one or more technologies and are able to
+thoroughly document them
+You are self-directed in working with engineering to gather doc requirements for
+upcoming releases, proactively responding to feedback about documentation for your
+focused technology or technologies
+You understand our other technologies well enough to write topics for larger team
+deliverables and have developed a strong relationship with Engineering to manage
+successful tech review of new or existing content
+12 Months
+You demonstrate expertise in one or more of MuleSoft's technologies and know how
+our customers use them
+You have a reputation for writing trusted guidance and have built a strong working
+relationship with Engineering stakeholders to draft, review, and publish content
+You proactively respond to and seek documentation feedback from internal and
+external customers
+You have evaluated one or more documentation sets, implement organizational and
+structural changes, and taken ownership of the process of peer and technical reviews
+of your content
+What You'll Need To Be Successful
+Ability to read and, ideally, write code in Java or a scripting language
+Experience documenting APIs, SDKs, and cloud-based enterprise software
+Experience with Git, Markdown, and working from the command line required
+Experience with DITA and optimizing content for Google is a plus
+Ability to break down problems
+Exceptional writing skills with a strong voice and sharp eye for structure, along with the
+subject-matter knowledge required for credibility
+Strong understanding of agile software development
+Accessibility
+- If you require accessibility assistance applying for open positions please contact the Salesforce.com Recruiting Department.
+Posting Statement
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Headhunters and recruitment agencies may not submit resumes/CVs through this Web site or directly to managers. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay fees to any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org.
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.

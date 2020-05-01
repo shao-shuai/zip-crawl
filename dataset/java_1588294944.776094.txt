@@ -1,0 +1,40 @@
+Title: Sr. Java Full Stack Developer - San Francisco, CA
+Company: US Bank
+Location: San Francisco, CA
+Type: Full-Time
+
+Be part of something big, where integrity matters and success inspires, where great people collaborate, innovate and give back, where you feel included, valued and proud. At U.S. Bank we're looking for people who want more than just a job - they want to make a difference in the communities where they live and work.
+U.S. Bank is seeking a Sr. Full Stack Developer with end-to-end development and testing experience of building software products in agile life cycle. This individual will be responsible for full stack development in support of the bank's retail banking site with a focus on ensuring the quality of the final product.
+Responsibilities:
+Full stack developer with the retail customer Online Banking team for U.S. Bank. Specific focus on React UI design and development.
+Engage with Architect, Product Owner, Agile Delivery Manager, Development and QA to design end-to-end solution (React front end / Spring Boot microservices and NoSQL data store).
+Design, development, documentation, testing and subsequent ongoing support of new and existing features.
+Be an embedded member of a cross-functional Agile team writing React UI pages and Spring Boot microservices.
+Communicate and support all project-related information in a timely and professional manner as dictated by team needs and testing processes
+The right person for this job focuses on collaboration, commitment to quality and team success in a fast-paced environment
+Basic Qualifications
+Bachelor's degree in Computer Science or related fields, or equivalent work experience
+At least 10 years of work experience in Application Development/IT Systems Testing, and team leadership
+Qualifications
+Master's/Bachelor's degree in Computer Science or related field, or equivalent work experience
+At least 5 years of experience with designing, planning and execution of system testing strategies and tactics to ensure software quality at all stages of the system life cycle
+At least 8 years of experience on n-tier enterprise applications and platforms
+Preferred Skills/Experience
+Requires 8-10 years of proven Java full-stack experience, and significant React development experience.
+Knowledge in agile methodologies and software development life cycle.
+A solid foundation in computer science, with strong competencies in data structures, algorithms, and software design.
+Perform in-depth troubleshooting and unit testing with both new and legacy production systems.
+Problem diagnosis and resolution.
+Excellent analytical and problem-solving skills; ability to find creative solutions.
+Ability to work in a fast-paced environment and deliver high-quality work on tight schedules. Proactive, self-motivated and independent.
+Excellent verbal and written communication skills.
+Technical Skills Preferred
+Java/J2EE
+JavaScript
+REST API's
+Agile methodology
+HTML
+CSS
+Junit
+Spring Boot
+NoSQL DB (MongoDB / Cassandra / DynamoDB etc.)

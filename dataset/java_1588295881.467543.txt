@@ -1,0 +1,12 @@
+Title: Lead - Java Full Stack Developer
+Company: Mindlance
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Lead - Java Full Stack Developer
+Sunnyvale, CA
+8-13 years Full Stack Development Experience.
+Good Experience on S3 or AWS
+Good Experience on Streaming, Kubernates, Java Threading, file transfer, Buffering.
+Good experience/ Knowledge on frontend side is plus
+React or Angular is good

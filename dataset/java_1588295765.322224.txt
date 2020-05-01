@@ -1,0 +1,23 @@
+Title: Java Developer With Linux
+Company: Connvertex Technologies
+Location: San Jose, CA
+Type: Full-Time
+
+Overview
+Connvertex is seeking a Java Developer With Linux in San Jose, CA
+Java developer with strong Linux and Java background, ideally with Virtualization/OpenStack/VMware knowledge
+Requirements:
+Minimum 4-5 years of experience in developing complex applications primarily using Java
+Exposure to OpenStack / VMware
+Experience using scripting languages (Bash / Python / Perl) running on Linux
+Experience integrating with Open Source Software / Third party Products
+Experience with Hibernate / relational databases
+Ability to adapt to changing requirements in a high paced environment
+Ability to take high level feature requirements and ultimately deliver a solution and corresponding documentation
+Strong communication, teamwork and problem solving skills are essential.
+Openness to exploring and learning about new technologies as possible solutions to issues
+Desired Experience and Skills:
+Experience integrating with JClouds
+Experience integrating with VMware Infrastructure API (vi SDK)
+Knowledge of VMware architecture and product suite
+Experience with GIT / Gerrit / Jenkins

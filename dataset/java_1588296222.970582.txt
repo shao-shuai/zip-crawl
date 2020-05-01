@@ -1,0 +1,25 @@
+Title: Java Developer - Mountain View
+Company: DataVisor
+Location: Mountain View, CA
+Type: Full-Time
+
+Description
+DataVisor is a next generation security company that utilizes industry leading unsupervised machine learning to detect fraudulent activity for financial transactions, mobile user acquisition, social networks, commerce and money laundering. Our solution is used by some of the largest internet properties in the world, including Yelp, Pinterest, Momo, King and IGG, to protect them from the ever-increasing risk of fraud. Our award-winning software is powered by a team of world-class experts in big data, security, and scalable infrastructure. Our culture is open, positive, collaborative, and results driven. Come join us!
+We are looking for a Java Developer with experience in building high-performing, scalable, enterprise-grade applications.
+You will be part of a talented software team that works on mission-critical machine learning applications.
+Java developer responsibilities include designing, developing and delivering high-volume, low-latency applications for mission-critical systems.
+Responsibilities
+Designing and developing high-volume, low-latency applications for mission-critical systems and delivering high-availability and performance
+Contributing in all phases of the development lifecycle
+Writing well designed, testable, efficient code
+Preparing and producing releases of software components
+Supporting continuous improvement by investigating alternatives and technologies and presenting these for architectural review
+Requirements
+BS/MS degree in Computer Science, Engineering or a related subject
+Proven working experience in Java/C++ development
+Excellent knowledge of Relational Databases, SQL and ORM technologies (JPA2, Hibernate) is a plus
+Experience in Cassandra, HBase, Flink, Spark or Kafka is a plus.
+Experience in the Spring Framework is a plus
+Experience with test-driven development is a plus
+Benefits
+We offer a flexible schedule with competitive pay, equity participation and health benefits, along with catered lunch, company off-sites, and game nights, as well as the opportunity to work with a world class team.

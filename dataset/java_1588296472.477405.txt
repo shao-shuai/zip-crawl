@@ -1,0 +1,15 @@
+Title: Senior Java Developer
+Company: SoftSol Inc
+Location: Pleasanton, CA
+Type: Full-Time
+
+Duration: Long Term
+Location: Pleasanton, CA
+We have received a request to bring one Senior Java Developer onboard. Attached are the qualifications and required skills.
+In-Person Interviews Required/Local Candidates Only
+Highlighted Qualifications-
+a. Must have In-depth knowledge of Java, OO programming, and modern web applications built on distributed service architecture
+b. Must have experience with SQL, PL/SQL programming and Oracle.
+c. Must have expert level comfort in traversing the entire Java and Web stack: client-side through the persistence layer.
+d. Must have experience with jQuery and jQuery-UI
+e. 9+ years of software development experience

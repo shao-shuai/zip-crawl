@@ -1,0 +1,14 @@
+Title: Lead - Java Full Stack Developer
+Company: Cygnus Professionals
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Position: Lead - Java Full Stack Developer
+Location: Sunnyvale, CA
+Duration: Long Term
+Job Description:
+8-15 years Full Stack Development Experience.
+Good Experience on S3 or AWS
+Good Experience on Streaming, Kubernates, Java Threading, file transfer, Buffering.
+Good experience/ Knowledge on frontend side is plus
+React or Angular is good

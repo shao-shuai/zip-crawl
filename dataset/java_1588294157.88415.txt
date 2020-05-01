@@ -1,0 +1,15 @@
+Title: Lead Java Full Stack Developer
+Company: W3Global Inc
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Job Title: Java Full Stack Developer Lead
+Location: Sunnyvale, CA
+Position type: Long term Contract
+Job Description:
+Lead - Java Full Stack Developer
+8-15 years Full Stack Development Experience.
+Good Experience on S3 or AWS
+Good Experience on Streaming, Kubernates, Java Threading, file transfer, Buffering.
+Good experience/ Knowledge on frontend side is plus
+Please share resumes to santhosh@w3global.com

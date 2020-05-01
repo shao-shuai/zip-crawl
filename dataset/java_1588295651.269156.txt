@@ -1,0 +1,20 @@
+Title: SDET (Java & Appium)
+Company: Tech Firefly
+Location: Austin, TX
+Type: Full-Time
+
+Job Description
+Qualifications & Requirements:
+8+ years in Mobile application development and Software Quality Assurance.
+6+ years' hands on experience in development, execution and maintenance of mobile application and automated test scripts
+3+ years of mobile testing and automation experience  in different platforms like iOS, Android and MacOS
+Experience with mobile automation tools like Appium, SeeTest or Perfecto Mobile.
+Good knowledge of new standard industry tools for logging bugs and managing test cases (ex. JIRA/MTM, Zephyr/HPQ)
+Hands on coding experience in Ruby, Java, Swift, or Kotlin Experience
+Experience with CI /CD tools like Jenkins, Bamboo, Zephyr, Bit Bucket, Shell Scripting/Powershell, Splunk;
+Experience with Agile Methodologies, Collaboration Tools (JIRA, Confluence, Hip Chat )
+Proven experience driving innovative mobile application development and testing solutions within a complex, Enterprise Platform
+Experience Resolving and tracking issues in Client QC Experience in mobile app development and testing
+Strong programming, debugging/troubleshooting and problem-solving skills
+Experience performing cod reviews
+Experience leading multiple projects and releases, balancing time and effort for successful delivery

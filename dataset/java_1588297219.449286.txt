@@ -1,0 +1,34 @@
+Title: Java Developer
+Company: Ultimate Staffing Services
+Location: Agoura Hills, CA
+Benefits: Vision
+
+Our client is an American residential mortgage company and we are seeking a Java Developer for a contract to hire opportunity located in Agoura Hills, CA
+LOCAL CANDIDATES PREFERRED
+No C2C Candidates
+Hourly Rate:
+Competitive
+Job Description
+SQL developer who will be responsible for designing databases and ensuring their stability, reliability, and performance. You will also work support the Financial Team in optimizing in-application SQL statements as necessary and establishing best practices.
+Responsibilities
+Ability to perform routine DBA tasks including setting up access policy, data migrations, ETL operations, troubleshooting, and performance optimization
+Programming experience with emphasis on designing complex SQL queries and business components
+Experience in the physical and logical design of database architecture and exposure to building dimensional data models
+Experience with Linux operating system is a big plus
+Excellent written and verbal communication ability
+Must be highly proficient in Excel and Word
+Must be a team player with strong attention to detail and able to work independently
+Proven track record at delivering timely and accurate information in a fast-paced environment
+Excellent critical thinking, problem solving, mathematical skills and sound judgment
+Financial Services and, if possible, mortgage industry experience preferred
+Strong business acumen and ability to interface with executive management
+Skills and Qualifications
+7+ years development experience in Java, Spring and Hibernate.
+Experience building and optimizing applications for cloud environments, (AWS experience a plus.)
+5 years experience in Java Web Services.
+Experience with MVC architecture, Maven, Git.
+3 plus years experience in Database technologies: Postgresql, MS SQL
+Experience in HTML, Javascript, KendoUI, bootstrap
+Conversant in using tools like Postman, SoapUI.
+Benefits:
+We put our Ambassadors first. When it comes down to it, we know we can’t fulfill our Promise to our business customers without your commitment. You represent our organization while on assignment. In return, we do our best to show our dedication to you. Our Ambassador Benefits package includes Medical, dental, and vision coverage. It also includes 401k, sick time, holiday, and much more. We are an equal opportunity employer.

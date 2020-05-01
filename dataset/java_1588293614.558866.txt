@@ -1,0 +1,38 @@
+Title: Sr. Java Engineer
+Company: QuEST Global
+Location: Sunnyvale, CA
+Type: Full-Time
+
+16175BR
+Title:
+Sr. Java Engineer
+Job Description:
+Skillset
+Mandatory :
+Java, Spring Restful Web-services, Spring-boot, Hibernate, Kafka
+Preferable :
+Cassandra, Solr, Spring Cloud, Web-reactive, Spring batch jobs and quartz schedulers.
+Job description:
+Design and development experience in Java.
+Experience in Object-oriented programming (Java, J2EE, Server Side development, MVC framework) and Database designs.
+Strong experience in Spring boot and Spring Cloud.
+Relational database experience
+Strong problem solving and debugging skills.
+Ability to develop program that meet the customer needs with respect to functionality, performance, scalability, reliability, schedule, principles and recognized industry standards.
+Ability to prioritize based on project needs.
+Responsible and pro-activeness in task deliverables.
+Excellent written and verbal communications.
+Auto req ID:
+16175BR
+Job Type:
+Full Time-Regular
+Assignment Country:
+United States
+Total Years of Exp:
+5-7
+Assignment State:
+CALIFORNIA
+Assignment Location:
+Sunnyvale
+Experience Level:
+Senior Level

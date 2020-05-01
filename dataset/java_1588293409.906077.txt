@@ -1,0 +1,34 @@
+Title: Java developer
+Company: Sysmind LLC
+Location: Sunnyvale, CA
+Type: Full-Time
+
+Position Title: Java developer
+Location:- Sunnyvale, CA
+Duration:- Long term Contract
+Technical Skills:-
+Advanced Java Concepts, Core Java, GUI & Rich Clients, Java EE - EJB 1.x/2.x
+Hands-on expertise in Java and Java Enterprise technology applications architecture, design, development and support
+Strong knowledge of concurrency, scalability and fault tolerant designs
+Required: NoSQL database experience
+Able to analyze business requirements and create efficient solutions
+Solid knowledge of applications performance improvement techniques and caching solutions
+Must be able to brainstorm and communicate technology ideas and issues with peers and IT management
+Excellent problem solving, critical thinking and communication skills
+Must be able to clearly define solutions for requirements and evaluate options
+Core skill: Java/J2EE
+Strong Plus: Experience with Java backend MVC frameworks such as Spring/Hibernate Experience coding JSPs
+Experience coding Servlets and other plain old java objects (POJOs)
+Responsibilities:-
+Unix Coherence cache DevOps
+Experience with AJAX related technologies and the ability to code cross browser compliant JavaScript.
+JQuery a plus.
+Experience with Automation frameworks
+Python Programming Java 8 programming
+Experience developing with client-side web technologies (HTML 5, CSS, Javascript, AJAX) desirable Agile development experience is a plus
+Best Regards,
+Ashish Kumar | SYSMIND, LLC
+Phone: 609-382-9125
+Direct No.:- +1-609-360-4765
+Email: AshishK(at)sysmind.com
+Gtalk: aashish5073

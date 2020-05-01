@@ -1,0 +1,19 @@
+Title: Java Developer
+Company: CirrusLabs
+Location: San Jose, CA
+Type: Full-Time
+
+We are CirrusLabs. Our vision is to become the worlds most sought-after niche digital transformation company that helps customers realize value through innovation.  Our mission is to co-create success with our customers, partners and community. Our goal is to enable employees to dream, grow and make things happen. We are committed to excellence. We are a dependable partner organization that delivers on commitments. We strive to maintain integrity with our employees and customers. Every action we take is driven by value. The core of who we are is through our well knit teams and employees.
+You are the core of a values driven organization.  You have an entrepreneurial spirit. You enjoy working as a part of well-knit teams. You value the team over the individual. You welcome diversity at work and within the greater community. You arent afraid to take risks. You appreciate a growth path with your leadership team that journeys how you can grow inside and outside of the organization. You thrive upon continuing education programs that your company sponsors to strengthen your skills and for you to become a thought leader ahead of the industry curve. You are excited about creating change because your skills can help the greater good of every customer, industry and community.
+Requirements
+Candidates must be hands on and comfortable with online coding interviews
+Excellent understanding of
+Java fundamentals, data structures and algorithms
+.
+Expertise required in
+object-oriented design methodology
+Excellent understanding of distributed systems and
+service-oriented architecture
+Proven results-oriented person with a focus on delivery in a high-velocity, high-scalability and high-availability environment.
+Enthusiasm and willingness to learn new technologies and dig into problems
+Good communication skills

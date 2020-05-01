@@ -1,0 +1,21 @@
+Title: Java Developer (LOCAL ONLY)
+Company: Swoon
+Location: Peoria, IL
+Benefits: Vision
+
+Our client in Peoria, IL is seeking an experienced Java Developer for a 12+ month contract. Are you ready to be Swoon'd?!
+Technical Skills:
+5 years + of broad IT experience in JAVA, web and internet technologies
+Strong experience with Service Oriented Architecture and object-oriented development
+Top Candidates Will Also Have:
+5 years plus JAVA, JSP, JPA
+5 years plus Hibernate, XML, SQL, HTML5, and CSS3, Apache Tomcat Server, OAuth
+5 years plus test driven development using Junit and related testing framework
+3 years plus Spring technologies (Spring, Spring boot, Spring Security, Spring JPA)
+3 years plus experience with Gradle project build and dependency resolution
+2 years plus API design (swagger) and development including RESTful API
+2 years plus experience with branching strategy working with a code repository such as GIT/GITHUB
+Soft Skills:
+Ability to work independently.
+Excellent written and oral communication skills.
+Written and Verbal Communication Able to produce architecture and design artifacts in Visio and Office 365

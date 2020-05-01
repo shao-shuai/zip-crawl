@@ -1,0 +1,21 @@
+Title: SDET (JAVA/Selenium)
+Company: Prosum
+Location: Los Angeles, CA
+Type: Full-Time
+
+Software Development Engineer in Test (SDET) (Contract) Los Angeles
+Key Responsibilities
+Develop, execute, and maintain automation scripts using JAVA, Junit, Selenium, Cucumber, Rest, Jmeter
+Perform API, UI, DB and Performance testing of  internal and customer-facing applications by analyzing applications and requirements and designing and executing automated test cases. Integrate, support, use and maintain issue tracking systems such as JIRA, source control tools such as Github and QTest Work with QA team members, software developers and system and database administrators to trouble-shoot test failures in the various test environments.
+This may include trouble-shooting database issues using SQL queries, reviewing web server and application server logs, etc.
+Required Background and Skills
+Minimum of 5 years’ experience with automation scripting using JAVA and Selenium based framework
+A minimum of a Bachelor’ s degree in Computer Science or related software engineering discipline, or equivalent
+Strong knowledge of programming in Java
+Experience with web application servers such as Tomcat, and Web servers like Apache
+Excellent verbal and written communications skills
+A team player who does not need extensive supervision
+Ability to work constructively with developers, QA, Systems and Project managers towards a common goal
+Solid knowledge of Relational Database and SQL queries Knowledge of Hibernate Experience with
+Agile development methodologies such as Scrum
+Desired Skills: Experience testing React based Applications Knowledge of AWS technologies

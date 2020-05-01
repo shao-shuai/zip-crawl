@@ -1,0 +1,28 @@
+Title: Java Developer with Appian
+Company: PeopleNTech LLC
+Location: Santa Clara, CA
+Type: Full-Time
+
+Job Title: Java Developer with Appian
+Location: Santa Clara, CA & Tempe, AZ
+No of Positions: 2
+Designation:
+Java profiles who are willing to learn Appian skills.
+Primary Skills:-
+Good Hands on experience in project development using Java/J2EE, SQL, JavaScript, JSP/Servlet, JSON, XML
+Exposure to APPIAN or any other BPM tools would be an added advantage.
+Good understanding and hands on experience working with Web services (SOAP/Rest)
+Good understanding of the OOPS and DBMS concepts
+Work Experience in creating stored procedures and triggers
+Good understanding and exposure to security best practices in web based development
+Ability to work with minimal direction and guidance
+Experience with SQL, RDBMS, XML/XSLT, Web User Interface Design, N-Tier Web Application Development, Security and Enterprise Application Integration (EAI)
+Should possess good debugging skills
+Should be good at drafting and executing unit test cases
+Should be able to take initiative to interact with SVB stakeholders for understanding business and technical requirements.
+Secondary Skills:
+Exposure to Appian or any BPM tool. Exposure to the SOA architecture
+Responsibilities:
+Good hands on experience in developing and handling Java/J2EE projects.
+Exposure to APPIAN or any other BPM tools would be an added advantage.
+Ability to work with minimal direction and guidance.  Should be able to take initiative to interact with SVB stakeholders for understanding business and technical requirements

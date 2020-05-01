@@ -1,0 +1,35 @@
+Title: Sr. Interoperability JAVA Software Engineer
+Company: Mckesson Medical Surgical
+Location: San Francisco, CA
+Type: Full-Time
+
+Current Need:
+McKesson is currently looking for a
+Sr. Interoperability JAVA Software Engineer
+based in
+San Francisco, CA (1 Post Street).
+What will you do every day?
+We are making significant investments in enhancing the integration capabilities of our products in the Oncology space. We are looking at better supporting our customer's requirements around integration using legacy standards such as HL7, but are also looking ahead at supporting modern web based standards such as FHIR as part of our cloud strategy. You will use your development expertise with these standards and work with product to build scalable, turnkey integration solutions.You will be DevOps friendly and you will write, test and deploy your own code.
+Minimum Requirements:
+6+ years within of Software Engineering & Integration experience.
+STRONG JAVA EXPERIENCE IS ESSENTIAL
+Critical Skills:
+Experience building APIs with open standards based authentication frameworks like OAuth and SMART
+Experience with healthcare integration standards such as FHIR, CCDA, HL7, SMART on FHIR and CDS Hooks,FHIR pub/sub, IHE_ITIetc.
+An understanding of healthcare data,including coding systems
+Proficiency using modern web development technologies and techniques
+Experience building web services
+Experience in creating or working in large scale distributed applications (Cloud/SaaS is a plus)
+Experience with at least one major healthcare integration engines such as Cloverleaf(preferred), Mirth Connect, Corepoint, Mulesoft
+Integration experience with EMRs
+Experience supporting real-time integration in an enterprise healthcare setting
+Additional Skills:
+Strong grasp of CS fundamentals including algorithms, data structures and design is preferred
+Education:
+Bachelors' degree or equivalent work experience
+Internal Use Only: P4
+McKesson is an Equal Opportunity/Affirmative Action employer.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.Qualified applicants will not be disqualified from consideration for employment based upon criminal history.
+McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to McKessonTalentAquisition@McKesson.com . Resumes or CVs submitted to this email box will not be accepted.
+Current employees must apply through the internal career site.
+Join us at McKesson!

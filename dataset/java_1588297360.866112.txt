@@ -1,0 +1,26 @@
+Title: Sr Back-end Java Developer with Cloud Experience
+Company: Aita Consulting Services Inc.
+Location: Atlanta, GA
+Pay: $39 to $42 Hourly
+
+In search of Senior Software Engineer. We are looking for a strong Back-end Java and SpringBoot Developer to migrate millions of customer data from legacy applications to a critical enterprise GCP application. This is a growing team that is integral to our clients’ continued success in eCommerce
+Responsibilities:
+Develop and migrate applications using Java
+Develop microservices for a GCP application
+Develop and deploy CICD pipelines
+Perform testing utilizing JUnit, Mockito, as well as integration testing
+Lead and mentor Jr developers
+Must Haves:
+2+ years’ Java experience
+2+ years’ SpringBoot experience
+Strong back-end java programming with a solid understanding of REST APIs and Microservice architecture
+Cloud development
+Functional and integration testing experience
+Effective communication skills and problem solving
+Pluses:
+GCP Experience
+Proficient database experience -SQL, Cassandra/Distributed database
+Experience with CICD Pipeline development and maintenance
+Jenkins, TeamCity, Etc
+Mockito experience
+TDD/BDD experience

@@ -1,0 +1,30 @@
+Title: Senior Java Developer
+Company: Veterans Sourcing Group
+Location: Nashville, TN
+Pay: $75 to $85 Hourly
+
+Position: Senior Java Developer
+Location: 315 Deaderick Street, Nashville TN 37238
+Duration: 12 months Contract + Extension
+About team:
+We analyze, develop and deliver global solutions to maintain or change our IT systems with our business counterparts. As a Developer you'll play an important role in developing systems in a proper way. Our culture centers on partnership with our businesses, transparency, accountability and empowerment, and passion for the future.
+Your role:
+– Develop features front-to-back in an agile environment
+– Support the engineering and integration of a vendor based product
+– Further optimize the continuous integration and deployment processes
+– Support product management driving the product roadmap
+– Work closely with and advise Business Analysts, Testers and Management on technical matters
+– Work on product packaging and support deployment activities
+Technical Skills & Education:
+– Computer science academic background (bachelor or master degree)
+– Experience as full stack developer in a globally distributed team
+– Strong java skills (java 8)
+– Strong spring boot skills
+– Strong jpa/hibernate skills
+– Strong relational database and data analysis skills
+– Methodology knowhow on how to ensure that project deliverables meet industry best practices
+– Strong analytical, problem-solving and synthesizing skills (you know how to figure things out)
+– experienced Javascript skills with focus on react
+– Familiarity with ETL
+– Understanding of a broad range of platforms, technologies and tools, specifically
+– Java, linux, postgres, github, nexus, teamcity, intellij, jira, confluence

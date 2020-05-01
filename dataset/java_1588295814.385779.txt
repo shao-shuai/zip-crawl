@@ -1,0 +1,6 @@
+Title: SDET-JAVA
+Company: Virtusa
+Location: Fremont, CA
+Type: Full-Time
+
+Skill : SDET with the knowledge of Java, frameworks, and writing automated tests

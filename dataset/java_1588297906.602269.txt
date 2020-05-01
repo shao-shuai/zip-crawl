@@ -1,0 +1,79 @@
+Title: Sr. Java Developer
+Company: ERP International
+Location: San Antonio, TX
+Type: Full-Time
+
+Overview
+ERP International, LLC
+(www.erpinternational.com) is currently seeking (Full-Time)
+Sr. Java Developer
+to support of the
+Digita Services Dept.
+at
+Appddiction Studios
+in
+San Antonio, Texas
+.  Qualified candidates are urged to apply to learn more about this great opportunity!
+Apply online now to learn more about this outstanding opportunity -
+www.erpinternational.com.
+Please submit resume and salary requirements.
+* Excellent Compensation & Exceptional Comprehensive Benefits
+* PTO, Plus 10 Paid Federal Holidays!
+* Medical/Dental/Vision and Health Savings Account available!
+* Company Paid STD, LTD and Life Insurance!
+* Matching 401K!
+About ERP International, LLC:
+ERP is a nationally respected provider of health, science, and technology solutions supporting clients in the government and commercial sectors. We provide comprehensive enterprise information technology, strategic sourcing, and management solutions to DoD and federal civilian agencies in 40 states. Founded in 2006, ERP is headquartered in Laurel, MD and maintains satellite offices in Montgomery, AL and San Antonio, TX - plus project locations nationwide. ERP is an Equal Opportunity Employer - Disability and Veteran.
+Responsibilities
+Job Specific Details and Tasks:
+Support Java Development efforts on project.
+Participate in requirements documentation.
+Participate in customer/sytem functional training program.
+Perform under Agile Development system design.
+Qualifications
+Minimum Qualifications:
+Education:
+Associates or BS in Computer Science, or equivilent work experience
+License/Certification and Training:
+Experience Required:
+5 Yrs. Full Stack Web Application Software Development Experience
+Must be able to use a browser debugger, and IDE debugger to troubleshoot defects. This would be validated during a technical interview
+Experience with value:
+Java
+Spring Framework
+Hibernate
+RESTful API testing, creation, maintenance
+Test Driven Development (TDD)
+JUnit - Java
+Jasmine, or Jest - JavaScript
+Oracle database (11g, 12c, 18c, 19c)
+Angular or other front-end framework like React, Vue, JQuery
+Mobile application development (Native, Ionic, Flutter)
+End-to-end testing
+Protractor,
+Selenium,
+Cypress.io,
+Ranorex
+Jenkins or another CI tool (Travis CI, GitLab, etc)
+Puppet
+Chef
+Terraform
+Cloud infrastructure
+AWS
+Azure
+Agile
+Scrum
+XP - Pair programming
+Docker
+Kubernetes
+Security:
+ability to obtain Secret Clearance
+About ERP International, LLC
+ERP is a nationally respected provider of health, science, and technology solutions supporting clients in the government and commercial sectors. We provide comprehensive enterprise information technology, strategic sourcing, and management solutions to DoD and federal civilian agencies in 28 states. Founded in 2006, ERP is a Small Business headquartered in Laurel, MD. ERP maintains satellite offices in Montgomery, AL and San Antonio, TX - plus project locations nationwide.
+ERP's commitment and dedication to its customers was most recently reflected in an independent Dun and Bradstreet customer satisfaction rating in which ERP earned a customer satisfaction rating of 95 percent. Our exceptional customer rating ranks the company among the top five percent of all companies receiving the Dunn and Bradstreet rating.
+Washington Technology
+and
+Inc. Magazine
+have both ranked ERP among the fastest growing firms in the nation for 2014.
+ERP offers exceptional benefits, including competitive compensation, Medical/Dental/Vision, short and long-term disability, life insurance, paid vacation, paid holidays, a matching 401(k), training and education opportunities, and semi-monthly direct deposit.
+ERP International is an Equal Opportunity Employer

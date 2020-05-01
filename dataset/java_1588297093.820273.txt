@@ -1,0 +1,25 @@
+Title: Java Developer
+Company: Belcan
+Location: Peoria, IL
+Type: Full-Time
+
+W-2 candidates only. Not a corp to corp opportunity.
+An Java Developer job in Peoria, IL is currently available through Belcan.  To be considered for this role, you will have a Bachelor"s degree and five plus years of Java development experience. In this role, you will develop major system modules, programs or integrates infrastructure components. This is a very visible, contract opportunity with a growing company.
+Java Developer Job duties:
+*	Perform all programming, project management, and development assignments for more complex aspects of systems work.
+*	Works independently on complex systems or infrastructure components that may be used by one or more applications or systems.
+*	Develops major system modules, programs or integrates infrastructure components based on requirements gathered.
+*	Performs integrated testing of components that requires careful planning and execution to ensure timely, quality results.
+Qualifications:
+*	Bachelor"s degree
+*	Five plus years of broad IT experience in JAVA, web and internet technologies
+*	Service Oriented Architecture and object-oriented development experience
+*	Five years of JAVA, JSP, JPA
+*	Five years of Hibernate, XML, SQL, HTML5, and CSS3, Apache Tomcat Server, OAuth
+*	Five years of test-driven development using Junit and related testing framework
+*	Three years of Spring technologies (Spring, Spring boot, Spring Security, Spring JPA)
+*	Three years of experience with Gradle project build and dependency resolution
+*	Two years of API design (swagger) and development including RESTful API
+*	Two years of experience with branching strategy working with a code repository such as GIT/GITHUB
+If you are interested in this Java Developer job in Peoria, IL, please apply via the 'apply now' link provided.
+Belcan is a leading provider of qualified personnel to many of the world's most respected enterprises. We offer excellent opportunities for contract/temporary, temp-to-hire, and direct assignments in the engineering, IT, and professional fields. We are the employer of choice for thousands worldwide. Our overriding goal is to provide quality staffing solutions that help people, organizations, and communities succeed. Belcan is a team-driven Equal Opportunity Employer committed to workforce diversity. For more information, please visit our website at http://www.belcan.com.

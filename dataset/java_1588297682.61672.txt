@@ -1,0 +1,13 @@
+Title: Java Developer with Camunda
+Company: BCforward
+Location: Plano, TX
+Type: Contractor
+
+Expected Duration:0-12 month(s)
+Resource should have Java 1.8 and Spring Boot with Apache Cammunda experience.
+Develop and implement horizontally scalable components with the ability to handle large workflow volumes with following experience:
+BPMN 2.0 notation for task orchestration and human workflows BPMN Tools Camunda product set including the Workflow Engine and Modeler ,
+Programming experience Java 1.8 , Spring Boot Micro service , RESTful API , Events experience continuous delivery , monitoring and troubleshooting Production processes.
+Knowledge of industry standards for Business Process Management Capture task orchestration and human workflows with Camunda Modeler , in collaboration with business process owner.
+Must have skills? 1. Spring Boot with Apache Camunda 2. Java 8 3.Micro service
+Nice to have skills? 1. Groovy 2. BPMN 3. Oracle DB

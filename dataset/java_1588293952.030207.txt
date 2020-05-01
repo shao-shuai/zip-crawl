@@ -1,0 +1,43 @@
+Title: Principal Applications Engineer - JAVA - Oracle Labs
+Company: Oracle
+Location: San Bruno, CA
+Type: Full-Time
+
+Analyze, design develop, troubleshoot and debug software programs for commercial or end user applications. Writes code, completes programming and performs testing and debugging of applications.
+As a member of the software engineering division, you will analyze and integrate external customer specifications. Specify, design and implement modest changes to existing software architecture. Build new products and development tools. Build and execute unit tests and unit test plans. Review integration and regression test plans created by QA. Communicate with QA and porting engineering to discuss major changes to functionality.
+Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. 7 years of software engineering or related experience.
+Oracle is an Affirmative Action-Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veterans status, age, or any other characteristic protected by law.
+Job Description:
+Oracle Applications Labs (OAL) runs Oracle software that runs Oracle. OAL is responsible for implementing, extending and improving nearly all of Oracle's Enterprise On-Premise and Cloud Applications.  We are constantly evolving, innovating and adapting to future trends and technologies. We often are ahead of the standard product roadmap and build extensions and custom applications to meet the needs of our 120,000-employee, Fortune 100 Company. Once proven, our ideas and innovations quickly find their way back into the core product.
+This opportunity is within a team in OAL that is developing various next generation Frameworks, Services and Platforms for Oracle Cloud. We are looking for a Principal Software Engineers that can do full stack development, be a technical leader and drive the design and architecture of complex software system. Applicant should have experience in designing and building full stack software. The ideal candidate will be technically strong and have an understanding of large-scale, compute heavy distributed systems.  In addition, applicant will have some experience of taking a new major feature from start to release.  We are looking for an excellent technical leader for our team.
+Job Responsibilities:
+Design product features, create high-level and detailed design documents, and conduct design reviews
+Lead development projects and provide technical guidance to software engineers
+Implement new product features using Java, Python, RDBMS, NoSQL, JavaScript , HTML, CSS Oracle Cloud Infrastructure and various Open Source technologies
+Work with the Product Marketing group to identify product specifications
+Work with various engineering teams to ensure various components are well integrated and meet performance and scalability specifications
+Enhance and maintain existing product capabilities
+Job Requirements:
+7 to 10 years of work experience in Enterprise Software product development
+Bachelors or Masters degree in Computer Science or Engineering
+Experience in full stack software development for web and mobile
+Strong knowledge of Java, J2EE, JavaScript, RDBMS (Oracle) and SQL
+Expert knowledge  in OOP/OOD and Data Modeling
+Experience in J2EE deployment, CICD and best practices
+Experience in Open Source technologies like Kafka, Big Data, Spark
+Knowledge of D/HTML, HTML5, Servlet, XML
+Additional Details
+Experience with Cloud Native Frameworks tools and products is a plus
+Data Science knowledge is a plus
+Job:
+**Product Development*
+Organization:
+**Oracle*
+Title:
+Principal Applications Engineer - JAVA - Oracle Labs
+Location:
+CA,California-Redwood City
+Requisition ID:
+20000CDI
+Other Locations:
+United States

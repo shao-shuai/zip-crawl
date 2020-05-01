@@ -1,0 +1,19 @@
+Title: Sr Java Developer
+Company: Bayone Solutions
+Location: Pleasanton, CA
+Type: Full-Time
+
+Senior Java Developer
+Pleasanton , CA
+Long Term Contract
+Required Skills:
+·
+At least More than 10 years hands on server-side java/j2ee development experience
+· Hands-on Experience with Spring or spring boot.
+· Experience with building REST APIs (Web Services) and service-based architectures.
+· Disciplined and passionate about Software Engineering
+· Able to drive architecture and design.
+· Able to influence and direct other groups as well as team.
+· Strong communication skills; attention to detail and discipline
+· Experience writing multi-threaded, asynchronous code and working on highly available and distributed systems.
+· Good Experience with Microservices

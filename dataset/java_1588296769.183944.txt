@@ -1,0 +1,26 @@
+Title: Hadoop Admin and java/Hadoop developer ( 2 reqs)
+Company: Intellisoft Technologies
+Location: North Brunswick, NJ
+Type: Full-Time
+
+(must be on your w-2)
+Location: North Brunswick, NJ
+Contract: 12-24 months
+Subvend: NO
+Must have for Java/Hadoop developer: Java development, Hadoop experience.
+Must have for Hadoop admin: Hadoop admin experience.
+Java/Hadoop developer:
+What are the top 3 MUST HAVE requirements of the position (years exp, technical, etc.)?
+10+ years Java development experience
+4+ years Hadoop Development Experience
+Good Communication skills, able to work with other teams
+NICE TO HAVES (OR WHAT GETS THE WIN):
+Any additional big data experience – MapReduce, HDFS, Spark, Kafka, and Hive
+Hadoop admin:
+What are the top 3 MUST HAVE requirements of the position (years exp, technical, etc.)?
+7+ years Hadoop Administration
+Experience with backup, restore and recovery models
+Experience with Linux/Unix servers
+NICE TO HAVES (OR WHAT GETS THE WIN):
+Development experience in Java, Hive, Drill, Sqoop, Oozie and HBASE
+Experience with H2O or other machine learning products

@@ -1,0 +1,49 @@
+Title: Java Develoepr
+Company: GreenZone Solutions, Inc.
+Location: Washington, DC
+Type: Full-Time
+
+GreenZone Solutions, Inc.
+is a fast-growing small business dedicated service provider to our Federal clients. The Company works hard to promote the best interest of their clients, their team, and their community while delivering excellence through their Agile development, Big Data, Business Intelligence, and Data Analytics services and effective solutions to exceed the clients mission goals and objectives.
+We are looking for
+Java Developer
+to add to our new Federal project. As a Java developer, you will be responsible for the operational support, development, and implementation of applications using existing and emerging technology platforms. Working within an Agile environment, you will actively participate in story planning and daily stand ups. You will play a key role on collaborative project teams, be responsible for the design and development of mission critical, enterprise-scale business systems.
+Responsiblities:
+Designs, codes, and tests software modifications for assigned applications to address changes or fixes as necessary for problem resolution
+Collaborates with the Production Support team to assist with ticket investigation and resolution
+Develops solutions and impact analysis with to confirm priority and technical feasibility of proposed solutions
+Interacts with clients, subcontractors, and users as required during daily activities
+Independently prepares estimates of effort to develop and execute approved application changes in primary applications, prioritizes work assignments, and facilitates peer review of work products
+Coordinates and participates in system, integration, performance and acceptance testing
+Maintains shared responsibility for documentation updates to configuration records and the related configuration management tool to track application changes
+Work as part of a team throughout the software development life-cycle
+Collaborate with designers and analysts to implement enhancements or new applications
+Develop code to meet user story acceptance criteria
+Debug, test, and fix errors
+Conduct design and code review to ensure compliance with standards
+Maintain records to document program development and revisions
+Designs and codes programs; creates test transactions and runs unit tests;
+Reviews, analyzes, and modifies programming systems, including encoding, testing, debugging and installing for a large-scale system.
+Requirements
+Bachelors Degree
+Must be a US Citizen and able to obtain and maintain a government security clearance
+3+ years experience in application development using Java/JEE and related technologies (Weblogic, JBoss, Spring Framework)
+Solid communication skills to interact with the business team and technology team
+3+ years of experience in HTML, CSS, Javascript, and jQuery
+3+ years of experience developing REST, SOAP, and JSON/XML
+3+ years of experience with Oracle RDBMS
+3+ years of experience with SQL/PL SQL
+3+ years of experience with Maven, JUnit, Selenium, Subversion
+Working knowledge of Agile/Scrum development
+Working knowledge with CI/CD - Jenkins
+Must be a US Citizen and able to obtain and maintain a government security clearance
+Desired Skills:
+3+ years of experience in HTML, CSS, Javascript, and jQuery
+3+ years of experience developing REST, SOAP, and JSON/XML
+3+ years of experience with Oracle RDBMS
+3+ years of experience with SQL/PL SQL
+3+ years of experience with Maven, JUnit, Selenium, Subversion
+Working knowledge of Agile/Scrum development
+Working knowledge with CI/CD - Jenkins
+Benefits
+At GreenZone, we are dedicated to obtaining and maintaining the highest level of employee satisfaction by offering a competitive benefits package that includes medical, dental and vision, short and long term disability, retirement plan and company match, a generous annual leave plan, and a commitment to providing a work/life balance for all employees.

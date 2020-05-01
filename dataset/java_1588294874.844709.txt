@@ -1,0 +1,31 @@
+Title: Sr./Application Developer (Java Full Stack Developer)
+Company: Federal Reserve Bank
+Location: San Francisco, CA
+Type: Full-Time
+
+Title: Sr./Application Developer (Java/Full Stack Developer)
+Location : San Francisco, CA
+Overview
+The Federal Reserve Bank of San Francisco is looking for an Application Developer to join the Cash Application Delivery Services (Cash ADS) team. If you consider yourself customer oriented, technical, and creative, this unique opportunity allows you to showcase your analytical, technical, and troubleshooting talents on mission-critical applications serving Cash Application Delivery Services (Cash ADS) in ITS.
+Cash ADS is a unique partnership between San Francisco and Richmond that focuses on developing and delivering applications for Cash. The application development teams include FedCash Central, FedLine Cash, SIM, FedCash Policy, FedCash Analytics, and a Shared Services support group. In the role of Application Developer, you will help us design, develop, and implement high quality technology solutions within mature environments that address business needs. You will work closely with our development team members, and our business partners.
+CASHADS uses JAVA as the foundation language, as well as Angular, J-Query, Web Services (Restful and SOAP), J2EE and other Object Oriented techniques. Runs on an Oracle RDBMS, with PL-SQL and common database objects (Functions, Procedures, Packages, Triggers, etc.) underneath. XML, JSON, and XBRL are heavily used for file transmissions and data validations. We employ an Agile development process.
+This position may require some weekend and after hour's coverage supporting application deployments, business activities, and acting as a point of escalation should severe issues be encountered.
+Skills Required:
+Bachelor's degree in Computer Science, Systems/Programming or related discipline, or equivalent experience
+At Staff level typically requires three or more years of related development experience in an enterprise environment, at Senior level, typically requires five or more years of related development experience in an enterprise environment
+At least 6 years of core Java coding skills, including an understanding of optimization, performance ramifications of coding decisions and object-oriented design
+Experience with and working knowledge of Spring, Hibernate, SQL, Angular, JUnit, J2EE, DBUnit, Maven, JAXB, JSON, XML, Micro services and log4j
+Strong acumen to learn the business functions/features that need to be delivered as part of the FedCash Suite release.
+Strong analytical and design skills, including the ability to understand the functional user stories/requirements, design, build and test
+Demonstrated knowledge of the tools: DevOps (Jenkins, Maven, Fortify, SonarQube, Nexus), RestAssured (MicroService API Test), Protractor (Frontend Test)
+Experience with Agile methodology, DevOps, ATDD
+Apache Kafka experience is a plus
+Must be a US Citizen, or a Green Card Holder with the intent to become a US Citizen.
+Job Responsibilities:
+Work as part of one of the CashADS Scaled Agile development teams on the Release Train focusing on the FedCash Central Application
+Participate in the design sessions, code reviews, testing, troubleshooting sessions
+Participate in the Scrum events such as Sprint Planning, System Demo, Daily Stand-up, Pre-Grooming and Grooming sessions, Sprint Planning, Retrospectives
+Participate in the creation and refinement of the user stories and API/UI feature files in the Gherkin format
+Develop and commit to the team SRI (Sub-Release Increment) objectives and sprint plans
+Addressing Production tickets as part of Production Support team on a rotation basis, which could mean late hours at times.
+At the Federal Reserve Bank of San Francisco we believe in the diversity of our people, ideas, and experiences and are committed to building an inclusive culture that is representative of the communities we serve.  The Federal Reserve Bank of San Francisco is an Equal Opportunity Employer.

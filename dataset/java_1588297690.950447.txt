@@ -1,0 +1,55 @@
+Title: Full Stack Java Web Developer
+Company: Cerebra Consulting Inc
+Location: San Antonio, TX
+Type: Contractor
+
+Full Stack Java Web Developer
+Primary Location:
+Plano, Texas
+V-Soft Consulting is currently seeking a
+Full Stack Java Web Developer
+for our premier client in
+Plano, Texas
+.
+This is
+a contract
+position in
+information technology
+industry.
+WHAT YOU   LL NEED:
+Education and Experience
+4+ years in REST frameworks with focus on API development
+2+ years in AGILE methodology (Scrum, Lean, SAFe, etc.)
+2+ years experience with JavaScript
+2+ years experience integrating with backend services like JMS, J2C, ORM frameworks (Hibernate, JPA, JDO, etc), JDBC.
+Ability to design and implement container based APIs using container frameworks like OpenShift, Docker, or Kubernetes.
+Relational Database design and optimization with Oracle DB2, MySQL, or PostgreSQL
+Understanding of microservices architecture design and implementation
+Working experience with Gradle, GIT, GitHUB, GITLab, etc. around continuous integration and continuous delivery infrastructure
+Cloud infrastructure application development with vendors like AWS, Google or Microsoft.
+Experience testing in REST services
+Experience in design and develop automated tests and frameworks
+WHAT YOU   LL DO:
+Job Responsibilities:
+Identifies and manages existing and emerging risks that stem from business activities and the job role.
+Ensures risks associated with business activities are effectively identified, measured, monitored, and controlled.
+Follows written risk and compliance policies and procedures for business activities.
+Design, develop, code, and test significant technical solutions collaborating with senior and lead engineers.
+Lead code/design reviews to ensure smooth daily operations and accurate planning at a team level.
+Organize work and lead team to deliver features and solutions.
+Independently resolves complex production issues and leads troubleshooting of end-to-end solutions that span multiple applications and systems.
+Mentor and coach junior engineers.
+May begin working with architecture to help influence directions for key technologies within a specific domain.
+MINIMUM REQUIREMENTS:
+Bachelor's degree in related field of study or 4 additional years of I/T experience beyond the minimum required in lieu of a degree.
+6 years of software development experience demonstrating depth of technical understanding within a specific discipline(s)/technology(s).
+Demonstrated ability to independently research technical issues and generate creative/innovative solutions.
+Required Skills : Java Developer
+Basic Qualification :
+Additional Skills :
+Candidate must be your W2 Employee :Yes
+Notes :
+Currency :
+Accepted Work Authorizations :
+Market :Atlanta
+Priority :A

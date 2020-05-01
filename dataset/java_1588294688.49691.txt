@@ -1,0 +1,32 @@
+Title: Java Developer with Hadoop
+Company: Fisec Global
+Location: Charlotte, NC
+Type: Full-Time
+
+Role: Java Developer with Hadoop
+Work Location: Charlotte, NC
+Duration: Long Term Project
+Job Requirements:
+Must have 3 to 8 years of strong experience in Java J2EE technologies.
+Solid experience in fundamentals including Data structures, Algorithms object-oriented programming.
+Extensive knowledge of Java & J2EE (including Java , JSP, EJB, JDBC, SQL, XML, HTML and associated technologies) and the use of those technologies in n-tier development environments
+Highly experienced with MVC Frameworks (Struts 1/2 and/or Spring MVC), Hibernate, Spring, Eclipse, JUnit, and Log4j
+Highly experienced with build scripts (Ant and Gradle are a plus).
+Expertise in big data technology stacks such as Hadoop, Spark, HBase.
+Experience with MapR will be an added advantage
+Expertise in building bigdata pipelines and data lakes.
+Experience in developing and delivering large scale big data pipelines, real-time systems & data warehouses would be preferred.
+Best Regards,
+Nikhil Kumar | Senior Technical Recruiter
+Fisec Global Inc
+.
+-  An E-Verified Company
+39510 Paseo Padre Pkwy Ste 360, Fremont, CA 94538
+Phone:
+302-308-4162
+Email:
+Nikhil@fisecglobal.net
+LinkedIn:
+https://www.linkedin.com/in/nikhil-kumar-1674011a4/
+Website:
+www.fisecglobal.net

@@ -1,0 +1,13 @@
+Title: Software Engineer - Java, MySQL - Sunnyvale, CA 11427
+Company: PRIMUS Global Services, Inc
+Location: Sunnyvale, CA
+Type: Full-Time
+
+We have an immediate opportunity in the Sunnyvale, CA area for a Software Engineer role.
+For this role, the responsibilities will consist of building and maintaining tools for deployment, monitoring and operations. Must develop efficient code to automate repetitive/manual tasks. Must improve our systems and applications with monitoring, analytics and ad hoc reporting along with other essential duties.
+The ideal candidate must possess experience in programming languages such as Java, Python and shell. Must be proficient in developing and managing solutions using both SQL and no-SQL databases such as Oracle, MySQL and Cassandra. Knowledge in Build Automation tools is necessary.
+For immediate consideration, please contact:
+Steffi
+PRIMUS Global Services
+972-753-6500 x240
+jobs@primusglobal.com

@@ -1,0 +1,25 @@
+Title: Java Developer
+Company: IT EBusiness Consulting Services, Inc
+Location: Dallas, TX
+Type: Full-Time
+
+Position: Java Developer
+Location:
+Dallas, TX/Phoenix, AZ
+Interview Type:
+Phone & Skype
+Visa Type:
+Only GC, Citizen, GC-EAD and NO H1B & OPT
+Duration:
+Long Term Contract
+Skills
+:
+Strong hands-on experience on Java, J2EE, REST API with Spring Framework
+Strong in Java, J2EE, Spring, SpringBoot, Hibernate etc.
+Experience with JSP, NodeJS, AngularJS, Bootstrap, etc.
+DB SQL Queries on SQL Server or Oracle
+Knowledge of HTML5 and CSS3
+Solid understanding of cross-browser/platform issues and solution(s) for responsive/adaptive scenarios
+Strong in Source code management, Branching, Merging and related Planning in GIT.
+Experienced with Version Control, Work Tracking, Code Review, Build and Deployment Systems tools
+Keen to learn about new technologies and also be ready to take a part in the building of product.

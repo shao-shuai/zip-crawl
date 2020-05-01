@@ -1,0 +1,27 @@
+Title: Java/Hadoop Developer
+Company: Radiant Digital
+Location: Vienna, VA
+Benefits: 401k
+
+Java/Hadoop Developer
+Location: Kingstowne, VA
+Job Description
+:
+As an Application Developer, you will be responsible for designing and building scalable Mircroservices using latest Open Source technologies
+Required Skills
+· Implementation of restful web services, including experience with code development, deployment, versioning, and build tools (e.g. Eclipse, Git, Gradle, Maven, Jenkins)
+· Understanding of Microservices architecture, including professional experience in the design, build, and operations of micro services in a production environment
+· Experienced with Spring (Spring Core, Spring Boot, Spring Data, Spring REST etc.); Knowledge of Swagger
+5+ years of experience in complete software development lifecycle using Agile methodologies
+5+ years of Java or Scala development experience
+· 5+ years of experience with Relational Database Systems and SQL
+· 3+ years of experience with UNIX/Linux and shell scripting
+Preferred skills and experience include:
+· Delivering solutions using Amazon Web Services (AWS EC2, RDS, S3, VPC)
+· Developing containerized applications using Docker, Openshift
+· Experience with Javascript frameworks like Angular, React and JQuery.
+Experience with at least one of the following technologies:
+o Hadoop eco system, including HDFS, YARN, Cassandra, Hive, Pig, and Spark
+Batch-oriented and streaming distributed processing methods such as Spark, Kafka, or Storm
+Distributed NoSQL/Key-Value stores such as HBase, Accumulo, Cassandra, or DynamoDB
+Distributed search engines like Elasticsearch or Solr

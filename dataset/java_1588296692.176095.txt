@@ -1,0 +1,30 @@
+Title: Senior Java Engineer
+Company: Datameer
+Location: 94103, CA
+Type: Full-Time
+
+Datameer is looking for a Senior Java Engineer!
+At Datameer, we're data nerds through and through. We're here to consistently innovate, to build the data analytics software that's always on the bleeding edge. We're here to lead the charge in this data revolution. Care to join us?
+Our mission
+Datameer's customers need to perform various business critical analytical workloads based on many large data sets on premise or in the cloud. This includes classic Data Preparation, Business Intelligence as well as ML/AI tasks. Therefore, they invest into dedicated compute resources. Our goal is to build software that enables our customers to run this analytics, leveraging their resources in the most effective way. This incorporates the integration of Datameer solutions into a larger IT ecosystem as well as the translation and execution of those analytical tasks to Spark or cloud vendor specific execution engines.
+Therefore, we need your skills.
+Helpful experience, and some buzzwords:
+* 7 years industry experience with Java and other JVM technologies
+* Experience developing distributed systems (Map Reduce, Spark, Tez, EMR)
+* Experience in building up on premise and cloud environments (AWS, Azure, GCP, Kubernetes, Yarn)
+* Experience developing with SQL and RDBMS(s)
+* Experience in benchmarking and optimizing software
+* Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse technologies and techniques
+* Strong communication and self-management skills
+* Passion for working with data analytics, with a focus on efficiency, simplicity and building high impact customer features
+* Experience with Agile development teams and excellent interpersonal skills
+About us
+We aren't your average Engineering team, that's why we're looking for somebody who likes pushing the limits of what's possible and delivering amazing features to our customers day after day. We are a fast paced, collaborative, kickass team that is always trying to find ways to blow our customer's minds. If this sounds like you, we'd love to hear from you.
+We are an agile enterprise big data platform that fuels faster, trusted data-driven insights anywhere. Datameer's advanced data preparation, exploration, and governance functionality makes it easy to transform big data into curated data sets to feed any analytics initiative. Using a hybrid architecture that spans on-premises and the cloud, Datameer helps organizations deliver new insights in days and operationalize them immediately, increasing the agility and responsiveness of the analytics that drive the business.
+Founded in 2009 by Big Data veterans, Datameer is the trusted big data platform for data-driven companies like Citibank, RBC, Optum, Aetna, Anthem, National Instruments, Vivint and so many others.
+* We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.
+**Note to Recruiters and Placement Agencies: Datameer does not accept unsolicited agency resumes. Datameer will not pay fees to any third party recruitment agency or firm in the absence of a signed agreement and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes received will be considered property of Datameer.
+*Location:* San Francisco, California
+*Department:* R&D
+*Employment Type:* Full-Time
+*Minimum Experience:* Mid-level

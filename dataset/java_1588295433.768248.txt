@@ -1,0 +1,25 @@
+Title: Software Engineer - Java & Spring Boot & Python
+Company: IntelliPro Group Inc.
+Location: 94107, CA
+Type: Full-Time
+
+Job Summary
+A social media web and mobile application company headquartered in SF, CA is looking to hire a Software Engineer. The company operates a software system designed to enable saving and discovery of information on the World Wide Web using images and, on a smaller scale, GIFs and videos. Users can upload, save, sort, and manage images—known as pins—and other media content (e.g., videos) through collections known as pinboards.
+Job Responsibility
+What you’ll do -
+Build and maintain the tools to adapt the application experience to user’s language and region
+Contribute to Mojito - the open source continuous localization platform that the app uses and helps develop
+Improve existing and build new in-house internationalization (i18n) and localization (l10n) software
+Work with international teams to help define the i18n and l10n strateg
+Skills
+What we’re looking for:
+4+ years of backend or full stack application or internal tools development experience
+Proficiency in programming language
+Java and Python
+, hands on experience with
+Spring Boot (Java and Spring Boot are required skills, Python is a BIG PLUS)
+An interest in i18n and l10n problems (i18n and l10n are NOT required)
+Bachelor's degree with at least 4
+years
+of relevant industry experience
+MAnBsUmFKU

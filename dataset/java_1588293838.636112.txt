@@ -1,0 +1,25 @@
+Title: Java Software Developer!!!
+Company: Amtec Inc.
+Location: San Jose, CA
+Type: Contractor
+
+Job Title: Java Developer with vert.x experience
+Location: San Jose, CA 95131
+Duration: 6 months - 12 months
+Need a Java Developer who has hands-on experience with Vertex Framework, Java, Spring, SQL, Linux, shell script, python. Should have an end to end knowledge of Web applications, RESTful API's and their third-party integrations. Should also have hands-on experience with ETL process, OLAP and OLTP
+Roles & Responsibilities
+Responsible for the creation of the concept, design, development, testing and maintenance of applications for reliability, security, manageability, scalability, extensibility, performance, and re-use; provides technical expertise in the areas of architecture, design, and implementation.
+Works with technical and business team members to create excellent software.
+Determines the best implementation that will meet the design of the Application Architect.
+Ensures that thorough unit and component testing is carried out.
+Sets and adheres to software coding and style guides to ensure consistency.
+Performs code reviews to ensure consistency to style standards and code quality.
+Minimum Qualifications
+1. Vertex consultant
+2. Java, Spring, SQL, Linux, shell script, python
+3. Technical attitude to understand issues and work cross-functional teams to solve problems
+4. Knowledge of end-to-end web application, RESTful APIs, Third-Party integrations.
+5. Strong knowledge of ETL process, performance tuning of SQL queries in both OLAP & OLTP environments.
+6. Perform root cause analysis for production errors, Investigate and resolve technical issues. Build tools to reduce re-occurrences of errors.
+7. Develop tools to build performance dashboards and monitoring tools using ELK, define key critical metrics for measuring system availability and reliability
+8. Design and document procedures for system troubleshooting and maintenance.

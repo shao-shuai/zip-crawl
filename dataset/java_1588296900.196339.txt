@@ -1,0 +1,6 @@
+Title: Java Archiect
+Company: Violet Ink
+Location: Pleasanton, CA
+Type: Full-Time
+
+Duties  Responsibilities Understand the requirements current state architecture of the enterprise and create roadmap for the future enhancements accordingly Create Software Architecture Document High Level and Low Level Design document Non functional requirements for the project Define Integration Design and Security Design for the Web Services and Enterprise components involved Participate in production of detailed functional design documents to match customer requirements Participate in production of technical specification for development and integration requirements Review design documents for services such as Service Design Document Service physical Document and define Service SLAs in Non functional requirements Collect and Provide estimates for the requirements Engage with client architecture group Mentor and train project team members on the Solution details for a smoother execution Ensure quality deliverables

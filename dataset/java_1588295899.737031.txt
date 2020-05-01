@@ -1,0 +1,32 @@
+Title: Senior Java Software Engineer
+Company: Boku
+Location: 94111, CA
+Type: Full-Time
+
+About Boku:
+Incorporated in 2008, Boku is one of the world's leading providers of carrier billing and mobile identity solutions. Using nothing more than a user's mobile phone, Boku's technology can verify a user's identity, execute a payment, or provision a new service, radically simplifying common, everyday mobile interactions between consumers and businesses. This is possible because Boku's platform can access the internal billing, identity, and sales systems of mobile operators globally. Businesses who utilize Boku's platform include major brands such as Apple, Google, Microsoft, Sony, Facebook, Spotify, Netflix, Paypal, Experian, Fiserv, Western Union, Uber, and Discover. Boku was originally financed through top-tier investors including Andreessen Horowitz, Benchmark, DAG Ventures, Index Ventures, Khosla Ventures, and NEA. Today, Boku is publicly traded on the AIM Market of the London Stock Exchange (AIM: BOKU.L)
+We're a small company, but we have a global reach. We work face-to-face with colleagues and collaborate across disciplines. But our clients, partners, and operations are all over the world. Boku is a busy, exciting, and demanding place to work, but it's the people that make the company. The mix of cultures, viewpoints, and experience is vital for a global company like ours and every person's contribution is valued. If you are looking for a new challenge in an exciting, innovative and international working environment, we are the ideal company for you.
+Responsibilities:
+Work hands-on with a highly skilled team of engineers
+Participate in all phases of the software development lifecycle, including design, development, testing, and release
+Build a layered, component-based, service-oriented architecture
+Meet and lead technical discussions with our existing and potential customers
+Work collaboratively and effectively with a range of stakeholders
+Be highly motivated and maintain a positive, 'can-do' attitude in a fast-moving environment
+Foster the spirit of collaboration across multiple internal and external teams
+Requirements:
+5+ years of relevant experience in Software Engineering working on high-volume and low-latency systems
+Fluent in Java and have experience with building service-oriented, database driven applications
+Strong software design and architecture skills
+Demonstrated great communication and influential skill
+Curious and love staying on top of technology trends
+Attention to detail and strong organization skills
+Meet eligibility requirements to work in the US
+Desired:
+Familiarity and experience with a wide range of programming languages and technologies
+Experience integrating with third-party web services across a variety of technologies, e.g. REST, SOAP, SMPP
+Experience with some (or all) of the following technologies/frameworks/tools: Maven, Git, MySQL, JMS, Spring, JPA/Hibernate, Jersey, JMX, Jetty, Hessian.
+Experience working with mobile carriers or mobile SMS systems
+Experience with authentication methods, sign up and login flows
+Development and design experience with messaging systems e.g. ActiveMQ, WebSphere-MQ
+Experience using agile methodologies and tools

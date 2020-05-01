@@ -1,0 +1,43 @@
+Title: Software Engineer III for Social Platform - Java
+Company: Electronic Arts
+Location: Redwood City, CA
+Type: Full-Time
+
+We Are EA
+And we make games - How cool is that? In fact, we entertain millions of people across the globe with the most amazing and immersive interactive software in the industry. But making games is not easy. That's why we employ the most creative and passionate people in the industry. Save the planet from Alien Invaders. Score the winning touchdown.
+Yup - It's the coolest job on the planet!
+The Challenge Ahead:
+Is to promote social capabilities within our games.
+We believe that people want to experience and play games with others, and that games are more fun when experienced as part of a team. We want to make it easy for players to find other players they already know and create new relationships with people they've only just begun to play with inside a game. We aim to build better recommenders for a variety of different games to recommend people to teams, friends to people, and opponents. We want to incentivize users to engage socially and create a sense of community.
+You will get to build our new cross-game, cross-platform and always on Social platform. This large-scale, collections of RESTful services will power the Social relationships, interactions of EA's network of games and capturing information to be experienced by tens of millions of monthly active users. You'll build platform capabilities handling several hundred-thousand requests per second, and driving the player engagement of many of the industries most popular titles. You can build server-side systems that provide new functionality within the larger Digital Platform, and work on regular improvements to the systems to keep them at top-notch performance.
+What aSenior Software Engineer III does within EADP Social Division at EA:
+Most of your time will be spent developing features and optimizing performance and scalability of server systems. You will also collaborate with a team of engineers to build the software design and architecture of our new systems. You will be a promoter for best practices within the engineering team.
+Responsibilities:
+Roughly 75% of your time will be spent coding.
+Create and work on large-scale distributed HTTP/TCP/GRPC-based backend service creating new features and updating existing ones
+Resolve defects during QA testing, pre-production, production and from the live environment
+Work with multiple clients working on multiple different platforms who use the services and features you create to complete user facing features
+Design portions of the software from features to entire applications
+Grow and guide fellow engineers
+Occasional off-hours support of the live environment ensuring our consumer experience is always outstanding
+Required
+Skills / Experience
+:
+A passion for working in platforms that supports gaming
+5 or more years' experience developing object-oriented software (preferably in Java)
+2+ years' experience working on online services (HTTP via REST) at internet consumer scale
+Experience working on high traffic services and scalable systems
+Can explain technical issues to varied audiences
+Experience with the Software design/architecture process
+Experience with source control systems like git or others.
+Experience with DevOps, Continuous Delivery, and Agile development
+Nice to have Skills:
+Experience building on Amazon Web Services
+Experience leading OSS technologies - Kafka, ElasticSearch, Cassandra, Docker, and Kubernetes
+Experience with Bamboo / Maven / Java 8/ RxJava/Akka
+Use of technologies such as Memcached or Redis, queuing, and NoSQL in production systems helps as does deployment automation experience, e.g. Terraform
+Domain experience promoting social services in other games or other departments (e.g. building chat systems, activity feeds, and other core social feature areas)
+What's In It For YOU? Glad You Asked!
+We are proud of the great perks we offer like comprehensive health and benefit packages, tuition reimbursement, pension with company match and, of course, free video games. And since we realize it takes outstanding people to make excellent games, we offer great compensation packages and a culture that is powered by creativity and individuality. Health, Dental, Financial offered (ESPP and RRSP matching); Bonus and relocation assistance also offered.
+More about our location: https://www.ea.com/careers/careers-overview/redwood-shores
+#LI-NS1

@@ -1,0 +1,47 @@
+Title: Junior Java Backend Engineer - San Mateo, CA
+Company: Guidewire
+Location: San Mateo, CA
+Type: Full-Time
+
+Guidewire's development team is looking for a smart, proactive, and results-oriented Junior Java Engineer to build elegant solutions for the property & casualty insurance industry's complex business domain and make our industry-leading products even better. The team is looking for an enthusiastic engineer who is passionate about building high-quality software with a great team and improving the operability and customer experience for millions of people who use our products every day.
+You will have the opportunity to make an impact by contributing to a complex application suite of products that generate over 500 million dollars of revenue annually, mission-critical to 100+ enterprises serving more than a million users. Our software supports significant data volumes and heavy server load with high availability, speedy performance, and solid security.
+Our teams are lean, empowered, and collaborative. You'll work alongside intelligent colleagues who've checked their egos at the door. We've built a strong culture, and we're looking for engineers who can help us maintain it.
+Successful software engineers at Guidewire typically have:
+A desire to work collaboratively in an empowered, small, cross-functional team
+A passion for code quality demonstrated by thorough testing
+A desire to be hands-on in designing, writing and debugging code
+Curiosity and internal motivation to constantly improve
+Ability to learn quickly in a dynamic environment
+Excellent communication skills, comfort level to speak their mind and defend ideas based on merit, yet humility and hunger to learn from others
+Knowledge of agile development practices
+Technical Requirements:
+Java coding experience
+BS in Computer Science or equivalent
+Other technical skills we appreciate but do not require:
+Database experience (e.g. MySQL, Oracle, Postgres)
+Experience with high availability, performance, and/or security
+Use of cloud services and tooling (e.g. AWS, Docker, Kubernetes, Atmos, Elastic Search)
+Experience with Junit or other testing tools
+Experience integrating open source and/or 3rd party software
+The ideal candidate would have a Computer Science degree or equivalent and will share our core values: Collegiality, Integrity, and Rationality.
+Collegiality
+- We value strong teams. We work together as professional equals. We strive to continuously improve our processes and make realistic assumptions to maintain a reasonable work-life balance. We are trusted to manage our own time. We value ideas, not titles. We welcome and consider contrary opinions.
+Integrity
+- We insist on truthful relationships with customers, prospective customers, partners, investors, and each other in everything that we do.
+Rationality
+- We communicate through clear arguments. We decide carefully based on factual evidence. We like calm, systematic, thoughtful solutions. We believe in testing. We never assume that we're building software the "best" way, and constantly seek to improve our processes.
+See and hear from our employees at
+https://careers.guidewire.com/
+About Guidewire
+Guidewire exists to deliver the industry platform that P&C insurers rely upon to adapt and succeed in a time of accelerating change-and to ensure that every customer succeeds in the journey. We provide the software, services, and partner ecosystem to enable our customers to run, differentiate, and grow their business.
+Guidewire Insurance Platform is the P&C industry platform that unifies software, services, and partner ecosystem to power our customers' business. Insurance Platform provides the standard upon which insurers can engage their customers, optimize their operations, drive smart decisions, and innovate quickly. We are privileged to serve more than 350 P&C insurers in 32 countries. We invest heavily in R&D to build a technology platform that combines three elements-core processing, data and analytics, and digital engagement-to enhance insurers' ability to engage and empower their customers and employees.
+Guidewire is a leading provider of core systems that span the insurance lifecycle - underwriting, policy administration, billing, and claims management. Guidewire delivers the software that property and casualty (P/C) insurers need to adapt and succeed in a time of rapid industry change - and to ensure that every customer succeeds in their journey.
+Guidewire InsuranceSuite is currently positioned in the Leaders quadrant in the
+"Magic Quadrant for P&C Core Platforms, North America
+.". InsuranceNow is positioned in the Challengers quadrant in the
+"Magic Quadrant for P&C Core Platforms, North America
+."
+Guidewire was honored with a Glassdoor Employees' Choice Award as One of the Best Places to Work in 2018. Guidewire is a mid-sized company, headquartered in Foster City, CA, with offices around the world. For more information, visit
+www.guidewire.com
+.
+Guidewire Software Inc. provides equal employment opportunities to all applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. All offers are contingent upon passing a criminal history and other background checks where it's applicable to the position.

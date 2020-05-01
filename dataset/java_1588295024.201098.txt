@@ -1,0 +1,21 @@
+Title: Java Full Stack Developer
+Company: Prospance Inc
+Location: San Jose, CA
+Type: Full-Time
+
+Title: Java Full Stack Developer
+Location:
+San Jose, CA
+Type:
+Contract
+Job Description:
+6+ years of Java full stack development and JavaScript application design, development, and testing experience.
+Hands on Java Programming Expertise (Core Java, J2EE)
+Hands on Building Restful Services
+Good experience with web application development including Node.js applications on top of RESTful APIs.
+Good coding knowledge of Java
+Solid knowledge of popular JS frameworks and libraries (React & Redux (preferred), AngularJS, Backbone, Underscore, etc.).
+Experience with web frontend technologies such as HTML5, CSS3, Webpack, LESS, Bootstrap, Dust.
+Regards,
+Samir
+Desk: ( 510-371-0733 & Cell : 408-741-6313

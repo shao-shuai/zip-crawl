@@ -1,0 +1,28 @@
+Title: Application Senior Developer Java/J2EE
+Company: NTT DATA, Inc.
+Location: San Leandro, CA
+Type: Full-Time
+
+Create solutions by developing, implementing, and maintaining Java based components and interfaces.
+Define site objectives by analyzing user requirements; envisioning system features and functionality.
+Design and develop user interfaces to internet/intranet applications by setting expectations and features priorities throughout development life cycle; determining design methodologies and tool sets; completing programming using languages and software products; designing and conducting tests.
+Lead the development effort of web services, Design and develop SOAP based Web services, Develop XML schema designs
+Recommend system solutions by comparing advantages and disadvantages of custom development and purchase alternatives.
+Integrate applications by designing database architecture and server scripting; studying and establishing connectivity with network systems, search engines, and information servers.
+Complete applications development by coordinating requirements, schedules, and activities; contributing to team meetings; troubleshooting development and production problems across multiple environments and operating platforms.
+Support client by developing documentation and assistance tools.
+Update job knowledge by researching new internet/intranet technologies and software products; participating in educational opportunities; reading professional publication
+Required Skillset:
+7+ years demonstrated experience in developing web applications using two or more of these technologies - Java, J2EE, Servlets, Spring, Spring MVC, Spring JDBC, IBM MQ, database interactions, and related testing tools/methodologies.
+5+ years demonstrated experience in requirement analysis and application design.
+Experience in Microservices
+Testing tools for Java, Javascript, Unit-Testing, Integration Testing, Performance Testing and Test Driven Coding practice
+Experience with Agile practice, daily Stand-Up/Scrum and accountability to the software development team
+Developed applications with good usability principles, cross-browser compatibility, web security (XSRF, cross-site scripting defense), accessibility, Markup standards, Last mile performance (minify, closure tools, sprites) and HTML document architecture.
+Experience building large multi-system, enterprise applications
+Excellent written and verbal communication skills.
+Self-driven and accountable
+Good to Have:
+Experience working on Document Databases specifically MongoDB
+Experience working on Messaging systems such as Kafka, MQ
+Experience on Event Driven Frameworks like Apache Storm, Flink

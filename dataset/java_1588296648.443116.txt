@@ -1,0 +1,26 @@
+Title: Android App/Java Developer
+Company: Britech Group, Inc
+Location: Palo Alto, CA
+Type: Full-Time
+
+This role requires deep understanding and experience of Android SDK and Java development. You will get to work with latest technology and innovations available on the market, in a very exciting and rewarding environment. As part of an experienced team with recognized experts you will work closely together to deliver world class results to our customers. The role will also include a very tight collaboration with client development team and strong social skills are essential.
+Hands on experience with implementing Android app layouts in Android Studio/Intellij and be part of technical discussions with designers. You need to be able to navigate through large codebases and maintain existing code as well as implement new features. As part of the assignment you should be able to optimize the code from a performance perspective.
+Qualifications:
+• Minimum Bachelor’s in computer science or equal
+• Minimum 4-5 years of experience in Java Development
+• Kotlin preferred
+• Proven experience in Android SDK
+• Android UI skills
+• Understanding of networking protocols, APIs and libraries
+• Knowledge of RTC technologies: audio, video, signaling and real-time networking
+• Knowledge of VoIP or other telephony and chat protocols (xmpp)
+• Experience in test automation, automation tools, and test frameworks are beneficial
+• Hands-on feature testing, working from requirements checklists and product specifications
+• Experience in Android Studio/Intellij IDE
+Personal characteristics:
+• Team player
+• Proactiveness in collaborating and execution.
+• Flexibility to switch technical context
+• Willingness to learn new methods / tools / coding languages
+• Ability to prioritize and multitask
+• Strong problem solving and critical thinking skills

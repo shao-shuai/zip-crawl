@@ -1,0 +1,20 @@
+Title: Scala Developer with Java
+Company: System Soft Technologies
+Location: Scottsdale, AZ
+Pay: $65 Hourly
+
+Requisition Id : 62643
+Client: USAA  x
+Location: Phoenix, AZ (100% Remote)
+Duration: 3 - 6 Months+
+Pay Rate: $65/hr
+We Cannot submit H1s for this need
+Required Skills:
+Scala, Java/J2EE
+Need skilled, hit the ground running candidate. Expert in Scala/Java.
+Day to Day:
+This person will be working with 2 others on the team to enhance a Data Migration from SDS to SnowFlake. They will be hands on in development with focus on Scala and Java to implement the enhancements. They need to be a very strong Developer that can mesh with a very high performing team.
+Top 3-5 Skills:
+-5+ years Scala Development. Needs to be true Senior level and able to jump in Day 1.
+-5+ years Java - Java/J2EE with latest tools.
+-Experience with enhancements for Data migrations

@@ -1,0 +1,19 @@
+Title: Java MicroServices Architect
+Company: Continental Technology Solutions Inc.
+Location: San Francisco, CA
+Type: Full-Time
+
+Job Description
+Key accountabilities
+Experience building REST and SOAP web services using Java " Experience with Web Services(JSON, REST, JAX-RS, Spring based REST services)
+Significant understanding of Microservice patterns & concepts & its application in problem solving
+Expert knowledge with a track record of solution delivery using various data integration solutions in situations requiring real time (synchronous and asynchronous) messaging, Publish/Subscribe models, Microservices patterns, Middleware, and other related methodologies in a multi-user, multi-platform, multi-tier environment
+Must have experience in Abinitio , Confluent Kafka.
+Expertise with streaming clickstream data in kafka and preferably confluent kafka
+Qualifications & Experience
+Degree / Diploma in Computer Science / Information Technology or equivalent
+10+ years of Experience in Java
+Contact Person
+Pathy
+832-742-6989
+vidhyapathy@ctsincorp.com

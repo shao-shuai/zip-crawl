@@ -1,0 +1,47 @@
+Title: Senior FS Java Developer (Vendor W-2)
+Company: Intuites Corp
+Location: Hopkins, MN
+Type: Full-Time
+
+Location:
+Columbus
+Duration:
+6-8 Month
+Description:
+US citizens, GC and EAD those authorized to work in the US are encouraged to apply.
+We are unable to sponsor H1b candidates at this time
+Senior FS Java Developer (Web Development Consultant) (8+ years of experience needed)
+IDEAL BACKGROUND: Healthcare and Optum development process background is beneficial.
+TOP REQUIREMENTS:
+a. Java
+b. Spring MVC
+c. Rest API
+- Aware of Optum Development Process and Healthcare Knowledge
+Project:
+Pathway - CCM. Pathway is the mission critical integrated care management application for Complex Care Management. It will deliver an improved user experience to approximately 2000 clinical & corporate users enabling comprehensive medical management and clinical documentation, integrated outreach, practice, and revenue cycle management to improve efficiency & effectiveness through increased quality, accuracy and completeness of data and information. We're in the phase of integration of Pathway to other systems and expansion in other markets for which we need to focus on API development. Maintenance of Pathway Admin module for data management and business process that will remove the manual steps which business operation team have to do today. Data Integration effort through technologies like KAFKA, Grafana are nice to have.
+Responsibilities:
+- Develop the User Stories from Rally in Java language.
+- Attend Scrums and part of Scrum team.
+- Guide / suggest other team members on best approaches.
+- Participate in code reviews and design sessions.
+- Act as Java API development expert for the team.
+What software tools/skills are needed to perform these daily responsibilities?
+-Eclipse, Java, J2EE etc.
+What skills/attributes are a must have?
+-JDK 1.7 / 1.8
+-J2EE ( JAX-RS , JMS , JAXB , JPA )
+-Hibernate
+-Rest API
+-Git
+-jQuery & Angular
+Nice to Have:
+-Working knowledge on any cloud platform eg. OpenShift Cloud platform.
+-Understanding of Test driven development eg. Selenium, Junit etc.
+-Good knowledge of Web development.
+-Good Problem solving skills.
+Where is the work to be performed? (Please list preferred UHG facility, if other please specify i.e. remote work, rural, etc.)
+11000 Optum Circle, Eden Prairie MN
+What are the work hours? (ex. 9am-5pm, day/night shifts, rotating shifts, etc)
+8am-5pm central
+What type of interview process is preferred? (Face to face, phone, Skype, or a combination of the three)
+Phone/Video/WebEx.

@@ -1,0 +1,33 @@
+Title: Sr. Java Developer
+Company: iTradeNetwork
+Location: Dublin, CA
+Type: Full-Time
+
+Responsibilities:
+Establish yourself as a thought leader across the organization related to scalable application architectures (Micro-services), data design, software development and coding principals and migrating legacy applications to cloud infrastructure.
+Contribute to product and technical direction by brainstorming with Architects, Data Scientists, and Business and Product Managers.
+Provide guidance to development team with planning and execution, design and architecture using agile methodologies such as Scrum.
+Apply your expertise in cloud technologies to provide direction on migration of product to cloud based implementations where appropriate.
+Lead impact assessment and decisions related to technology choices, design/architectural considerations and implementation strategy.
+Serve as subject matter expert in processes and methodologies with ability to adapt and improvise in various situations.
+Responsible for providing technical leadership and defining, developing, and evolving software in a fast paced and agile development environment using the latest software development and infrastructure.
+Lead the design efforts across the product or multiple product.
+Provide expertise in core data structures and algorithms and their practical implementation.
+Engage in technical discussions; participate in technical designs and present technical ideas through white boarding.
+Provide mentorship and help develop more junior engineers.
+Investigate and evaluate new technologies.
+As a proponent of agile development methodologies, advocate for and help educate the team in the strong, ongoing adoption of Scrum and related practices.
+Lead adoption of Test Driven Development and other XP programming techniques.
+Working with the operations team, establish Continuous Integration and Continuous Development best practices.
+Position could require moderate domestic travel.
+Skills/Qualifications:
+8+ years experience developing and supporting enterprise applications. 4+ years as a Technical Lead/Mentor 7+ years working with Java/J2EE.
+Hands-on experience in web services (REST, SOAP, OAuth etc.), using Apache Commons Suite & Maven and SQL.
+Experience with AWS or other cloud service.
+Strong knowledge in software design, data structures, and relational databases.
+Experience with Big Data / Hadoop and NoSQL databases is a big plus.
+Experienced with Agile development (Scrum).
+Experience working with SAAS enterprise applications.
+Excellent oral and written communication, listening, and problem-solving skills.
+Strong organizational and troubleshooting skills.
+Ability to work across departmental boundaries to resolve issues.

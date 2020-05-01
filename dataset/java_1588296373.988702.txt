@@ -1,0 +1,27 @@
+Title: Java Application Engineer - Direct Hire Position
+Company: Cognate Inc.
+Location: 95035, CA
+Type: Full-Time
+
+We are looking for candidates for the following direct client position. If you are interested in below position, please forward your updated resume and rate requirement. If you are not interested but know someone who might be, please feel free to forward this email.
+Job Title: Java Application Engineer
+Location: Milpitas, CA
+Duration: Full-time, Direct-Hire (Permanent)
+Responsibility
+You will be working on property and casualty insurance applications built on top of CodeObjects enterprise platform in Java.
+You will be working with the business division and product marketing to analyze the requirements and then conduct the design and implementation. We look forward seeing the candidate has a great leadership and communication skill that he/she can mentor junior engineers.
+Perform a technical analysis of the business requirements and usage
+Conduct the research, design and review
+Develop the solution following the software engineering standard
+Fix issues reported by quality assurance team, business analyst, product manager or customers.
+Mentor junior engineers for design review and code review
+Qualification
+7 years of Java software programming.
+Strong in advanced programming (e.g. object-oriented, concurrent access, modularity, scalability and etc.)
+Expert in database based web applications
+Experienced in enterprise application design: Serviced Oriented Architecture (SOA), Event Driven Architecture (EDA) and related technologies.
+Excellent analytical and problem solving skills.
+Excellent in verbal and written communication skills
+BS or MS in Computer Science
+For immediate consideration, please call 480-463-3063 or email: gorak@cognateinc.com
+Employment Type: Full time

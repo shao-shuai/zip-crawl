@@ -1,0 +1,34 @@
+Title: Backend Java Developer
+Company: PDDINC
+Location: San Francisco, CA
+Type: Full-Time
+
+Company Description
+PDDN is committed to helping our customers achieve their technology goals and will always emphasize on the success of our customers as our top priority and in building long term and productive relationships. PDDN's goal of adding the best value to its customers with a combination of right technology, right people, and right costs is achieved through experience and integrity of our consultants and our custom delivery processes.
+We Offer
+PDDN is a provider of end-to-end software solutions and IT consulting services. With integrated solutions, software development, technical services, . helps customers achieve their technology goals thereby allowing the clients to focus on their business. Our experience, combined with dedication and timeliness, ensures the best value to our customers.
+Our services include
+Technical/Software Staffing needs.
+Custom Applications.
+Project Based Solutions.
+Development/Maintenance Project.
+Job Description
+Note:- Only Locals
+Roles & Responsibilities
+Someone who is excited to re-invent and re-engineer core of ebay
+Need lead engineers with at least 8 yrs of experience working in fast aced scalable environments
+Quality mindset comes first
+Full stake teams including PD & QE
+Skills Set
+Java
+Node JS, Java Script
+Raptor
+Oracle
+Experience in building web services and application at Scala
+Experience in multiple-threaded and concurrency programming
+Knowledge in Kafka, No SQL, DBs, CI and CD
+Ability to work with remote teams
+Qualifications
+A degree in Computer Science or a similar area, And Experience in Node JS, Java Script, Knowledge in Kafka, No SQL, DBs, CI and CD .
+Additional Information
+All your information will be kept confidential according to EEO guidelines.

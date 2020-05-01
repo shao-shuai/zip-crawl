@@ -1,0 +1,42 @@
+Title: Senior Consultant - C#, Java, Middleware and RDBMS - Investment Trading - Charles River Development
+Company: State Street
+Location: San Francisco, CA
+Type: Full-Time
+
+Job Description
+The Senior Consultant will be an integral player, bringing technical expertise and direction to implementation engagement teams, helping to ensure that our clients are implementing Charles River's IMS suite properly.
+System implementations include all aspects of a consulting project, from installation of n-tier software to DR/HA design to documenting and performing technical training for the client. System integrations will involve XML messaging, Charles River web services (SOAP), ETL tools, and database techniques.
+Responsibilities:
+Manage multiple technical initiatives, potentially on multiple projects simultaneously.
+Develop with a result-driven approach while maintaining implementation schedules.
+Capable to advance to potentially be responsible for tracking project progress across junior consultants, allocating resources to projects, and mentoring new hires.
+Able to be self-motivated and self-driven.
+Work in a dynamic, fast-paced, Agile team environment.
+Requirements:
+BS/MS in Computer Science or equivalent field.
+Experience in methodology-based solution delivery and managing customers' expectations.
+Solid client interaction skills.
+Problem solving skills and ability to recognize long term solutions across multiple projects.
+Must be detail-oriented and have the ability to multi-task.
+Self-starter, able to work both independently and as part of a team.
+Excellent communication skills (verbal and written); good interpersonal skills; ability to gather and understand requirements in the financial sector.
+The ability to travel to client sites throughout the United States and Canada as well as the ability to work effectively when remote from clients. Travel of 35%-50% is typical and but may exceed that in any given year.
+Technical experience includes:
+XML and XSLT
+understanding of ERDs
+Tomcat configuration and optimization
+N-tier application architecture
+SOAP/XML and messaging software like MQ Series, Tibco, MSMQ, Sonic MQ and Open JMS
+In-depth knowledge of one of the following RDBMS: Oracle, MS SQL Server or Sybase
+Java and C# programming
+Windows and Unix (Solaris and Linux)
+knowledge of ETL Tools
+familiar with at least one SCM (Subversion or Perforce would be a plus)
+Perl
+Strong preference for:
+financial services industry experience
+previous consulting background
+ability to read/write XSD and DTDs
+extract Transform and Load tools such as Informatica
+knowledge of Design Patterns
+subversion

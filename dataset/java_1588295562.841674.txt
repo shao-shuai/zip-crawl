@@ -1,0 +1,21 @@
+Title: Java Developer
+Company: Perfict Global, Inc.
+Location: Sunnyvale, CA
+Type: Full-Time
+
+About Us:
+Perfict Global is a leading IT consulting services provider focused on providing innovative and successful business workforce solutions to Fortune 500 companies. Our trained and experienced professionals constantly strive to bring together the best technologies available to manage client's complex business and technology, participate in implementation activities and collaborate in new ways to meet client needs.
+We provide excellent benefits such as Medical, Dental, Vision ++ a fun company to work!!!
+Job description:
+Min experience of 5+ years in Java/J2EE development
+Strong architectural and solution engineering skills in API Services and messaging integrations
+Development background of services development SOAP/REST is must
+Hands on Coding is must
+Experience with  Continuous Delivery/Continuous Integration model
+Experience in Git, Maven, sbt, Bitbucket is must
+Experience with Confluence, JIRA
+Working knowledge with Agile
+Experience using tools like Postman, SOAP UI is must
+Knowledge of hosting apps in cloud Env (AWS) is must
+Sound knowledge of design pattern
+Excellent communication and presentation skills with client application development professional.

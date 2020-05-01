@@ -1,0 +1,22 @@
+Title: Java Backend Developer
+Company: Kaygen Inc.
+Location: Palo Alto, CA
+Type: Full-Time
+
+KAYGEN is an emerging leader in providing top talent for technology based staffing services. We specialize in providing high-volume contingent staffing, direct hire staffing and project based solutions to companies worldwide ranging from startups to Fortune 500 and Managed Service Providers (MSP) across a wide variety of industries
+Back-End Web Developer is responsible for managing the interchange of data between the server and the users
+Will develop server-side logic, maintenance of the central database, and ensure high performance and responsiveness to requests from the front-end
+Responsible for Integration of user-facing elements developed by a front-end developer with server-side logic
+Wil optimize the application for maximum speed and scalability
+Will be responsible for Implementation of security and data protection
+Will hold responsibilities for Design and implementation of data storage solutions
+Qualifications:
+Bachelor's degree in computer programming, computer science, or a related field
+MUST HAVE & Strong understanding of the web development cycle, programming technique and tools such
+as
+Java, Spring, Spring boot, SQL concepts and Micro-Services & Kubernetes.
+Good understanding but not required of NoSQL Db, Elastic/ Solr / Lucene, Redis Cache, Docker / Kubernetes, oAuth / SAML/ SSO,,ZUUL Gateway & Microservices, Salesforce & Salesforce, API, Kafka, RabitMQ ,JMS (Pub-Sub/ Queue), Integration Technologies, Rule Engines, HTML / CSS, React JS,JavaScript
+Implementing automated testing platforms and unit tests
+Experience working in an Agile/Scrum development process
+MUST HAVES: CoreJava, SQL, Micro-Services & Kubernetes.
+At KAYGEN, we are always looking for dynamic, talented and experienced individuals. We invite you to join our team of talented IT professionals, consulting at client locations across the globe. Our culture is team-orientated; we strive to stand by our core values of respect, honesty and integrity. Our team of experienced staffing experts will work with you to find you the best opportunity. For more information please visit us at www.kaygen.com.

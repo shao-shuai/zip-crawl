@@ -1,0 +1,11 @@
+Title: DevOps/Java
+Company: Futran Solutions
+Location: Oakland, CA
+Type: Full-Time
+
+Overview
+POSITION: DevOps/Java (6+ years)
+Good knowledge on Elastisearch
+Linux Sysadmin basics
+Java (understanding of things like Rest,Json,log4j, etc.)
+Python

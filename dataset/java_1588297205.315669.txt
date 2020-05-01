@@ -1,0 +1,24 @@
+Title: Java Software Engineer
+Company: Murtech Consulting
+Location: Murrysville, PA
+Benefits: Vision
+
+Title:  Java Software Engineer
+Location: Murrysville, PA 15668
+Mid-level Software Engineer to work in a Scrum team to develop a critical part of a new web-based and web services applications. The candidate will contribute to the design, implementation, and testing of the software as well as collaborate with other software developers. Development will be primarily performed using Java to create web services.
+Requirements:
+- Minimum of 3 years of experience developing customer facing software applications.
+- Bachelor's degree in computer science or closely related field.
+- Proficiency with object oriented design and development in Java.
+- Experience working in an Agile S/W Development environment.
+- RESTful web services
+- Concurrency and multi-threaded applications
+- Test Automation
+- Build Management & Continuous Integration (CI)
+- Source Control (Git or equivalent)
+- Scrum
+Bonus Points
+:
+- JavaScript Object Notation (JSON)
+- Test Automation using Behavioral Driven Development (BDD)
+- Messaging (RabbitMQ or equivalent)

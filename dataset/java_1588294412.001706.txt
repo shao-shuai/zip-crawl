@@ -1,0 +1,52 @@
+Title: Java Back-End Developer
+Company: Optima Global Solutions
+Location: San Jose, CA
+Type: Full-Time
+
+Optima Global Solutions Inc.is a valuable IT Services and Solution provider that customers, employees, and stakeholders feel proud to be associated with. Optima's Intelligent Automation Solutions leverage robotic process automation, intelligent data capture, and business process management best practices to streamline operations. Our IT Services practice provides organizations with highly personalized, comprehensive, U.S. based recruiting services supported by our internal onsite team of subject matter experts.
+Currently, we are hiring for the following position;
+Java Backend Developer
+Must Have Skill (Top 3 Skills to be mandatory):
+" Java, Kotlin, Go (or similar languages)
+" Spring Framework (Persistence, REST, Messaging, Integrations) such as Spring Boot
+" Restful API
+Pluses:
+" Cloud Knowledge and experience.
+" eCommerce Module
+Detailed Job Description
+As a Backend Developer, you will have the opportunity to design, build, test, maintain, and have a direct and meaningful impact on the roadmap of the digital platform. This highly innovative team situated in downtown San Jose, California. You will be responsible for design and development of backend components of highly scalable eCommerce web application.
+The Backend Developer strives to continuously improve the software delivery processes and practices and be a role model and demonstrates the company's core values of respect, honesty, integrity, diversity, inclusion and safety of others.
+We are committed to being an inclusive and transparent culture that cultivates the best software engineers, allowing them to define the future of our digital platforms. If this inspires you, apply and talk to our team!
+ROLE DESCRIPTION
+" Develop backend eCommerce web applications in cloud platform technologies
+" Collaborate with designers & product managers to iterate on the design & implementation of our product
+" Work with Engineers from the full stack to build and ship features
+" Identify and uphold engineering best practices
+" Monitor performance, watch for traffic drops related to usability problems & rectify the issues
+" Review app and feature code, and plan future API upgrades with the development team
+" Stay up-to-date on emerging technologies
+REQUIREMENTS
+" 7+ years experience developing large scale web applications using Java, Kotlin, Go (or similar languages)
+" Experience with modern libraries and tooling
+" Significant Java programming skills, data structures and Micro-services architecture and development
+" Significant experience with the Spring Framework (Persistence, REST, Messaging, Integrations) such as Spring Boot
+" Significant experience on core features of Spring such as Dependency Injection and Aspect-Oriented Programming, Spring Security etc
+" Significant knowledge of SQL Database and NoSQL Databases ( MongoDB / Cassandra )
+" Significant experience in Messaging architectures & development- MQ Series or Kafka or equivalent
+" Proven Experience in building RESTful APIs and a deep understanding of REST principles
+" Proven Experience working with Docker or similar technologies, GIT, CI/CD and writing unit/integration tests
+" Strong analytical problem solving skills and excellent written and verbal communication skills
+" Self-starter with strong initiative, quality deliverable and ability to work under pressure
+" Business-minded approach to time, costs, and deadlines
+" Demonstrated ability to work well within a team environment
+BONUS POINTS
+" Proven Experience Cloud Platforms like GCP, Azure or Pivotal Cloud Foundry
+" Familiarity with developing e-commerce application modules such as Catalog setup and Search ( Solr, ElasticSearch etc)
+" Proven Experience with Continuous integration, Continuous delivery and Continuous deployment
+" Experience architecting and building high volume, fault-tolerant, highly available, and globally distributed systems in a cloud-native environment
+" Experience with Agile development methodologies
+" Familiarity with A/B testing, monitoring, and alerting
+" Energetic, flexible, collaborative, team player and good interpersonal skills
+" A passion for keeping up-to-date with the latest cloud trends and technologies
+Interested candidates, please apply online with a detailed resume and contact information.
+Thank you.

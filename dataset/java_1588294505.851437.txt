@@ -1,0 +1,12 @@
+Title: Devops with Java
+Company: TechDigital Corporation
+Location: San Jose, CA
+Type: Full-Time
+
+Job Description:
+·         DevOps with Java
+·         Good knowledge of Elastisearch
+·         Linux
+·         Sysadmin basics
+·         Java (understanding of things like Rest, Json,log4j, etc.
+·         Python

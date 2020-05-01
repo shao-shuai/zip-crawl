@@ -1,0 +1,13 @@
+Title: Java Developer
+Company: Keylent
+Location: San Francisco, CA
+Type: Full-Time
+
+Visa status: U.S. Citizens and those authorized to work in the U.S. are encouraged to apply.
+Tax Terms: W2, 1099
+Corp-Corp or 3rd Parties: Yes
+No OPT or CPT
+Java Developer
+Spring Boot,
+Micro Services
+6+ Years Experience

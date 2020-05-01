@@ -1,0 +1,25 @@
+Title: Sr Solution Architect - Java Microservice
+Company: Client of Rarity Concepts
+Location: Brentwood, TN
+Benefits: Medical
+
+We are looking for a professional with solid hands-on experience using Spring Boot, Spring Core, Spring Cloud, Spring Integration, Hibernate, and Microservices. The candidate should be able to provide technical solutions to problems raised in a product development as well as probe the technical solutions suggested. This job also requires the candidate to play a senior role on the team by facilitating code reviews and interact effectively with senior Java teammates. It is a requirement for at least 12 years of professional experience in Java technology based application/product development with good solid understanding of Application Migration to Google Cloud platform.
+Requirements
+:
+Key Skills: Java 8, Microservices, Spring boot, Spring core, Hibernate, Google Cloud Platform Desired Skills Docker, Google Kubernetes Engine, Cloud DataFlow, Cloud Spanner, Kafka, Elastic search, Jenkins, GIT, JIRA
+12+ years of professional experience in Java technology based application/product development with good solid understanding of Application Migration to Google Cloud platform.
+Should have experience in writing & consuming REST API
+Good understanding on with NoSQL such as Cassandra, Couchbase, Realm
+Experience in Design patterns, microservices
+Experience with Kafka, streaming.
+Experience in multithreading and data structures.
+Experience working on Docker containers.
+Should be able to provide technical solutions to problems raised in a product development
+Should be able to probe the technical solutions suggested and vet the aptness of the solution from a holistic perspective
+A combination of Google certifications desired – Google Associate Cloud Engineer; Google Professional Cloud Architect
+Hands-on experience in Application Migration to Google Cloud Platform is preferred
+Need to have excellent communication skills (including English conversation skills), demonstrate excellent problem solving and critical thinking skills.
+Agile product development experience is required.
+Excellent team player with strong communication, inter-personal, presentation skills.
+Experience in working with multi-location and offshore teams
+Good understanding of US HC, especially on RCM (revenue cycle management), clinicals (medications, orders, labs, etc) will be an added advantage

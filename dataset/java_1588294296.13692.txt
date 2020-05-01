@@ -1,0 +1,15 @@
+Title: Java Developer
+Company: Confidential
+Location: San Jose, CA
+Type: Contractor
+
+We are actively looking for Java Developers with multithreading experience.
+Long Term contract in Bay Area, CA.
+Candidates local to Bay Area and willing to share graduation proof will be considered.
+Main Skills:
+Minimum of 5+ years of experience with End to End development
+Strong Multithreading experience is Must
+Strong development background developing applications using Java, Spring Boot, Hibernate, Junit
+Good analytical, problem solving and debugging skills
+Good understanding of design patterns
+Excellent interpersonal, written and oral communication skills

@@ -1,0 +1,54 @@
+Title: Software Engineer (Java)
+Company: Connexion Systems & Engineering, Inc.
+Location: Tewksbury, MA
+Benefits: Medical
+
+Title
+: Software Engineer (Java)
+Duration
+: Permanent
+Location
+: Tewksbury MA
+*NO C2C, NO RELOCATION*
+Responsibilities:
+Develops high quality application software for a variety of project assignments.
+Responsible for entire software life cycle, including requirements, design, integration, development, testing, deployment, and support.
+Works towards understanding key business processes and the applications that support them.
+Analyzes and resolves system processing problems related to information system applications.
+Works independently in a project team environment with other end users and managers.
+Trains users on usage of new and revised applications programs.
+Works closely in a team environment with personnel throughout the IS&T organization as well as other departments.
+Leverages peers and management to resolve roadblocks and completes tasks within deadlines.
+Works collaboratively with peers and customers as project needs dictate.
+Prioritizes workload and switches to higher priority tasks when needed.
+Proactively seeks challenging tasks in an effort to broaden functional and technical skills.
+Participates in customer interactions through design reviews and involvement in integration activities.
+Practices continuous self-improvement and strives to broaden applicable skill set.
+Fosters an approachable demeanor and shares technical and business knowledge with peers and junior members of the department.
+Identifies potential opportunities for new projects or solutions to enhance business processes or systems.
+Provides technical supervision of peers, associates software engineers, interns, contractors, vendors and customers.
+Mentors co-ops and associate software engineers and provides feedback on performance.
+Sets goals and meets them in a timely manner, stays focused on the task/assignment at hand, and drives them to completion.
+Reacts on minimal information regardless of the size or scope of projects and navigates in a parallel processing environment.
+Creates and champions new solutions for business processes or technical problems.
+Assumes responsibility for major areas of customer interface and acts with the customer’s interest in mind.
+Uses sound logic to analyze, identify and address root causes of complex technical and business problems.
+Continues to learn new technologies and in turn shares the knowledge with other members of IS&T.
+Understands key business processes and the applications that support them, and documents software solutions in sanctioned repositories.
+Maintains a high degree of technical competence and helps others to use state-of-the-art techniques.
+Possesses general knowledge of open source and COTS software applications in areas of relevance to business.
+Identifies and follows guidelines set forth by IS&T and integrates them in software solutions.
+Minimum Requirements:
+BS degree in Computer Science, Engineering or Applied Science
+5-10 years’ experience designing and implementing technical software solutions in a fast-paced environment.
+Capable of designing and implementing complex system designs in a highly distributed and complex environment.
+Strong programming experience in Java, ASP, .NET, SQL, database design, HTML, XML
+Team player, capable of working effectively independently or in a team.
+Able to learn and recommend new technologies as required to complete technical solutions.
+Excellent interpersonal skills to interact effectively with all levels of personnel in discussions and explanations of complex systems.
+Excellent written & verbal communications
+Additional Skills:
+Ability to present design concepts and system functions in an understandable, logical and concise manner
+Experience interfacing with ERP Systems, dashboard development, and data warehousing techniques a strong plus.
+Experience developing reusable software and software tools
+Experience with Web Services and Service Oriented Architecture (SOA)

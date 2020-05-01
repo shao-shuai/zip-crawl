@@ -1,0 +1,31 @@
+Title: Java/J2EE Full Stack Java Developer
+Company: ASK Staffing, Inc.
+Location: Plano, TX
+Type: Full-Time
+
+Job Title:
+Java/J2EE Full Stack Java Developer
+Location:
+Plano, Texas
+, US
+Job Type:               Contract
+Duration:               6 Months
+About Our Client
+: Our Client is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions – underpinned by the world’s largest delivery network – Our Client works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With approximately 425,000 people serving clients in more than 120 countries, Our Client drives innovation to improve the way the world works and lives
+Job Description:
+Java/J2EE Full stack Java Developer: Java/J2EE, Spring framework , AngularJS, RESTFUL Service, JSON, DevOps, AWS. Good understanding of Microservices architecture and Spring boot development
+Experience in Java Application development.
+Degree or specialized training is required/preferred: Bachelors
+Top Three Skills Required: Java Developer
+3+ years experience with Spring Frameworks(/Technology)
+JSP/Java script stacks – Jquery ( Angular / ReactJS – good to have).
+Experience in microservices development on Spring boot.
+J2EE technology stacks with experience in SOAP/HTTP , EJB 3.0 is preferred.
+About ASK
+: ASK Staffing is an award-winning technology and professional services recruiting firm servicing Fortune 500 organizations nationally. With 5 nationwide offices, two global delivery centers, and employees in 42 states-ASK Staffing connects people with amazing opportunities
+Reach Out To A Recruiter
+Recruiter:         Sherman Elle
+Email:
+Shermane@askstaffing.com
+Phone:
+678-250-9916

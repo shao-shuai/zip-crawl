@@ -1,0 +1,36 @@
+Title: Full Stack Java Developer Washington DC Direct hire
+Company: CSS Staffing
+Location: Reston, VA
+Type: Full-Time
+
+Location/City: VA - Reston
+Job Type: Permanent
+Category: Developer
+Full Stack Java Developer
+Washington DC
+CSS Staffing has an open position with a client in the DC area for a Senior Full Stack Java Developer. If you are a strong Senior level Java developer with an equally strong Math or Financial services background and would welcome working for a stable company that is a leader in their industry, this position may be just for you. If you want to be part of a top employer where management listens to what you have to offer, please apply online today.
+Core Responsibilities:
+* Confer with product managers, marketing staff, capital market staff, or business unit management to determine analytical or product-related needs regarding product, investment instrument, market activity, or complex transaction to be analyzed
+* Use one or more analytical tools from a suite of mathematical/application tools to perform appropriate analysis on specified product, transaction, market activity, or investment vehicle that has multiple variables affecting potential outcomes
+* Report in quantitative manner on parameters of proposed purchase, sale, marketing action, structure of transaction or market activity, or risk factors and the degree to which they could affect outcomes
+* Participate with product management, treasury, or capital markets staff in exercises to value derivatives or other complex products, or to revise models used to perform these valuations
+* Perform ad hoc analyses as needed and assist managers of specific product lines with analytical, valuation, or pricing projects
+* Collaborate with teams planning or structuring transactions to assist in credit analysis and pricing
+* Perform loss forecast analysis and reporting; perform ongoing ad hoc model development and analysis for specific clients needing high-level quantitative analysis of credit risk, product valuation, asset analysis, etc.
+* Redefine and implement the components of new risk indicators
+* Consult with the business owners, design and implement an interface to record key indicators, research industry best practices of analyzing and reporting key performance indicators
+* Design test cases and test applications for systems used for a variety of analytical, pricing, risk management or credit pricing to ensure the business needs are met and analytics are correctly implemented
+The Ideal Candidate Will Have:
+* Full-stack developer using Java, J2EE and Spring and Angular Framework
+* Experience developing web-based GUI using Spring, Hibernate, Spring Boot, Angular, Java Scripting, databases, XML and JSON
+* Experience in Web services: REST/SOAP, CSS, HTML, Oracle/SQL, Linux and Proficiency in UNIX shell scripting
+* Unit testing and automation testing experience (Cucumber, Selenium), CI/CD Tools: Jenkins
+* Proficiency in software development life cycle, Agile Scrum
+* Professional experience building, architecting and operating solutions built on clouds (AWS)
+* Experience with Microsoft office (Word, Excel, Visio and PowerPoint), Jasmine, Karma, JavaScript, CICD, GIT, JIRA, Jenkins, and relational and non-relational databases
+* Understanding of Agile methodologies
+Desired:
+* Financial Services or Mortgage experience
+Additional Information:
+* Start Date: ASAP
+* Assignment Length: Direct hire - candidates must be eligible to work in the US on a W2 basis without sponsorship or visa transfer

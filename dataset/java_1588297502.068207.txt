@@ -1,0 +1,40 @@
+Title: UI/UX portal lead with java exp
+Company: Intone Networks Inc
+Location: Myrtle Point, OR
+Type: Full-Time
+
+Job Title: UI/UX  portal lead with java exp
+Duration: 6 months+ (High possibility of Extension)
+Description:
+Primary :
+Role is Tech Lead.
+10-12 Years of experience in the design and development of Websphere Portal Applications (Websphere Portal Server 8.5 or above) with good knowledge on WAS application administration
+Very good customer interaction and communication experience
+Ability to quickly find the root cause of product issues
+Ability to quickly address the product issues
+Ability to understand customer needs and concerns along with good UI/UX skills to propose impressive solutions
+Ability to artistically propose UI design ideas
+Hands on experience in SDLC
+Experience on leading JEE Projects for more than 5 years
+Good attitude to take up and complete the coding on time with high quality
+Experience in Java/JEE/Spring/JDBC/JPA coding standards
+Spring Portlet MVC (3.2.9 and above )
+Spring DataAccess /JPA
+JQuery (3+ years of hands on )
+JavaScript
+Datatables 1.10 or above(2+ years of hands on )
+Handlebars 3 or above (2+ years of hands on )
+Bootstrap 3.2 or above(2+ years of hands on )
+AJAX
+Code version control using SVN
+Rational Application Developer 9 or above
+Maven 3 or above
+Secondary :
+JAX-WS
+REST API Design ,Development and Implementation Experience using Java
+Swagger Open API 2.0
+Grunt
+WPS - POC Resolver (Portlet to Portlet Communication)
+Jackson
+NPM
+Node JS

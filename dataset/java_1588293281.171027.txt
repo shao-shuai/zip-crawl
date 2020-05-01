@@ -1,0 +1,42 @@
+Title: Java/Hadoop Developer
+Company: MSR IT Ltd
+Location: San Francisco, CA
+Type: Contractor
+
+Position:
+Java/Hadoop Developer
+Location: San Francisco, CA
+Duration: 6+ Months Contract
+Job description:
+4+ years of Java/J2EE experience
+Built REST APIs using Spring/ Spring boot technologies
+Worked in Agile environment with Git, CICD processes
+Good in SQL and Unix
+Thorough understanding of application architecture and databases
+Can do attitude to working and contributing to the open-source technologies and tools
+Nice to have working experience on Google Cloud Platform, Presto, Druid, Superset, Docker, Kubernetes
+Minimum 4 years in Hadoop Administration of Hadoop MapReduce, PIG, HIVE, SQOOP, HBase, SPARK, Scala, Impala.
+Creates and develops cloud based architectural design solutions to implement product initiatives
+Should be able to work independently - Should have experience in trouble shooting, user support
+Experience in Git and Atlassian Tools (Jira, Confluence.)
+Knowledge of Big Data Technologies like Hive, Presto, MapReduce
+General cloud troubleshooting and debugging skills
+experience working with big data technologies (e.g. Hadoop, Spark, Presto)
+Hands-on development experience using open source big data components such as Hadoop, Hive, Presto, etc.
+In-depth knowledge of Python and Spark
+Work with cutting-edge technology like Druid, Presto, and BigQuery to fuel  dashboards.
+hands on experience with Confluent Kafka and data streaming Experience using the StreamSets Data Collector
+design test deploy operate and maintain pipelines that flow streaming and batch data
+Must have worked on the development and deployment of StreamSets pipelines within the  Cloud Experience and on premises
+Stream set data ingestion experience with DRUID
+Data collector transformation and good experience in using all origins, processors, Destination and executor
+having an extensive knowledge of all the libraries
+having experience to write custom code for the need of data collector functionality
+Druid Batch Ingestion
+Druid Real time data ingestion mechanism
+Integration with Kafka
+Tranquility
+Reading data from API and pushing to Druid
+Spec creation and data loading.
+Experienced  in developing  a fully automated continuous integration system using Git , Jenkins, GKE  and custom tools for  Python
+Ability to create Custom script in python.

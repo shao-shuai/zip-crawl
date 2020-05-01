@@ -1,0 +1,30 @@
+Title: Java Developer
+Company: Mondo
+Location: Plano, TX
+Type: Contractor
+
+Title:
+Java Developer
+Location:
+Plano, TX
+Duration:
+6-12 Month contract
+Start Date
+: Mid may - can be pushed up
+Years of experience:
+7+
+Must Haves:
+Java
+Spring Boot
+Optimization and containerization
+AWS cloud
+CICD and dockerization
+communication skills  - will be working with operations team, coordinating with them on a regular basis
+Documentation
+Day to day:
+Software Development in Java
+Communication with product
+Daily standups -- tech teams
+Write stories - process requirements
+Work with product to provide details of acceptance criterias
+Work with production deployment team

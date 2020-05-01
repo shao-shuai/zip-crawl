@@ -1,0 +1,49 @@
+Title: Senior Java Engineers/Architects
+Company: State Street Global Advisors
+Location: Redwood City, CA
+Type: Full-Time
+
+We are hiring
+Senior Java Engineers/Architects
+in
+multiple locations
+to join our teams in (Vancouver, BC CA, Redwood City, CA or New York, NY). Currenex is a market-leading technology provider offering the FX community high-performance technology and deep pools of liquidity for anonymous and disclosed trade execution.
+What you will do
+You will focus on developing core server components and
+APIs for our trading platform
+with some opportunities for
+full-stack development
+.
+You will work closely with your feature team, other dev teams, product management, QA and support through the full development lifecycle.
+You will work on challenging problems in a collaborative atmosphere and you will be supported by experienced peers and expected to write clean, maintainable, and performant code.
+What we value
+You possess excellent understanding of
+Java
+You have deep understanding of
+all stages of the development lifecycle
+You show commitment to writing clean, well-tested, code- interest in
+high performance, distributed applications
+You have excellent
+object-oriented design
+skills
+You have degree in
+Computer Science/Engineering
+or equivalent on-the-job education
+Architect
+level candidates
+must possess 10+ years
+experience demonstrating strong
+low latency Java expertise
+Engineers
+should have a minimum of
+5+ yrs
+similar experience
+Bonus points for
+Expertise writing
+high frequency trading applications
+a big plus
+Comfort working in a
+Linux
+environment
+Experience with
+high performance, distributed applications
