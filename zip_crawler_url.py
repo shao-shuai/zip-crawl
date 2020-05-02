@@ -33,7 +33,7 @@ def process_url(url, output):
 	file_name = output + '.txt'
 
 	with open(file_name, 'w', encoding='utf8') as file:
-		file.write('%s\n\n' % url)
+		file.write('%s\n\n' % ('url: '+ url))
 		for key, value in job_info.items():
 			file.write('%s: %s\n' % (key, value))
 		file.write('\n')	

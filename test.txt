@@ -1,4 +1,4 @@
-https://www.ziprecruiter.com/c/MSR-IT-Ltd/Job/Java-Hadoop-Developer/-in-San-Francisco,CA?jid=DQcb18bb95b9b8dc75e9ff573f0123c203&job_id=bb35a417b842fb07dfead7a8e18072da
+url: https://www.ziprecruiter.com/c/MSR-IT-Ltd/Job/Java-Hadoop-Developer/-in-San-Francisco,CA?jid=DQcb18bb95b9b8dc75e9ff573f0123c203&job_id=bb35a417b842fb07dfead7a8e18072da
 
 Title: Java/Hadoop Developer
 Company: MSR IT Ltd
