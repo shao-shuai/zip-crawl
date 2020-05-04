@@ -55,7 +55,8 @@ def process_article(article, keyword, directory, index, search_location, path, j
 			file.write('\n')	
 			for desc in descs:
 				file.write('%s\n' % desc)
-	else:
+	
+	if not job_location:
 		with open(file_name, 'w', encoding='utf8') as file:
 			file.write('%s\n\n' % ('url: '+ job_link))
 			for key, value in job_info.items():
@@ -76,21 +77,16 @@ def process_link(link):
 	return articles
 
 def main():
-	key_word  = sys.argv[1]
-	directory = sys.argv[2]
+	key_word = input("Please input a keyword: ")
+	directory = input("Please input a folder name: ")
+	location = input("Please input job location: ")
+	postings = input("Please input the nubmer of postings to crawl: ")
 
 	path = os.getcwd() + '/' + directory + '/'
 	if not os.path.exists(path):
 		os.mkdir(path)
 
-	try:
-		location = sys.argv[3]
-	except IndexError:
-		location = None
-
-	try:
-		postings = sys.argv[4]
-	except IndexError:
+	if not postings:
 		postings = 50
 
 	logging.info(f'You are scraping job postings with KEY WORD {key_word}')
@@ -123,3 +119,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+

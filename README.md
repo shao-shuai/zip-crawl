@@ -29,20 +29,39 @@ pip install -r requirements.txt  # install requirements
   python3 zip_crawler.py java 10
   ```
 
-- **zip_crawler_url.py** takes 2 arguments, the first is the **job link**, the second is the **filename**
+- **zip_crawler_url.py**
 
-  ```python
-  python3 zip_crawler_url.py 'https://www.ziprecruiter.com/c/MSR-IT-Ltd/Job/Java-Hadoop-Developer/-in-San-Francisco,CA?jid=DQcb18bb95b9b8dc75e9ff573f0123c203&job_id=bb35a417b842fb07dfead7a8e18072da' sample
+  ```shell
+  python3 zip_crawler_url.py 'https://www.ziprecruiter.com/c/CyberCoders/Job/Sr.-Backend-Engineer-Python-&-AWS-Azure-GCP-100-REMOTE!/-in-Redwood-City,CA?jid=DQ10301beeda6fa0a85bd8b3abddec6a60&job_id=1dc2e1fe2f8dc47041fcda53050882f4'
+  Please input saving path: ./output
+  Please input filename (with file extension): test.txt
   ```
 
-- **zip_crawler_minputs.py** takes multiple arguments, <job_location> and <number_of_postings> are optional, the deafult value is **None** and **50** respectively
+- **zip_crawler_minputs.py** - example
 
-  ```python
-  python3 zip_crawler_minputs.py <keyword> <directory name> <job_location> <number_of_postings>
+  ```shell
+  python3 zip_crawler_minputs.py 
+  Please input a keyword: python 
+  Please input a folder name: python
+  Please input job location: 
+  Please input nubmer of postings to crawl: 
   ```
 
-  ```python
-  python3 zip_crawler_minputs.py java nihao ca 5
+  ```shell
+  python3 zip_crawler_minputs.py 
+  Please input a keyword: java
+  Please input a folder name: test
+  Please input job location: 
+  Please input nubmer of postings to crawl: 9
+  ```
+
+  ```shell
+  python3 zip_crawler_minputs.py 
+  Please input a keyword: java
+  Please input a folder name: java
+  Please input job location: san francisco
+  Please input the nubmer of postings to crawl: 3
   ```
 
   
+

@@ -11,11 +11,18 @@ import logging
 
 logging.basicConfig(level = logging.INFO, format = '%(asctime)s:%(levelname)s:%(message)s')
 
-def process_url(url, output):
+def process_url(url):
 	"""
 	This function takes a url as input, and write the url and the content to a 
 	txt file
 	"""
+	path = input('Please input saving path: ')
+	if not os.path.exists(path):
+		os.mkdir(path)
+
+	filename = input('Please input filename (with file extension): ')
+	path = path + '/' + filename
+
 	response = requests.get(url).content
 	soup = BeautifulSoup(response, 'lxml')
 
@@ -30,9 +37,8 @@ def process_url(url, output):
 
 	# Write content of link to txt file
 	job_info = {**title, **company}
-	file_name = output + '.txt'
 
-	with open(file_name, 'w', encoding='utf8') as file:
+	with open(path, 'w', encoding='utf8') as file:
 		file.write('%s\n\n' % ('url: '+ url))
 		for key, value in job_info.items():
 			file.write('%s: %s\n' % (key, value))
@@ -42,9 +48,9 @@ def process_url(url, output):
 
 def main():
 
-	process_url(sys.argv[1], sys.argv[2])
+	process_url(sys.argv[1])
 
-	logging.info('Writing job infomation of %s to %s' % (sys.argv[1], (sys.argv[2] + '.txt')))
+	logging.info('Writing job infomation of %s' % (sys.argv[1]))
 
 if __name__ == "__main__":
 
