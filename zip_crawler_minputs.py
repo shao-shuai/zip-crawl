@@ -2,7 +2,6 @@ import os
 import random
 import re
 import sys
-from collections import OrderedDict
 from datetime import date, datetime, timedelta
 from time import sleep, time
 import requests
@@ -11,16 +10,13 @@ import logging
 
 logging.basicConfig(level = logging.INFO, format = '%(asctime)s:%(levelname)s:%(message)s')
 
-def process_article(article, keyword, directory, index, search_location, job_location=None, postings=50):
+def process_article(article, keyword, directory, index, search_location, path, job_location, postings):
 	"""
 	- This function takes an article as input, each article
 	is a job posting in the search result
 	- Job info including title, job description will be extracted 
 	and write to a txt file
 	"""
-	path = os.getcwd() + '/' + directory + '/'
-	if not os.path.exists(path):
-		os.mkdir(path)
 
 	title_div = article.findAll("span", {"class": "just_job_title"})
 	title = {'Title':list(title_div[0].stripped_strings)[0]}
@@ -49,7 +45,7 @@ def process_article(article, keyword, directory, index, search_location, job_loc
 				search_location + '_' + \
 				title['Title'].replace('/', ' ') + '_' + \
 				company['Company'] + '_' + \
-				company['Location'].replace(',', '') + '_' + \
+				company['Location'] + '_' + \
 				str(datetime.now().date()) + '.txt'
 
 	if job_location and job_location.lower() in company['Location'].lower():	  			
@@ -81,10 +77,12 @@ def process_link(link):
 	return articles
 
 def main():
-	start_time = time()
-
 	key_word  = sys.argv[1]
 	directory = sys.argv[2]
+
+	path = os.getcwd() + '/' + directory + '/'
+	if not os.path.exists(path):
+		os.mkdir(path)
 
 	try:
 		location = sys.argv[3]
@@ -115,19 +113,14 @@ def main():
 	for link in links:
 		articles = articles + process_link(link)
 
-	logging.info(f'The total number of articles to scrape is {len(articles)}.')
-
-	for i in range(len(articles)):
+	for index in range(len(articles)):
+		if len(os.listdir(path)) == int(postings):
+			break
 		try:
-			process_article(articles[i], key_word, directory, i, search_location, location, postings)
+			process_article(articles[index], key_word, directory, index, search_location, path, location, postings)
 		except IndexError: # IndexError happens when position no longer exists
 			pass
 		sleep(random.randint(2,6)) # Sleep random time to avoid anti-crawler
 
-	jobs = len(os.listdir('./dataset'))
-	
-	logging.info(f'Crawled {jobs} job in {time() - start_time} seconds')
-
 if __name__ == "__main__":
-
 	main()

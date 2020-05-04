@@ -1,4 +1,4 @@
-url: https://www.ziprecruiter.com/k/l/AAJlERQ6NBa-u-m9FwDWx5XGjtalbR2GWUDqPFJG05Dv70a9RkCwz5ujqlbiGwl9o6yowbZivNgK1v7fQxALItOSm0SvEvvfd4zC9rUMMbn5ACeMK63nC-ZQFp2xnW5LWxXtLvys5qEpTZ-DZpE2KQvnCI43g_QzYmBMHzMUJiELcMabWTS1-q0
+url: https://www.ziprecruiter.com/k/l/AAK1MWvLFcbohwFY15LmA9KlUChrOXQyXPp56XaRFnkHzT2UFTNlkeOHobYR1L4MO8VmDE0BbQ_Gl_CvaSunPn2arwy6w2al6TX-gPk9F5ZoP8_BHQWwPR-ZFWNez9XrE_upI7Xo2FE3Aqsq4sxqwRDuqFs044iTg0Nu3L343IfSW4_40GI-IX0
 
 Title: Backend Java Developer
 Company: IDC Technologies

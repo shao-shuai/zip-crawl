@@ -1,4 +1,4 @@
-url: https://www.ziprecruiter.com/k/l/AAJxXzJmdbb12mOLf2oazfZFFspI-z5NI5UO4l7Fw85MLnkMgqyDqsMl0b_cjbMWfeEitDNDLRYUjW7Q0ZJtrM6HZYA1q4oy14z-n0VcOzaPNi66Rwv7dhBf8DJW7ViGhh4OG1-MwkvW_of6Og30tuUjAg1s5jGlLEwAqHF50bMXSbZV55dvH3k
+url: https://www.ziprecruiter.com/k/l/AAJO1M6IrtGthoybfuXmytKdASCxF22nz0ckFfA6dRCC8-9hSBLKMTzppDew71_65x5_1wtzMexRYqHCkn3Kdu0s633Q3fRepsT0ydW-0R1ytRHho7kCBRQXAn_p4ftYBz_eGvJsfGkLWZSCGwtrfbyt2teoPwk8gskfjLgyXqqOZa05w_QoGrk
 
 Title: Java Architect/Tech Lead
 Company: Techveda Inc
