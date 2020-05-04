@@ -17,7 +17,6 @@ def process_article(article, keyword, directory, index, search_location, path, j
 	- Job info including title, job description will be extracted 
 	and write to a txt file
 	"""
-
 	title_div = article.findAll("span", {"class": "just_job_title"})
 	title = {'Title':list(title_div[0].stripped_strings)[0]}
 
