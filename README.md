@@ -35,10 +35,10 @@ pip install -r requirements.txt  # install requirements
   python3 zip_crawler_url.py 'https://www.ziprecruiter.com/c/MSR-IT-Ltd/Job/Java-Hadoop-Developer/-in-San-Francisco,CA?jid=DQcb18bb95b9b8dc75e9ff573f0123c203&job_id=bb35a417b842fb07dfead7a8e18072da' sample
   ```
 
-- **zip_crawler_minputs.py** takes multiple arguments
+- **zip_crawler_minputs.py** takes multiple arguments, <job_location> and <number_of_postings> are optional, the deafult value is **None** and **50** respectively
 
   ```python
-  python3 zip_crawler_minputs.py <keyword> <directory name> <job location> <number of postings>
+  python3 zip_crawler_minputs.py <keyword> <directory name> <job_location> <number_of_postings>
   ```
 
   ```python
