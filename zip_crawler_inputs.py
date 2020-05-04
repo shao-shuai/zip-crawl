@@ -11,7 +11,7 @@ import logging
 
 logging.basicConfig(level = logging.INFO, format = '%(asctime)s:%(levelname)s:%(message)s')
 
-def process_article(article, keyword, directory, index, location=None, postings=50):
+def process_article(article, keyword, directory, index, search_location, location=None, postings=50):
 	"""
 	- This function takes an article as input, each article
 	is a job posting in the search result
@@ -46,6 +46,7 @@ def process_article(article, keyword, directory, index, location=None, postings=
 
 	file_name = path + "{:010d}".format(index) + '_' + \
 									   keyword + '_' + \
+							   search_location + '_' + \
 			  title['Title'].replace('/', ' ') + '_' + \
 			  				company['Company'] + '_' + \
 		  company['Location'].replace(',', '') + '_' + \
@@ -97,7 +98,17 @@ def main():
 
 	logging.info(f'You are scraping job postings with KEY WORD {key_word}')
 
-	links = ('https://www.ziprecruiter.com/Jobs/' + str(key_word) + '/' + str(page) for page in range(1, 26))
+	base_url = 'https://www.ziprecruiter.com/'
+
+	pattern = re.compile(r'https?://(www\.)?(\w+)(\.\w+)')
+
+	match = pattern.match(base_url)
+
+	search_location = match[2]
+
+	links = (base_url + 'Jobs/' + \
+			str(key_word) + '/' + \
+			str(page) for page in range(1, 26))
 
 	articles = []
 
@@ -108,7 +119,7 @@ def main():
 
 	for i in range(len(articles)):
 		try:
-			process_article(articles[i], key_word, directory, i, location, postings)
+			process_article(articles[i], key_word, directory, i, search_location, location, postings)
 		except IndexError: # IndexError happens when position no longer exists
 			pass
 		sleep(random.randint(2,6)) # Sleep random time to avoid anti-crawler
