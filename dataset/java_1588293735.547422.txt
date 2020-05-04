@@ -1,6 +1,0 @@
-Title: Sr. Java Engineer
-Company: Robert Half
-Location: Palo Alto, CA
-Type: Full-Time
-
-•Proven experience designing and implementing high-performance, horizontally scalable, server-side distributed systems in Java•Technical excellence in Java technologies and exposure to J2EE•Deep familiarity with design patterns & multi-threaded programming•Working knowledge of internet technologies (TCP/IP, HTTP, HTML, CSS, XML, JavaScript)•Knowledge of service-oriented designs and techniques (web services, REST, JSON)•Ability to perform clean RESTful API design and understand the impact of the design on client side application codePlease send resumes to Trupti Deshpande.

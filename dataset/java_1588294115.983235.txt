@@ -1,9 +1,0 @@
-Title: Java Developer
-Company: MSR IT Ltd
-Location: Sunnyvale, CA
-Type: Full-Time
-
-Role: Java Developer
-Location: Sunnyvale, CA
-Duration: Contract
-Client is looking for strong backend java developer.

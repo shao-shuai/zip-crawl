@@ -1,9 +1,0 @@
-Title: Java Backend Developer
-Company: TechDigital Corporation
-Location: Sunnyvale, CA
-Type: Full-Time
-
-Experience in Core Java, Multi-threading, Spring MVC and SpringBoot framework (must)
-3. Experience in front end development using Javascript, CSS, HTML5, ReactJs/AngularJS etc (optional)
-4. Good with unit testing skills using TestNG or JUnit framework.
-5. Experience building or working with RESTful web services via JSON or XML (must)
