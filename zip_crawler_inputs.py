@@ -11,7 +11,7 @@ import logging
 
 logging.basicConfig(level = logging.INFO, format = '%(asctime)s:%(levelname)s:%(message)s')
 
-def process_article(article, keyword, directory, index, search_location, location=None, postings=50):
+def process_article(article, keyword, directory, index, search_location, job_location=None, postings=50):
 	"""
 	- This function takes an article as input, each article
 	is a job posting in the search result
@@ -45,14 +45,14 @@ def process_article(article, keyword, directory, index, search_location, locatio
 	job_info = {**title, **company, **job_type_dict}
 
 	file_name = path + "{:010d}".format(index) + '_' + \
-									   keyword + '_' + \
-							   search_location + '_' + \
-			  title['Title'].replace('/', ' ') + '_' + \
-			  				company['Company'] + '_' + \
-		  company['Location'].replace(',', '') + '_' + \
-		  			str(datetime.now().date()) + '.txt'
+				keyword + '_' + \
+				search_location + '_' + \
+				title['Title'].replace('/', ' ') + '_' + \
+				company['Company'] + '_' + \
+				company['Location'].replace(',', '') + '_' + \
+				str(datetime.now().date()) + '.txt'
 
-	if location and location.lower() in company['Location'].lower():	  			
+	if job_location and job_location.lower() in company['Location'].lower():	  			
 		with open(file_name, 'w', encoding='utf8') as file:
 			file.write('%s\n\n' % ('url: '+ job_link))
 			for key, value in job_info.items():
